@@ -1,0 +1,64 @@
+{
+  "name": "react-firebase-material-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "prod": "REACT_APP_BACKEND=prod react-scripts start",
+    "dev": "REACT_APP_BACKEND=dev react-scripts start",
+    "local": "firebase emulators:start & sleep 10 && REACT_APP_BACKEND=local react-scripts start",
+    "build": "CI=true react-scripts build",
+    "test": "CI=true react-scripts test --testPathIgnorePatterns=.*.visual.test.js$",
+    "visual": "CI=true react-scripts test visual.test.js --reporters default differencify-jest-reporter"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "@firebase/testing": "^0.16.7",
+    "@material-ui/core": "^4.9.0",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/lab": "^4.0.0-alpha.40",
+    "@material-ui/pickers": "^3.2.10",
+    "differencify": "^1.5.4",
+    "differencify-jest-reporter": "^0.0.3",
+    "firebase": "^6.2.4",
+    "firebase-tools": "^7.12.1",
+    "husky": "^4.2.3",
+    "i18next": "^19.1.0",
+    "i18next-browser-languagedetector": "^4.0.1",
+    "lint-staged": "^10.0.7",
+    "lodash": "^4.17.15",
+    "prettier": "^2.0.2",
+    "query-string": "^6.10.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-firebase-hooks": "^2.1.1",
+    "react-i18next": "^11.3.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.3.0",
+    "react-toastify": "^5.5.0"
+  }
+}

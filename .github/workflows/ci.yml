@@ -1,0 +1,48 @@
+name: Continuous Integration
+on: [push]
+env:
+  CI: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v2
+    - name: Setup Node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '12.x'
+    - name: Install
+      run: yarn install
+    - name: Build
+      run: yarn build
+    - name: Non Visual Tests
+      run: yarn test
+    - name: Visual Tests
+      uses: ./
+      with:
+        args: '"yarn local & sleep 120 && yarn visual"'
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@master
+      with:
+        name: build
+        path: build
+
+  deploy:
+    runs-on: ubuntu-latest
+    if: contains(github.ref, 'master')
+    needs: build
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+      - name: Download Artifacts
+        uses: actions/download-artifact@master
+        with:
+          name: build
+      - name: Deploy to Firebase
+        uses: w9jds/firebase-action@master
+        with:
+          args: deploy
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}

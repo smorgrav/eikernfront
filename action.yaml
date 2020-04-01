@@ -1,0 +1,5 @@
+name: 'FireNode Puppets'
+description: 'A Node JS image with firebase emulators and puppeteers included'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
