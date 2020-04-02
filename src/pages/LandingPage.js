@@ -27,11 +27,13 @@ const LandingPage = () => {
   const drawer = useContext(DrawerContext);
   const theme = useContext(ThemeContext);
   const [show, setShow] = useState("na");
-  const [value, loading, error] = useCollection(firebase.db.collection("test"));
+  const [value, loading, error] = useCollection(
+    firebase.firestore.collection("test")
+  );
   const { t } = useTranslation();
 
   const addDoc = () => {
-    firebase.db
+    firebase.firestore
       .collection("test")
       .doc("2")
       .set({
