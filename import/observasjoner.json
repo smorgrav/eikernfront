@@ -1,0 +1,1441 @@
+json_object('plante', Plante, 'date', Dag, 'gpsost', GPS_ost, 'gpsnord', GPS_nord, 'comment', Kommentar)
+{"date": "2013-02-23", "gpsost": 215808, "plante": 39, "comment": "Holtøya sør,fjellvegg mot Eikern", "gpsnord": 6620948}
+{"date": "2013-02-23", "gpsost": 215808, "plante": 41, "comment": "Holtøya sør, fjellveggen mot Eikern.", "gpsnord": 6620948}
+{"date": "2013-02-24", "gpsost": 214964, "plante": 40, "comment": "Gislerudberga mot Eikern", "gpsnord": 6621735}
+{"date": "2013-02-23", "gpsost": 215782, "plante": 14, "comment": "Holtøya bukta i sør", "gpsnord": 6621020}
+{"date": "2013-03-06", "gpsost": 215000, "plante": 43, "comment": "Nedre Hakavik, tomt", "gpsnord": 6621245}
+{"date": "2013-03-07", "gpsost": 215000, "plante": 45, "comment": "Nedre Hakavik, tomt", "gpsnord": 6621245}
+{"date": "2013-03-06", "gpsost": 215056, "plante": 13, "comment": "Nedre Hakavik, tomt", "gpsnord": 5521203}
+{"date": "2013-03-07", "gpsost": 214879, "plante": 46, "comment": "Nedre Hakavik.", "gpsnord": 6621029}
+{"date": "2013-03-07", "gpsost": 214693, "plante": 14, "comment": "Øvre Hakavik", "gpsnord": 6620900}
+{"date": "2013-03-07", "gpsost": 214827, "plante": 12, "comment": "Nedre Hakavik", "gpsnord": 6621076}
+{"date": "2013-03-07", "gpsost": 214891, "plante": 11, "comment": "Nedre Hakavik", "gpsnord": 6621158}
+{"date": "2013-03-07", "gpsost": 215000, "plante": 42, "comment": "Nedre Hakavik, tomt", "gpsnord": 6621245}
+{"date": "2013-03-07", "gpsost": 215000, "plante": 44, "comment": "Nedre Hakavik, tomt", "gpsnord": 6621245}
+{"date": "2013-03-07", "gpsost": 215021, "plante": 10, "comment": "Nedre Hakavik, tomt", "gpsnord": 6621240}
+{"date": "2013-03-07", "gpsost": 215613, "plante": 36, "comment": "Holtøya, berga midt på mot Hakavik", "gpsnord": 6621249}
+{"date": "2013-03-07", "gpsost": 215620, "plante": 47, "comment": "Holtøya, berga midt på mot Hakavik", "gpsnord": 6621239}
+{"date": "2013-03-08", "gpsost": 215039, "plante": 48, "comment": "Nedre Hakavik, tomt", "gpsnord": 6621195}
+{"date": "2013-03-07", "gpsost": 215611, "plante": 49, "comment": "Holtøya, berga midt på mot Hakavik.", "gpsnord": 6621249}
+{"date": "2013-03-07", "gpsost": 215807, "plante": 50, "comment": "Holtøya sør, bratte berga mot Hakavik.", "gpsnord": 6620947}
+{"date": "2013-03-21", "gpsost": 215649, "plante": 51, "comment": "Holtøya, midtberga mot Hakavik.", "gpsnord": 6621249}
+{"date": "2013-03-10", "gpsost": 215649, "plante": 52, "comment": "Holtøya, berga midt på mot Hakavik.", "gpsnord": 6621249}
+{"date": "2013-03-23", "gpsost": 215709, "plante": 53, "comment": "Holtøya, badeberga midt på mot Hakavik", "gpsnord": 6621106}
+{"date": "2013-03-23", "gpsost": 215709, "plante": 54, "comment": "Holtøya, badeberga midt på mot Hakavik", "gpsnord": 6621106}
+{"date": "2013-03-23", "gpsost": 215709, "plante": 55, "comment": "Holtøya, badeberga midt på mot Hakavik", "gpsnord": 6621106}
+{"date": "2013-03-28", "gpsost": 215005, "plante": 56, "comment": "Pumpehuset Gislerud", "gpsnord": 6621548}
+{"date": "2013-03-28", "gpsost": 214993, "plante": 57, "comment": "Pumpehuset Gislerud", "gpsnord": 6621511}
+{"date": "2013-03-28", "gpsost": 214993, "plante": 59, "comment": "Sør for pumpehus, Gislerud", "gpsnord": 6621511}
+{"date": "2013-03-23", "gpsost": 215834, "plante": 60, "comment": "Sørenden av Holtøya", "gpsnord": 6620931}
+{"date": "2013-03-23", "gpsost": 215039, "plante": 61, "comment": "Nedre Hakavik, tomt.", "gpsnord": 6621195}
+{"date": "2013-03-31", "gpsost": 215830, "plante": 62, "comment": "Sørspissen av Holtøya.", "gpsnord": 6620931}
+{"date": "2013-03-24", "gpsost": 215834, "plante": 63, "comment": "Sørspissen av Holtøya.", "gpsnord": 6620931}
+{"date": "2013-03-24", "gpsost": 215403, "plante": 64, "comment": "Ved Kraftverket", "gpsnord": 6620543}
+{"date": "2013-03-24", "gpsost": 215012, "plante": 65, "comment": "Nedre Hakavik, tomt", "gpsnord": 6621222}
+{"date": "2013-03-24", "gpsost": 215011, "plante": 34, "comment": "På plenen på tomta.", "gpsnord": 6621213}
+{"date": "2013-04-08", "gpsost": 215024, "plante": 66, "comment": "Nedre Hakavik, tomt. På hellene rundt huset.", "gpsnord": 6621205}
+{"date": "2013-04-08", "gpsost": 215910, "plante": 67, "comment": "Vestsida av Holtøya.", "gpsnord": 6621060}
+{"date": "2013-03-24", "gpsost": 215834, "plante": 68, "comment": "Sørspissen av Holtøya.", "gpsnord": 6620931}
+{"date": "2013-03-24", "gpsost": 215834, "plante": 70, "comment": "Sørøstspissen av Holtøya.", "gpsnord": 6620931}
+{"date": "2013-04-14", "gpsost": 215020, "plante": 71, "comment": "Hustaket nr. 955", "gpsnord": 6621222}
+{"date": "2013-04-14", "gpsost": 215234, "plante": 74, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-14", "gpsost": 215235, "plante": 75, "comment": "Berga mot Eikern i Nedre Hakavik.", "gpsnord": 6620958}
+{"date": "2013-04-14", "gpsost": 215237, "plante": 73, "comment": "Berga mot Eikern i Nedre Hakavik.", "gpsnord": 6620976}
+{"date": "2013-04-14", "gpsost": 662097, "plante": 33, "comment": "Berga mot Eikern i Nedre Hakavik.", "gpsnord": 6620976}
+{"date": "2013-04-15", "gpsost": 215055, "plante": 1, "comment": "Nedre Hakavik på tomta.", "gpsnord": 6622195}
+{"date": "2013-04-05", "gpsost": 215066, "plante": 3, "comment": "Nedre Hakavik i veikanten.", "gpsnord": 6621108}
+{"date": "2013-04-15", "gpsost": 215134, "plante": 35, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-14", "gpsost": 215232, "plante": 76, "comment": "Nedre Hakavik, berga mot Eikern.", "gpsnord": 6620964}
+{"date": "2013-04-15", "gpsost": 215134, "plante": 78, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-15", "gpsost": 215134, "plante": 79, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-15", "gpsost": 215134, "plante": 80, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-15", "gpsost": 215139, "plante": 81, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620993}
+{"date": "2013-03-23", "gpsost": 215134, "plante": 82, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-17", "gpsost": 215232, "plante": 84, "comment": "Nedre Hakvik, berga mot Eikern", "gpsnord": 6620964}
+{"date": "2013-04-15", "gpsost": 215231, "plante": 85, "comment": "Nedre Hakavik, berga mot Eikern", "gpsnord": 6620976}
+{"date": "2013-04-17", "gpsost": 215232, "plante": 83, "comment": "Nedre Hakavik, berga mot Eikern", "gpsnord": 6620964}
+{"date": "2013-04-15", "gpsost": 215134, "plante": 86, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-21", "gpsost": 215232, "plante": 87, "comment": "Nedre Hakavik, berga mot Eikern.", "gpsnord": 6620956}
+{"date": "2013-04-15", "gpsost": 215134, "plante": 88, "comment": "Nedre Hakavik, veikanten mot Kontorbakken.", "gpsnord": 6620994}
+{"date": "2013-04-21", "gpsost": 215072, "plante": 4, "comment": "Nedre Hakavik, Kraftlinna.", "gpsnord": 6621205}
+{"date": "2013-04-25", "gpsost": 215089, "plante": 5, "comment": "Nedre Hakavik, gjengrodd beite mot Eikern.", "gpsnord": 6621187}
+{"date": "2013-04-25", "gpsost": 215005, "plante": 559, "comment": "Nedre Hakavik", "gpsnord": 6621265}
+{"date": "2013-04-25", "gpsost": 215196, "plante": 91, "comment": "Nedre Hakavik, berga mot Eikern.", "gpsnord": 6620969}
+{"date": "2013-04-27", "gpsost": 215047, "plante": 6, "comment": "Nedre Hakavik, tomt.", "gpsnord": 6621199}
+{"date": "2013-04-28", "gpsost": 215234, "plante": 92, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6620964}
+{"date": "2013-04-28", "gpsost": 215003, "plante": 93, "comment": "Gislerud, 50m nord for pumpehuset.", "gpsnord": 6621670}
+{"date": "2013-04-28", "gpsost": 214565, "plante": 16, "comment": "Bogen nord mot Eikern.", "gpsnord": 6622091}
+{"date": "2013-04-28", "gpsost": 214565, "plante": 15, "comment": "Sørbogen mot Eikern", "gpsnord": 6622091}
+{"date": "2013-04-28", "gpsost": 214744, "plante": 94, "comment": "Boglandet mot Gislerud.", "gpsnord": 6622251}
+{"date": "2013-04-28", "gpsost": 214739, "plante": 95, "comment": "Boglandet mot Gislerud.", "gpsnord": 6622258}
+{"date": "2013-05-01", "gpsost": 215378, "plante": 2, "comment": "Kraftverket, mai 2013", "gpsnord": 6620568}
+{"date": "2013-05-01", "gpsost": 215372, "plante": 23, "comment": "Kraftverket, mai 2013", "gpsnord": 6620590}
+{"date": "2013-05-01", "gpsost": 215234, "plante": 97, "comment": "Nedre Hakavik, ved Eikern.", "gpsnord": 6620964}
+{"date": "2013-04-28", "gpsost": 214752, "plante": 98, "comment": "Boglandet mot Eikern.", "gpsnord": 6622256}
+{"date": "2013-05-08", "gpsost": 215034, "plante": 99, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621224}
+{"date": "2013-05-08", "gpsost": 215021, "plante": 77, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621240}
+{"date": "2013-05-08", "gpsost": 215055, "plante": 96, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621222}
+{"date": "2013-05-08", "gpsost": 215052, "plante": 100, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621212}
+{"date": "2013-05-08", "gpsost": 215044, "plante": 101, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621194}
+{"date": "2013-05-08", "gpsost": 215444, "plante": 19, "comment": "Holtetveien ved rørgata.", "gpsnord": 6620390}
+{"date": "2013-05-08", "gpsost": 215885, "plante": 102, "comment": "Holtet", "gpsnord": 6620153}
+{"date": "2013-05-09", "gpsost": 215608, "plante": 103, "comment": "Kraftverket, mai 2013.", "gpsnord": 6620283}
+{"date": "2013-05-08", "gpsost": 215053, "plante": 104, "comment": "Lausprett,Nedre Hakavik.", "gpsnord": 6621196}
+{"date": "2013-05-09", "gpsost": 215097, "plante": 105, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621245}
+{"date": "2013-05-09", "gpsost": 215425, "plante": 106, "comment": "Kraftverket ved Holtetveien.", "gpsnord": 6620432}
+{"date": "2013-05-09", "gpsost": 215414, "plante": 107, "comment": "Kraftverket på Holtetveien.", "gpsnord": 6620434}
+{"date": "2013-05-09", "gpsost": 215487, "plante": 17, "comment": "Kraftverket, på Holtetveien.", "gpsnord": 6620395}
+{"date": "2013-05-09", "gpsost": 215487, "plante": 27, "comment": "Kraftverket på Holtetveien.", "gpsnord": 6620395}
+{"date": "2013-05-09", "gpsost": 214976, "plante": 109, "comment": "Nedre Hakavik.", "gpsnord": 6621210}
+{"date": "2013-05-09", "gpsost": 214976, "plante": 108, "comment": "Nedre Hakavik, Mai 2013.", "gpsnord": 6621210}
+{"date": "2013-05-10", "gpsost": 211156, "plante": 112, "comment": "Store Fiskelausen, mai 2013", "gpsnord": 6620100}
+{"date": "2013-05-10", "gpsost": 211156, "plante": 111, "comment": "Store Fisklausen, mai 2013.", "gpsnord": 6620100}
+{"date": "2013-05-10", "gpsost": 212154, "plante": 113, "comment": "Holmtjern.", "gpsnord": 6621565}
+{"date": "2013-05-10", "gpsost": 211156, "plante": 110, "comment": "Store Fiskelausen.", "gpsnord": 6620100}
+{"date": "2013-05-10", "gpsost": 215024, "plante": 9, "comment": "Nedre Hakavik, tomta.", "gpsnord": 6621205}
+{"date": "2013-05-11", "gpsost": 215024, "plante": 8, "comment": "Nedre Hakavik.", "gpsnord": 6621205}
+{"date": "2013-05-02", "gpsost": 214797, "plante": 114, "comment": "Nedre Hakavik, opp for saga.", "gpsnord": 6621420}
+{"date": "2013-05-13", "gpsost": 214947, "plante": 115, "comment": "Nedre Hakavik, elva under saga.", "gpsnord": 6621352}
+{"date": "2013-05-08", "gpsost": 214968, "plante": 89, "comment": "Nedre Hakavik", "gpsnord": 6621294}
+{"date": "2013-05-08", "gpsost": 215444, "plante": 116, "comment": "Kraftverket.", "gpsnord": 6620390}
+{"date": "2013-05-08", "gpsost": 215036, "plante": 118, "comment": "Nedre Hakavik.", "gpsnord": 6621199}
+{"date": "2013-05-12", "gpsost": 215002, "plante": 122, "comment": "Nedre Hakavik ved hekken mot veien.", "gpsnord": 6621224}
+{"date": "2013-05-12", "gpsost": 213390, "plante": 121, "comment": "Santhansfoss", "gpsnord": 6621571}
+{"date": "2013-05-09", "gpsost": 212583, "plante": 119, "comment": "Toppen av Kavlebakk.", "gpsnord": 6621609}
+{"date": "2013-05-09", "gpsost": 211156, "plante": 120, "comment": "Mellom Fiskelausen og Burvannet.", "gpsnord": 6620100}
+{"date": "2013-05-20", "gpsost": 215024, "plante": 38, "comment": "Nedre Hakavik, plenen under kastanjen.", "gpsnord": 6621190}
+{"date": "2013-05-20", "gpsost": 215026, "plante": 123, "comment": "Nedre Hakavik på heller.", "gpsnord": 6621217}
+{"date": "2013-05-20", "gpsost": 215028, "plante": 124, "comment": "Plenen Nedre Hakavik.", "gpsnord": 6621218}
+{"date": "2013-05-20", "gpsost": 215040, "plante": 125, "comment": "Nedre Hakavik.", "gpsnord": 6621193}
+{"date": "2013-05-20", "gpsost": 215012, "plante": 126, "comment": "Nedre Hakavik.", "gpsnord": 6621212}
+{"date": "2013-05-20", "gpsost": 215052, "plante": 100, "comment": "Blomstring.", "gpsnord": 6625012}
+{"date": "2013-05-20", "gpsost": 215044, "plante": 127, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621192}
+{"date": "2013-05-20", "gpsost": 215028, "plante": 128, "comment": "Lausprett, Nedre Hakavik.", "gpsnord": 6621230}
+{"date": "2013-05-20", "gpsost": 215098, "plante": 129, "comment": "Lausprett, Nedre Hakavik ved Eikern.", "gpsnord": 6621242}
+{"date": "2013-05-20", "gpsost": 214497, "plante": 130, "comment": "Bogen", "gpsnord": 6622047}
+{"date": "2013-05-21", "gpsost": 216112, "plante": 131, "comment": "Lausprett i Nedre Holtet.", "gpsnord": 6619924}
+{"date": "2013-05-21", "gpsost": 215965, "plante": 132, "comment": "Rett etter lausprett.", "gpsnord": 6620094}
+{"date": "2013-05-21", "gpsost": 214939, "plante": 133, "comment": "Blomstring ved elva.", "gpsnord": 6621359}
+{"date": "2013-05-21", "gpsost": 214695, "plante": 134, "comment": "Blomstring.", "gpsnord": 6621304}
+{"date": "2013-05-21", "gpsost": 214815, "plante": 135, "comment": "Blomstring på motorbanen.", "gpsnord": 6621312}
+{"date": "2013-05-21", "gpsost": 215040, "plante": 136, "comment": "Blomstring i Nedre Hakavik.", "gpsnord": 6621216}
+{"date": "2013-05-21", "gpsost": 214958, "plante": 137, "comment": "Lausprett ved brua.", "gpsnord": 6621290}
+{"date": "2013-05-21", "gpsost": 214680, "plante": 140, "comment": "Holtungen.", "gpsnord": 6621302}
+{"date": "2013-05-21", "gpsost": 214680, "plante": 138, "comment": "Holtungen.", "gpsnord": 6621302}
+{"date": "2013-05-21", "gpsost": 214680, "plante": 139, "comment": "Holtungen.", "gpsnord": 6621302}
+{"date": "2013-05-20", "gpsost": 214763, "plante": 141, "comment": "Motorbanen.", "gpsnord": 6621286}
+{"date": "2013-05-22", "gpsost": 214816, "plante": 142, "comment": "På ospekvist ved Saga.", "gpsnord": 6621405}
+{"date": "2013-05-22", "gpsost": 215089, "plante": 143, "comment": "Nedre Hakavik.", "gpsnord": 6621047}
+{"date": "2013-05-12", "gpsost": 211695, "plante": 529, "comment": "Flåtjern", "gpsnord": 6620952}
+{"date": "2013-05-24", "gpsost": 213816, "plante": 145, "comment": "Motorbanen.", "gpsnord": 6621345}
+{"date": "2013-05-24", "gpsost": 213816, "plante": 146, "comment": "Motorbanen.", "gpsnord": 6621345}
+{"date": "2013-05-24", "gpsost": 214680, "plante": 149, "comment": "Nedre Hakavik.", "gpsnord": 6621302}
+{"date": "2013-05-24", "gpsost": 215023, "plante": 147, "comment": "Mellom heller på tomta.", "gpsnord": 6621204}
+{"date": "2013-05-24", "gpsost": 215023, "plante": 7, "comment": "Mellom heller på tomta.", "gpsnord": 6621204}
+{"date": "2013-05-24", "gpsost": 215060, "plante": 148, "comment": "Nedre Hakavik.", "gpsnord": 6621198}
+{"date": "2013-05-24", "gpsost": 215010, "plante": 150, "comment": "Nedre Hakavik.", "gpsnord": 6621232}
+{"date": "2013-05-25", "gpsost": 214374, "plante": 154, "comment": "Holtungen.", "gpsnord": 6621346}
+{"date": "2013-05-25", "gpsost": 214373, "plante": 155, "comment": "Holtungen", "gpsnord": 6621357}
+{"date": "2013-05-25", "gpsost": 215379, "plante": 158, "comment": "Kraftverket.", "gpsnord": 6620578}
+{"date": "2013-05-25", "gpsost": 215395, "plante": 159, "comment": "Kraftverket.", "gpsnord": 6620579}
+{"date": "2013-05-25", "gpsost": 214989, "plante": 151, "comment": "Nedre Hakavik", "gpsnord": 6621238}
+{"date": "2013-05-25", "gpsost": 215383, "plante": 160, "comment": "Kraftverket.", "gpsnord": 6620570}
+{"date": "2013-05-25", "gpsost": 214986, "plante": 153, "comment": "Nedre Hakavik", "gpsnord": 6621243}
+{"date": "2013-05-25", "gpsost": 215383, "plante": 157, "comment": "Kraftverket.", "gpsnord": 6620570}
+{"date": "2013-05-25", "gpsost": 214369, "plante": 156, "comment": "Holtungen.", "gpsnord": 6621245}
+{"date": "2013-05-01", "gpsost": 215372, "plante": 21, "comment": "Kraftverket, mai 2013.", "gpsnord": 6620590}
+{"date": "2013-05-01", "gpsost": 211183, "plante": 22, "comment": "Sporer, Nedre Hakavik.", "gpsnord": 6625031}
+{"date": "2013-05-26", "gpsost": 213724, "plante": 20, "comment": "Myr ovafor Bjønnestillinga.", "gpsnord": 6620651}
+{"date": "2013-05-26", "gpsost": 213724, "plante": 161, "comment": "Myrdraget over Bjønnestillinga.", "gpsnord": 6620651}
+{"date": "2013-05-26", "gpsost": 214367, "plante": 162, "comment": "Holtungen, mai 2013.", "gpsnord": 6621307}
+{"date": "2013-05-26", "gpsost": 214373, "plante": 163, "comment": "Holtungen.", "gpsnord": 6622147}
+{"date": "2013-05-27", "gpsost": 215020, "plante": 164, "comment": "Nedre Hakavik mellom heller.", "gpsnord": 6621224}
+{"date": "2013-05-29", "gpsost": 215037, "plante": 165, "comment": "Nedre Hakavik, 2013.", "gpsnord": 6621198}
+{"date": "2013-05-29", "gpsost": 215037, "plante": 166, "comment": "Nedre Hakavik, mai 2013.", "gpsnord": 6621198}
+{"date": "2013-05-30", "gpsost": 214820, "plante": 152, "comment": "Motorbanen.", "gpsnord": 6621311}
+{"date": "2013-05-30", "gpsost": 214726, "plante": 167, "comment": "Motorbanen.", "gpsnord": 6621291}
+{"date": "2013-06-02", "gpsost": 215060, "plante": 168, "comment": "Nedre Hakavik", "gpsnord": 6621201}
+{"date": "2013-05-30", "gpsost": 214717, "plante": 171, "comment": "Motorbanen.", "gpsnord": 6621283}
+{"date": "2013-05-31", "gpsost": 214728, "plante": 175, "comment": "Motorbanen", "gpsnord": 6621282}
+{"date": "2013-05-31", "gpsost": 214729, "plante": 173, "comment": "Motorbanen", "gpsnord": 6621295}
+{"date": "2013-05-31", "gpsost": 214754, "plante": 172, "comment": "Motorbanen.", "gpsnord": 6621288}
+{"date": "2013-05-31", "gpsost": 214765, "plante": 176, "comment": "Motorbanen.", "gpsnord": 6621235}
+{"date": "2013-05-31", "gpsost": 214765, "plante": 177, "comment": "Motorbanen.", "gpsnord": 6621235}
+{"date": "2013-05-31", "gpsost": 214765, "plante": 169, "comment": "Motorbanen.", "gpsnord": 6621235}
+{"date": "2013-05-31", "gpsost": 214765, "plante": 178, "comment": "Motorbanen.", "gpsnord": 6621235}
+{"date": "2013-05-31", "gpsost": 214727, "plante": 179, "comment": "Motorbanen.", "gpsnord": 6621279}
+{"date": "2013-05-24", "gpsost": 215633, "plante": 180, "comment": "Holtøya.", "gpsnord": 6621361}
+{"date": "2013-06-01", "gpsost": 215611, "plante": 182, "comment": "Holtøya.", "gpsnord": 6621379}
+{"date": "2013-06-01", "gpsost": 214713, "plante": 181, "comment": "Motorbanen.", "gpsnord": 6621293}
+{"date": "2013-06-01", "gpsost": 215857, "plante": 183, "comment": "Holtøya, lausprett, juni 2013.", "gpsnord": 6620965}
+{"date": "2013-06-01", "gpsost": 215625, "plante": 184, "comment": "Holtøya, juni 2013.", "gpsnord": 6621359}
+{"date": "2013-06-01", "gpsost": 215625, "plante": 185, "comment": "Holtøya, juni 2013.", "gpsnord": 6621359}
+{"date": "2013-06-01", "gpsost": 214889, "plante": 186, "comment": "Saga.", "gpsnord": 6621385}
+{"date": "2013-06-02", "gpsost": 212358, "plante": 170, "comment": "Lille Ålevann, mai 2013.", "gpsnord": 6620331}
+{"date": "2013-06-02", "gpsost": 215051, "plante": 190, "comment": "Nedre Hakavik.", "gpsnord": 6621252}
+{"date": "2013-06-02", "gpsost": 213992, "plante": 191, "comment": "Bukkebakkane.", "gpsnord": 6621534}
+{"date": "2013-06-02", "gpsost": 213255, "plante": 192, "comment": "Santhansfoss.", "gpsnord": 6621669}
+{"date": "2013-06-02", "gpsost": 211947, "plante": 193, "comment": "Flåtjern.", "gpsnord": 6621239}
+{"date": "2013-06-02", "gpsost": 211877, "plante": 194, "comment": "Flåtjern.", "gpsnord": 6621115}
+{"date": "2013-06-02", "gpsost": 212358, "plante": 195, "comment": "Før Lille Ålevann.", "gpsnord": 6620331}
+{"date": "2013-06-02", "gpsost": 214739, "plante": 196, "comment": "Holtungen.", "gpsnord": 6621349}
+{"date": "2013-06-02", "gpsost": 213255, "plante": 197, "comment": "Før Flåtjern.", "gpsnord": 6621669}
+{"date": "2013-06-02", "gpsost": 215073, "plante": 201, "comment": "På død seljekvist i Nedre Hakavik.", "gpsnord": 6621238}
+{"date": "2013-06-02", "gpsost": 211313, "plante": 200, "comment": "Blikktjern.", "gpsnord": 6620328}
+{"date": "2013-06-03", "gpsost": 215007, "plante": 202, "comment": "Motorbanen.", "gpsnord": 6621236}
+{"date": "2013-06-03", "gpsost": 215012, "plante": 203, "comment": "Nedre Hakavik.", "gpsnord": 6621212}
+{"date": "2013-06-03", "gpsost": 214785, "plante": 204, "comment": "Motorbanen.", "gpsnord": 6621291}
+{"date": "2013-06-03", "gpsost": 214602, "plante": 205, "comment": "Holtungen.", "gpsnord": 6621327}
+{"date": "2013-06-03", "gpsost": 214653, "plante": 206, "comment": "Holtungen.", "gpsnord": 6621316}
+{"date": "2013-06-03", "gpsost": 214779, "plante": 207, "comment": "Motorbanen.", "gpsnord": 6621378}
+{"date": "2013-06-03", "gpsost": 214779, "plante": 208, "comment": "Motorbanen.", "gpsnord": 6621378}
+{"date": "2013-06-03", "gpsost": 214779, "plante": 209, "comment": "Motorbanen.", "gpsnord": 6621378}
+{"date": "2013-05-26", "gpsost": 213940, "plante": 210, "comment": "Geitryggen", "gpsnord": 6620803}
+{"date": "2013-06-03", "gpsost": 214602, "plante": 211, "comment": "Holtungen.", "gpsnord": 6621327}
+{"date": "2013-06-04", "gpsost": 215025, "plante": 212, "comment": "Nedre Hakavik.", "gpsnord": 6621212}
+{"date": "2013-06-05", "gpsost": 215020, "plante": 213, "comment": "Nedre Hakavik.", "gpsnord": 6621165}
+{"date": "2013-06-05", "gpsost": 214942, "plante": 214, "comment": "Nedre Hakavik", "gpsnord": 6621294}
+{"date": "2013-06-06", "gpsost": 214670, "plante": 215, "comment": "Boglandet.", "gpsnord": 6622408}
+{"date": "2013-06-07", "gpsost": 214765, "plante": 216, "comment": "Sjulerudsetertjern, juni 2013.", "gpsnord": 6618187}
+{"date": "2013-06-07", "gpsost": 214765, "plante": 217, "comment": "Sjulerudsetertjern.", "gpsnord": 6618187}
+{"date": "2013-06-09", "gpsost": 214975, "plante": 218, "comment": "Nedre Hakavik.", "gpsnord": 6621114}
+{"date": "2013-06-09", "gpsost": 214989, "plante": 219, "comment": "Nedre Hakavik.", "gpsnord": 6621196}
+{"date": "2013-06-09", "gpsost": 214974, "plante": 232, "comment": "Nedre Hakavik.", "gpsnord": 6621069}
+{"date": "2013-06-09", "gpsost": 214975, "plante": 222, "comment": "Nedre Hakavik.", "gpsnord": 6621085}
+{"date": "2013-06-09", "gpsost": 214974, "plante": 221, "comment": "Nedre Hakavik.", "gpsnord": 6621069}
+{"date": "2013-06-10", "gpsost": 214389, "plante": 225, "comment": "Holtungen.", "gpsnord": 6621286}
+{"date": "2013-06-10", "gpsost": 210864, "plante": 226, "comment": "Sti Gunnhildrudsetra til Knatten.", "gpsnord": 6622883}
+{"date": "2013-06-10", "gpsost": 210864, "plante": 227, "comment": "Stien Gunnhildrudsetra - Knatten.", "gpsnord": 6622883}
+{"date": "2013-06-10", "gpsost": 212461, "plante": 18, "comment": "Tistillstua.", "gpsnord": 6618314}
+{"date": "2013-06-10", "gpsost": 210911, "plante": 223, "comment": "Under Knatten.", "gpsnord": 6623491}
+{"date": "2013-06-14", "gpsost": 214732, "plante": 228, "comment": "Motorbanen.", "gpsnord": 6621245}
+{"date": "2013-06-14", "gpsost": 215460, "plante": 224, "comment": "Kraftverket.", "gpsnord": 6620527}
+{"date": "2013-06-14", "gpsost": 215440, "plante": 229, "comment": "Kraftverket.", "gpsnord": 6620570}
+{"date": "2013-06-14", "gpsost": 214820, "plante": 230, "comment": "Motorbanen.", "gpsnord": 6621217}
+{"date": "2013-06-14", "gpsost": 215442, "plante": 231, "comment": "Kraftverket.", "gpsnord": 6620558}
+{"date": "2013-06-14", "gpsost": 214191, "plante": 232, "comment": "Geitrygglia.", "gpsnord": 6621327}
+{"date": "2013-06-14", "gpsost": 214781, "plante": 233, "comment": "Motorbanen.", "gpsnord": 6621298}
+{"date": "2013-06-14", "gpsost": 214781, "plante": 234, "comment": "Motorbanen.", "gpsnord": 6621298}
+{"date": "2013-06-14", "gpsost": 215013, "plante": 235, "comment": "Nedre Hakavik.", "gpsnord": 6621210}
+{"date": "2013-06-14", "gpsost": 214188, "plante": 236, "comment": "Geitrygglia, juni 2013.", "gpsnord": 6621310}
+{"date": "2013-06-14", "gpsost": 214781, "plante": 237, "comment": "Motorbanen.", "gpsnord": 6621298}
+{"date": "2013-06-14", "gpsost": 215013, "plante": 238, "comment": "Motorbanen.", "gpsnord": 6621210}
+{"date": "2013-06-14", "gpsost": 215013, "plante": 239, "comment": "Motorbanen.", "gpsnord": 6621210}
+{"date": "2013-06-14", "gpsost": 214210, "plante": 240, "comment": "Geitrygglia.", "gpsnord": 6621227}
+{"date": "2013-06-14", "gpsost": 214798, "plante": 241, "comment": "Motorbanen.", "gpsnord": 6621298}
+{"date": "2013-06-14", "gpsost": 214629, "plante": 242, "comment": "Motorbanen.", "gpsnord": 6621310}
+{"date": "2013-06-14", "gpsost": 214629, "plante": 243, "comment": "Motorbanen.", "gpsnord": 6621310}
+{"date": "2013-06-14", "gpsost": 214991, "plante": 244, "comment": "Nedre Hakavik.", "gpsnord": 6621233}
+{"date": "2013-06-14", "gpsost": 214779, "plante": 245, "comment": "Motorbanen.", "gpsnord": 6621297}
+{"date": "2013-06-14", "gpsost": 214629, "plante": 246, "comment": "Motorbanen.", "gpsnord": 6621310}
+{"date": "2013-06-15", "gpsost": 214589, "plante": 247, "comment": "Holtungen.", "gpsnord": 6621324}
+{"date": "2013-06-15", "gpsost": 214178, "plante": 248, "comment": "Geitrygglia.", "gpsnord": 6621275}
+{"date": "2013-06-15", "gpsost": 215116, "plante": 249, "comment": "Nedre Hakavik.", "gpsnord": 6621064}
+{"date": "2013-06-15", "gpsost": 215010, "plante": 250, "comment": "Nedre Hakavik.", "gpsnord": 6621201}
+{"date": "2013-06-15", "gpsost": 215011, "plante": 251, "comment": "Nedre Hakavik.", "gpsnord": 6621213}
+{"date": "2013-06-16", "gpsost": 215584, "plante": 255, "comment": "Holtøya.", "gpsnord": 6621383}
+{"date": "2013-06-16", "gpsost": 214884, "plante": 253, "comment": "Saga.", "gpsnord": 6621285}
+{"date": "2013-06-16", "gpsost": 215003, "plante": 252, "comment": "Nedre Hakavik.", "gpsnord": 6621228}
+{"date": "2013-06-16", "gpsost": 215042, "plante": 256, "comment": "Nedre Hakavik.", "gpsnord": 6621190}
+{"date": "2013-06-18", "gpsost": 215022, "plante": 117, "comment": "Nedre Hakavik", "gpsnord": 6621236}
+{"date": "2013-06-17", "gpsost": 215021, "plante": 257, "comment": "Nedre Hakavik.", "gpsnord": 6621223}
+{"date": "2013-06-17", "gpsost": 210186, "plante": 261, "comment": "Gunhildrudsetra.", "gpsnord": 6622900}
+{"date": "2013-06-17", "gpsost": 210352, "plante": 258, "comment": "Buvannet", "gpsnord": 6622453}
+{"date": "2013-06-17", "gpsost": 210746, "plante": 259, "comment": "Buvannet.", "gpsnord": 6622447}
+{"date": "2013-06-17", "gpsost": 210746, "plante": 260, "comment": "Buvannet.", "gpsnord": 6622447}
+{"date": "2013-06-19", "gpsost": 214229, "plante": 187, "comment": "Geitrygglia.", "gpsnord": 6621255}
+{"date": "2013-06-19", "gpsost": 214648, "plante": 188, "comment": "Holtungen.", "gpsnord": 6621344}
+{"date": "2013-06-19", "gpsost": 214218, "plante": 263, "comment": "Geitrygglia.", "gpsnord": 6621289}
+{"date": "2013-06-19", "gpsost": 214198, "plante": 264, "comment": "Gritrygglia.", "gpsnord": 6621270}
+{"date": "2013-06-19", "gpsost": 215030, "plante": 265, "comment": "Nedre Hakavik.", "gpsnord": 6621220}
+{"date": "2013-06-19", "gpsost": 211488, "plante": 262, "comment": "Nedre Hakavik.", "gpsnord": 6621207}
+{"date": "2013-06-21", "gpsost": 214438, "plante": 189, "comment": "Gislerudmoen.", "gpsnord": 6621559}
+{"date": "2013-06-21", "gpsost": 214827, "plante": 266, "comment": "Motorbanen.", "gpsnord": 6621304}
+{"date": "2013-06-21", "gpsost": 214831, "plante": 267, "comment": "Motorbanen.", "gpsnord": 6621336}
+{"date": "2013-06-21", "gpsost": 214831, "plante": 268, "comment": "Motorbanen.", "gpsnord": 6621336}
+{"date": "2013-06-21", "gpsost": 215417, "plante": 269, "comment": "Kraftverket.", "gpsnord": 6620438}
+{"date": "2013-06-21", "gpsost": 214841, "plante": 271, "comment": "Motorbanen.", "gpsnord": 6621329}
+{"date": "2013-06-21", "gpsost": 214841, "plante": 270, "comment": "Motorbanen.", "gpsnord": 6021329}
+{"date": "2013-06-22", "gpsost": 214997, "plante": 272, "comment": "Nedre Hakavik.", "gpsnord": 6621208}
+{"date": "2013-06-22", "gpsost": 214994, "plante": 273, "comment": "Nedre Hakavik.", "gpsnord": 6621195}
+{"date": "2013-06-22", "gpsost": 215083, "plante": 274, "comment": "Nedre Hakavik.", "gpsnord": 6621087}
+{"date": "2013-06-22", "gpsost": 215848, "plante": 275, "comment": "Holtøya.", "gpsnord": 6620937}
+{"date": "2013-06-22", "gpsost": 215769, "plante": 276, "comment": "Holtøya.", "gpsnord": 6621000}
+{"date": "2013-06-23", "gpsost": 215415, "plante": 277, "comment": "Kraftverket.", "gpsnord": 6620446}
+{"date": "2013-06-23", "gpsost": 215421, "plante": 278, "comment": "Avblomstra, Kraftverket.", "gpsnord": 6620433}
+{"date": "2013-06-23", "gpsost": 215421, "plante": 279, "comment": "Kraftveket.", "gpsnord": 6620425}
+{"date": "2013-06-23", "gpsost": 211850, "plante": 281, "comment": "Flåtjern.", "gpsnord": 6621143}
+{"date": "2013-06-23", "gpsost": 211269, "plante": 288, "comment": "Holmtjern.", "gpsnord": 6620872}
+{"date": "2013-06-23", "gpsost": 211850, "plante": 282, "comment": "Flåtjern.", "gpsnord": 6621143}
+{"date": "2013-06-24", "gpsost": 214785, "plante": 284, "comment": "Motorbanen.", "gpsnord": 6621258}
+{"date": "2013-06-24", "gpsost": 215762, "plante": 285, "comment": "Holtøya.", "gpsnord": 6621055}
+{"date": "2013-06-24", "gpsost": 215089, "plante": 287, "comment": "Nedre Hakavik.", "gpsnord": 6621247}
+{"date": "2013-06-24", "gpsost": 214936, "plante": 286, "comment": "Nedre Hakavik.", "gpsnord": 6621301}
+{"date": "2013-06-24", "gpsost": 215955, "plante": 288, "comment": "Holtet.", "gpsnord": 6620097}
+{"date": "2013-06-24", "gpsost": 215011, "plante": 289, "comment": "Nedre Hakavik.", "gpsnord": 6621222}
+{"date": "2013-06-24", "gpsost": 214797, "plante": 290, "comment": "Motorbanen.", "gpsnord": 6621366}
+{"date": "2013-06-25", "gpsost": 213972, "plante": 291, "comment": "Toppen av Bukkebakkane.", "gpsnord": 6621559}
+{"date": "2013-06-25", "gpsost": 213320, "plante": 292, "comment": "Santhansfoss.", "gpsnord": 6621568}
+{"date": "2013-06-25", "gpsost": 213253, "plante": 293, "comment": "Santhansfoss.", "gpsnord": 6621595}
+{"date": "2013-06-25", "gpsost": 213936, "plante": 294, "comment": "Geitrygglia.", "gpsnord": 6621379}
+{"date": "2013-06-25", "gpsost": 213936, "plante": 295, "comment": "Geitrygglia.", "gpsnord": 6621379}
+{"date": "2013-06-25", "gpsost": 214598, "plante": 296, "comment": "Motorbanen.", "gpsnord": 6621421}
+{"date": "2013-06-25", "gpsost": 215013, "plante": 297, "comment": "Nedre Hakavik.", "gpsnord": 6621207}
+{"date": "2013-06-25", "gpsost": 215012, "plante": 298, "comment": "Nedre Hakavik.", "gpsnord": 6621213}
+{"date": "2013-06-25", "gpsost": 215024, "plante": 299, "comment": "Nedre Hakavik.", "gpsnord": 6621185}
+{"date": "2013-06-25", "gpsost": 213601, "plante": 300, "comment": "Geitryggdalen.", "gpsnord": 6621314}
+{"date": "2013-06-25", "gpsost": 214941, "plante": 301, "comment": "Nedre Hakavik.", "gpsnord": 6621470}
+{"date": "2013-06-26", "gpsost": 214597, "plante": 302, "comment": "Gislerud.", "gpsnord": 6621952}
+{"date": "2013-06-26", "gpsost": 214998, "plante": 303, "comment": "Nedre Hakavik.", "gpsnord": 6621237}
+{"date": "2013-06-26", "gpsost": 215022, "plante": 304, "comment": "Nedre Hakavik.", "gpsnord": 6621182}
+{"date": "2013-06-26", "gpsost": 214716, "plante": 305, "comment": "Motorbanen.", "gpsnord": 6621386}
+{"date": "2013-06-27", "gpsost": 214559, "plante": 310, "comment": "Holtungen.", "gpsnord": 6621388}
+{"date": "2013-06-27", "gpsost": 214437, "plante": 308, "comment": "Gislerudmoen.", "gpsnord": 6621549}
+{"date": "2013-06-27", "gpsost": 214678, "plante": 309, "comment": "Gislerudmoen.", "gpsnord": 6621539}
+{"date": "2013-06-27", "gpsost": 214559, "plante": 307, "comment": "Holtungen.", "gpsnord": 6621388}
+{"date": "2013-06-27", "gpsost": 214559, "plante": 311, "comment": "Holtungen.", "gpsnord": 6621388}
+{"date": "2013-06-27", "gpsost": 214799, "plante": 312, "comment": "Motorbanen.", "gpsnord": 6621303}
+{"date": "2013-06-27", "gpsost": 214237, "plante": 316, "comment": "Bukkebakane ved elva.", "gpsnord": 6621489}
+{"date": "2013-06-27", "gpsost": 214494, "plante": 313, "comment": "Holtungen.", "gpsnord": 6621460}
+{"date": "2013-06-27", "gpsost": 214367, "plante": 314, "comment": "Holtungen.", "gpsnord": 6621295}
+{"date": "2013-06-27", "gpsost": 214576, "plante": 315, "comment": "Holtungen.", "gpsnord": 6621387}
+{"date": "2013-06-28", "gpsost": 215320, "plante": 317, "comment": "Kraftverket.", "gpsnord": 6620731}
+{"date": "2013-06-29", "gpsost": 215591, "plante": 318, "comment": "Kraftverket.", "gpsnord": 6620395}
+{"date": "2013-06-29", "gpsost": 215875, "plante": 319, "comment": "Holtøya.", "gpsnord": 6620965}
+{"date": "2013-06-29", "gpsost": 215584, "plante": 320, "comment": "Kraftverket.", "gpsnord": 6620386}
+{"date": "2013-06-30", "gpsost": 212771, "plante": 322, "comment": "Tistillstua.", "gpsnord": 6618283}
+{"date": "2013-06-30", "gpsost": 213249, "plante": 324, "comment": "I knopp, Mørtjern.", "gpsnord": 6618901}
+{"date": "2013-06-30", "gpsost": 212771, "plante": 323, "comment": "Tistillstua, i knopp.", "gpsnord": 6618283}
+{"date": "2013-06-30", "gpsost": 213332, "plante": 325, "comment": "Mørtjern.", "gpsnord": 6618945}
+{"date": "2013-06-30", "gpsost": 212608, "plante": 186, "comment": "Vesle Ålevann.", "gpsnord": 6620281}
+{"date": "2013-06-30", "gpsost": 212908, "plante": 321, "comment": "Tistillstua.", "gpsnord": 6618346}
+{"date": "2013-07-01", "gpsost": 215187, "plante": 327, "comment": "Nedre Hakavik.", "gpsnord": 6620906}
+{"date": "2013-07-03", "gpsost": 215036, "plante": 328, "comment": "Nedre Hakavik.", "gpsnord": 6621159}
+{"date": "2013-07-01", "gpsost": 215187, "plante": 26, "comment": "Ved Kontobakken.", "gpsnord": 6620906}
+{"date": "2013-07-01", "gpsost": 215187, "plante": 31, "comment": "Ved Kontorbakken.", "gpsnord": 6620906}
+{"date": "2013-07-04", "gpsost": 214845, "plante": 330, "comment": "Motorbanen.", "gpsnord": 6621339}
+{"date": "2013-07-04", "gpsost": 215431, "plante": 333, "comment": "Kraftverket.", "gpsnord": 6620411}
+{"date": "2013-07-04", "gpsost": 215432, "plante": 332, "comment": "Kraftverket.", "gpsnord": 6620420}
+{"date": "2013-07-04", "gpsost": 214607, "plante": 331, "comment": "Motorbanen.", "gpsnord": 6621382}
+{"date": "2013-07-04", "gpsost": 214829, "plante": 329, "comment": "Motorbanen.", "gpsnord": 6621335}
+{"date": "2013-07-04", "gpsost": 214957, "plante": 29, "comment": "Nedre Hakavik.", "gpsnord": 6621276}
+{"date": "2013-07-04", "gpsost": 214957, "plante": 32, "comment": "Nedre Hakavik.", "gpsnord": 6621276}
+{"date": "2013-07-05", "gpsost": 215564, "plante": 334, "comment": "Holtøya.", "gpsnord": 6621400}
+{"date": "2013-07-05", "gpsost": 215018, "plante": 335, "comment": "Nedre Hakavik.", "gpsnord": 6621226}
+{"date": "2013-07-05", "gpsost": 215018, "plante": 336, "comment": "Holtøya.", "gpsnord": 6621226}
+{"date": "2013-07-06", "gpsost": 214931, "plante": 337, "comment": "Gamle grustaket ved saga, juli 2013.", "gpsnord": 6621441}
+{"date": "2013-07-07", "gpsost": 215017, "plante": 338, "comment": "Nedre Hakavik.", "gpsnord": 6621151}
+{"date": "2013-07-07", "gpsost": 215004, "plante": 339, "comment": "Nedre Hakavik.", "gpsnord": 6621145}
+{"date": "2013-07-07", "gpsost": 214523, "plante": 340, "comment": "Gislerud.", "gpsnord": 6622018}
+{"date": "2013-07-07", "gpsost": 214523, "plante": 341, "comment": "Gislerud.", "gpsnord": 6622018}
+{"date": "2013-07-07", "gpsost": 214523, "plante": 342, "comment": "Gislerud.", "gpsnord": 6622018}
+{"date": "2013-07-05", "gpsost": 215604, "plante": 343, "comment": "Holtøya.", "gpsnord": 6621368}
+{"date": "2013-07-08", "gpsost": 214122, "plante": 345, "comment": "Geitryggen.", "gpsnord": 6620887}
+{"date": "2013-07-08", "gpsost": 214795, "plante": 349, "comment": "Motorbanen.", "gpsnord": 6621349}
+{"date": "2013-07-08", "gpsost": 214859, "plante": 344, "comment": "Gislerud.", "gpsnord": 6621609}
+{"date": "2013-07-08", "gpsost": 214795, "plante": 350, "comment": "Motorbanen, juli 2013.", "gpsnord": 6621349}
+{"date": "2013-07-08", "gpsost": 214168, "plante": 348, "comment": "Geitrygglia.", "gpsnord": 6621367}
+{"date": "2013-07-08", "gpsost": 214222, "plante": 347, "comment": "Geitrygglia.", "gpsnord": 6621371}
+{"date": "2013-07-08", "gpsost": 214168, "plante": 58, "comment": "Geitrygglia, avblomstra.", "gpsnord": 6621371}
+{"date": "2013-07-08", "gpsost": 215074, "plante": 28, "comment": "Nedre Hakavik.", "gpsnord": 6621221}
+{"date": "2013-07-08", "gpsost": 214997, "plante": 30, "comment": "Nedre Hakavik.", "gpsnord": 6621258}
+{"date": "2013-07-09", "gpsost": 215955, "plante": 351, "comment": "Nedre Holtet.", "gpsnord": 6620099}
+{"date": "2013-07-09", "gpsost": 214928, "plante": 352, "comment": "Nedre Hakavik.", "gpsnord": 6621343}
+{"date": "2013-07-09", "gpsost": 214535, "plante": 353, "comment": "Holtungen.", "gpsnord": 6621308}
+{"date": "2013-07-09", "gpsost": 215383, "plante": 354, "comment": "Kraftverket. I knopp.", "gpsnord": 6620585}
+{"date": "2013-07-09", "gpsost": 215383, "plante": 356, "comment": "Kraftverket", "gpsnord": 6620585}
+{"date": "2013-07-09", "gpsost": 215338, "plante": 357, "comment": "Kraftverket.", "gpsnord": 6620844}
+{"date": "2013-07-12", "gpsost": 215096, "plante": 358, "comment": "Nedre Hakavik", "gpsnord": 6621059}
+{"date": "2013-07-12", "gpsost": 215959, "plante": 359, "comment": "Nedre Holtet.", "gpsnord": 6620107}
+{"date": "2013-07-12", "gpsost": 214973, "plante": 360, "comment": "Nedre Hakavik.", "gpsnord": 6621171}
+{"date": "2013-07-12", "gpsost": 215286, "plante": 361, "comment": "Kraftverket.", "gpsnord": 6620772}
+{"date": "2013-07-12", "gpsost": 215406, "plante": 362, "comment": "Kraftverket.", "gpsnord": 6620448}
+{"date": "2013-07-12", "gpsost": 215411, "plante": 363, "comment": "Kraftverket.", "gpsnord": 6620456}
+{"date": "2013-07-08", "gpsost": 214122, "plante": 346, "comment": "Geitrygglia.", "gpsnord": 6621371}
+{"date": "2013-07-13", "gpsost": 215027, "plante": 364, "comment": "Nedre Hakavik.", "gpsnord": 6621208}
+{"date": "2013-07-13", "gpsost": 211263, "plante": 366, "comment": "Holmtjern.", "gpsnord": 6620864}
+{"date": "2013-07-13", "gpsost": 210962, "plante": 374, "comment": "Svattjernsbekken.", "gpsnord": 6619399}
+{"date": "2013-07-13", "gpsost": 210877, "plante": 365, "comment": "Svarttjernsbekken.", "gpsnord": 6619351}
+{"date": "2013-07-13", "gpsost": 210877, "plante": 369, "comment": "Svarttjernsbekken.", "gpsnord": 6619351}
+{"date": "2013-07-13", "gpsost": 211009, "plante": 367, "comment": "Store Fiskelausen.", "gpsnord": 6620298}
+{"date": "2013-07-13", "gpsost": 212638, "plante": 368, "comment": "Vesle Ålevann, juli 2013.", "gpsnord": 6620261}
+{"date": "2013-07-13", "gpsost": 210597, "plante": 24, "comment": "Svarttjernsbekken.", "gpsnord": 6619447}
+{"date": "2013-07-13", "gpsost": 211263, "plante": 370, "comment": "Holmtjern.", "gpsnord": 6620864}
+{"date": "2013-07-13", "gpsost": 210877, "plante": 372, "comment": "Svarttjernsbekken.", "gpsnord": 6619351}
+{"date": "2013-07-13", "gpsost": 215000, "plante": 371, "comment": "Nedre Hakavik, juli 2013.", "gpsnord": 6621240}
+{"date": "2013-07-13", "gpsost": 211062, "plante": 373, "comment": "Store Fiskelausen.", "gpsnord": 6620240}
+{"date": "2013-06-02", "gpsost": 213430, "plante": 198, "comment": "Bjønnestillinga.", "gpsnord": 6620801}
+{"date": "2013-06-24", "gpsost": 214991, "plante": 283, "comment": "Holtungen.", "gpsnord": 6621270}
+{"date": "2013-07-14", "gpsost": 215017, "plante": 376, "comment": "Nedre Hakavik.", "gpsnord": 6621234}
+{"date": "2013-07-14", "gpsost": 214934, "plante": 375, "comment": "Nedre Hakavik.", "gpsnord": 6621327}
+{"date": "2013-07-14", "gpsost": 214583, "plante": 377, "comment": "Holtungen.", "gpsnord": 6621360}
+{"date": "2013-07-14", "gpsost": 214757, "plante": 378, "comment": "Motorbanen.", "gpsnord": 6621297}
+{"date": "2013-07-14", "gpsost": 214526, "plante": 379, "comment": "Gislerud.", "gpsnord": 6622020}
+{"date": "2013-07-14", "gpsost": 214526, "plante": 380, "comment": "Gislerud.", "gpsnord": 662202}
+{"date": "2013-07-16", "gpsost": 215379, "plante": 382, "comment": "Kraftverket.", "gpsnord": 6620610}
+{"date": "2013-07-16", "gpsost": 215829, "plante": 383, "comment": "Holtøya.", "gpsnord": 6620935}
+{"date": "2013-07-16", "gpsost": 215595, "plante": 384, "comment": "Holtøya.", "gpsnord": 6621350}
+{"date": "2013-07-16", "gpsost": 215623, "plante": 385, "comment": "Holtøya.", "gpsnord": 6621367}
+{"date": "2013-07-16", "gpsost": 215550, "plante": 386, "comment": "Holtøya.", "gpsnord": 6621406}
+{"date": "2013-07-17", "gpsost": 215025, "plante": 306, "comment": "Nedre Hakavik.", "gpsnord": 6621212}
+{"date": "2013-07-17", "gpsost": 214132, "plante": 387, "comment": "Dammen.", "gpsnord": 6618507}
+{"date": "2013-07-17", "gpsost": 214171, "plante": 388, "comment": "Dammen", "gpsnord": 6618472}
+{"date": "2013-07-17", "gpsost": 214798, "plante": 389, "comment": "Motorbanen.", "gpsnord": 6621365}
+{"date": "2013-07-19", "gpsost": 215580, "plante": 390, "comment": "Holtøya.", "gpsnord": 6621390}
+{"date": "2013-07-19", "gpsost": 215574, "plante": 391, "comment": "Holtøya.", "gpsnord": 6621390}
+{"date": "2013-07-19", "gpsost": 215608, "plante": 392, "comment": "Kraftverket.", "gpsnord": 6620379}
+{"date": "2013-07-20", "gpsost": 214966, "plante": 355, "comment": "Nedre Hakavik.", "gpsnord": 6621273}
+{"date": "2013-07-13", "gpsost": 214868, "plante": 393, "comment": "Saga.", "gpsnord": 6621384}
+{"date": "2013-07-20", "gpsost": 214775, "plante": 394, "comment": "Motorbanen.", "gpsnord": 6621356}
+{"date": "2013-07-21", "gpsost": 211934, "plante": 395, "comment": "Buttingen.", "gpsnord": 6620405}
+{"date": "2013-07-21", "gpsost": 211256, "plante": 396, "comment": "Holmtjern.", "gpsnord": 6620856}
+{"date": "2013-07-21", "gpsost": 211602, "plante": 397, "comment": "Buttingen.", "gpsnord": 6620551}
+{"date": "2013-07-22", "gpsost": 215046, "plante": 381, "comment": "Nedre Hakavik.", "gpsnord": 6621141}
+{"date": "2013-07-22", "gpsost": 214783, "plante": 398, "comment": "Sjulerudsetertjern. I frukt.", "gpsnord": 6617793}
+{"date": "2013-07-22", "gpsost": 214819, "plante": 399, "comment": "Sjulerudsetertjern. Tidlig fase.", "gpsnord": 6617976}
+{"date": "2013-07-23", "gpsost": 215102, "plante": 400, "comment": "Nedre Hakavik. I knopp og sterk tørke.", "gpsnord": 6621077}
+{"date": "2013-07-25", "gpsost": 215315, "plante": 401, "comment": "Kraftverket.", "gpsnord": 6620739}
+{"date": "2013-07-26", "gpsost": 215023, "plante": 402, "comment": "Nedre Hakavik.", "gpsnord": 6621215}
+{"date": "2013-07-26", "gpsost": 211847, "plante": 403, "comment": "Flåtjern.", "gpsnord": 6621143}
+{"date": "2013-07-27", "gpsost": 214631, "plante": 404, "comment": "Okstjern.", "gpsnord": 6618380}
+{"date": "2013-07-27", "gpsost": 214773, "plante": 405, "comment": "Øvre Hakavik.", "gpsnord": 6620869}
+{"date": "2013-07-27", "gpsost": 214715, "plante": 406, "comment": "Sjulerudsetertjern.", "gpsnord": 6618177}
+{"date": "2013-07-27", "gpsost": 214262, "plante": 407, "comment": "Toppen før annekset.", "gpsnord": 6619362}
+{"date": "2013-07-28", "gpsost": 214135, "plante": 408, "comment": "Bogen.", "gpsnord": 6611784}
+{"date": "2013-07-28", "gpsost": 214135, "plante": 409, "comment": "Bogen.", "gpsnord": 6611784}
+{"date": "2013-07-28", "gpsost": 214135, "plante": 410, "comment": "Bogen.", "gpsnord": 6611784}
+{"date": "2013-07-27", "gpsost": 216398, "plante": 411, "comment": "Båthuset, Sjulerud.", "gpsnord": 6619183}
+{"date": "2013-07-31", "gpsost": 215074, "plante": 413, "comment": "Nedre Hakavik.", "gpsnord": 6621220}
+{"date": "2013-07-31", "gpsost": 214756, "plante": 412, "comment": "Motorbanen.", "gpsnord": 6621375}
+{"date": "2013-07-31", "gpsost": 214940, "plante": 414, "comment": "Nedre Hakavik ved brua.", "gpsnord": 6621316}
+{"date": "2013-07-31", "gpsost": 213494, "plante": 415, "comment": "Santhansfoss, juli 2013.", "gpsnord": 6621552}
+{"date": "2013-07-31", "gpsost": 214757, "plante": 416, "comment": "Motorbanen.", "gpsnord": 6621400}
+{"date": "2013-08-24", "gpsost": 215754, "plante": 417, "comment": "Holtøya.", "gpsnord": 6621083}
+{"date": "2013-08-25", "gpsost": 215746, "plante": 37, "comment": "Holtøya.", "gpsnord": 6621091}
+{"date": "2013-08-25", "gpsost": 215054, "plante": 418, "comment": "Nedre Hakavik.", "gpsnord": 6621193}
+{"date": "2013-08-30", "gpsost": 25054, "plante": 419, "comment": "Nedre Hakavik.", "gpsnord": 6621193}
+{"date": "2013-08-30", "gpsost": 214419, "plante": 420, "comment": "Bogbukta.", "gpsnord": 6622468}
+{"date": "2013-09-07", "gpsost": 214931, "plante": 430, "comment": "Saga, nedsida av veien.", "gpsnord": 6621343}
+{"date": "2013-09-07", "gpsost": 214931, "plante": 822, "comment": "Saga, nedsida vegen.", "gpsnord": 6621343}
+{"date": "2013-09-07", "gpsost": 214972, "plante": 421, "comment": "Nedre Hakavik mot Øra.", "gpsnord": 6621314}
+{"date": "2013-09-07", "gpsost": 214927, "plante": 428, "comment": "Hakvikbrua.", "gpsnord": 6621343}
+{"date": "2013-09-07", "gpsost": 214972, "plante": 423, "comment": "Mot Øra.", "gpsnord": 6621314}
+{"date": "2013-09-07", "gpsost": 214414, "plante": 422, "comment": "Gislerudmoen.", "gpsnord": 6621900}
+{"date": "2013-09-07", "gpsost": 214528, "plante": 424, "comment": "Gislerudmoen", "gpsnord": 6621669}
+{"date": "2013-09-07", "gpsost": 214523, "plante": 425, "comment": "Gislerudmoen.", "gpsnord": 6621658}
+{"date": "2013-09-07", "gpsost": 214543, "plante": 623, "comment": "Gislerudmoen.", "gpsnord": 6621686}
+{"date": "2013-09-07", "gpsost": 214989, "plante": 426, "comment": "Nedre Hakavik, mot Øra", "gpsnord": 6621315}
+{"date": "2013-09-08", "gpsost": 214954, "plante": 431, "comment": "Nedre Hakavik.", "gpsnord": 6621295}
+{"date": "2013-09-14", "gpsost": 214618, "plante": 432, "comment": "Bogen mot boglandet.", "gpsnord": 6622170}
+{"date": "2013-09-15", "gpsost": 214779, "plante": 433, "comment": "Gislerud ved Eikern mot Bogen.", "gpsnord": 6622176}
+{"date": "2013-09-15", "gpsost": 214979, "plante": 434, "comment": "Nedre Hakavik.", "gpsnord": 6621308}
+{"date": "2013-05-08", "gpsost": 215892, "plante": 72, "comment": "Nedre Holtet.", "gpsnord": 6620157}
+{"date": "2013-05-12", "gpsost": 212180, "plante": 435, "comment": "Ved Øytjernstuakrysset.", "gpsnord": 6621673}
+{"date": "2013-09-08", "gpsost": 212015, "plante": 436, "comment": "Flåtjern.", "gpsnord": 6621372}
+{"date": "2013-09-15", "gpsost": 214779, "plante": 437, "comment": "Gislerud ved Eikern mot Bogen.", "gpsnord": 6622176}
+{"date": "2013-09-22", "gpsost": 214542, "plante": 442, "comment": "Øvre Hakavik.", "gpsnord": 6620841}
+{"date": "2013-09-22", "gpsost": 214097, "plante": 441, "comment": "Mellom Geiteryggen og Danseplattingen.", "gpsnord": 6620794}
+{"date": "2013-09-22", "gpsost": 214097, "plante": 440, "comment": "Mellom Geiteryggen og Danseplattingen.", "gpsnord": 6620794}
+{"date": "2013-09-22", "gpsost": 214097, "plante": 439, "comment": "Mellom Geiteryggen og Danseplattingen.", "gpsnord": 6620794}
+{"date": "2013-09-22", "gpsost": 214097, "plante": 438, "comment": "Mellom Geiteryggen og Danseplattingen.", "gpsnord": 6620794}
+{"date": "2013-09-22", "gpsost": 214097, "plante": 443, "comment": "Mellom Danseplattingen og Geiteryggen.", "gpsnord": 6620794}
+{"date": "2013-09-14", "gpsost": 213709, "plante": 446, "comment": "Nedre Hakavik.", "gpsnord": 6620590}
+{"date": "2013-09-14", "gpsost": 215072, "plante": 447, "comment": "Nedre Hakavik.", "gpsnord": 6621051}
+{"date": "2013-10-26", "gpsost": 213671, "plante": 444, "comment": "Bjønnestillinga. Bare rosettblada igjen.", "gpsnord": 6620627}
+{"date": "2013-10-26", "gpsost": 213671, "plante": 450, "comment": "Bjønnestillinga.", "gpsnord": 6620627}
+{"date": "2013-10-26", "gpsost": 213726, "plante": 451, "comment": "Bjønnestillinga.", "gpsnord": 6620595}
+{"date": "2013-10-26", "gpsost": 214024, "plante": 452, "comment": "Geiteryggen.", "gpsnord": 6620754}
+{"date": "2013-10-26", "gpsost": 213721, "plante": 453, "comment": "Bjønnestillinga.", "gpsnord": 6620546}
+{"date": "2013-10-26", "gpsost": 213865, "plante": 454, "comment": "Storelvdalen.", "gpsnord": 6620405}
+{"date": "2013-10-26", "gpsost": 214123, "plante": 455, "comment": "Danseplattingen.", "gpsnord": 6620734}
+{"date": "2013-10-26", "gpsost": 214181, "plante": 456, "comment": "Danseplattingen.", "gpsnord": 6620737}
+{"date": "2013-10-25", "gpsost": 215097, "plante": 457, "comment": "Nedre Hakavik.", "gpsnord": 6621242}
+{"date": "2013-10-28", "gpsost": 213721, "plante": 459, "comment": "Bjønnestillinga.", "gpsnord": 6620583}
+{"date": "2013-10-26", "gpsost": 213872, "plante": 460, "comment": "Geiteryggen.", "gpsnord": 6620728}
+{"date": "2013-04-14", "gpsost": 215020, "plante": 461, "comment": "Hustaket nr. 955.", "gpsnord": 6621222}
+{"date": "2013-04-14", "gpsost": 215020, "plante": 449, "comment": "Hustaket Nedre Hakavik.", "gpsnord": 6621222}
+{"date": "2014-01-27", "gpsost": 214527, "plante": 287, "comment": "Holtungen", "gpsnord": 6621289}
+{"date": "2014-02-14", "gpsost": 215049, "plante": 463, "comment": "Fuktig vinter.", "gpsnord": 6621190}
+{"date": "2014-02-14", "gpsost": 215049, "plante": 462, "comment": "På dau rogn, Nedre Hakavik", "gpsnord": 6621190}
+{"date": "2014-02-16", "gpsost": 215145, "plante": 464, "comment": "Bonn av kontorbakken.", "gpsnord": 6620960}
+{"date": "2014-02-16", "gpsost": 215041, "plante": 465, "comment": "Nedre Hakavik.", "gpsnord": 6621193}
+{"date": "2014-02-17", "gpsost": 215848, "plante": 85, "comment": "Holtøya sør.", "gpsnord": 6620964}
+{"date": "2014-02-17", "gpsost": 215788, "plante": 466, "comment": "Sørenden av Holtøya.", "gpsnord": 6620982}
+{"date": "2014-02-23", "gpsost": 216091, "plante": 467, "comment": "Holtet ved Eikern.", "gpsnord": 6620115}
+{"date": "2014-02-23", "gpsost": 216091, "plante": 70, "comment": "Holtet ved Eikern.", "gpsnord": 6620115}
+{"date": "2014-02-23", "gpsost": 215451, "plante": 468, "comment": "Kraftverket.", "gpsnord": 6620386}
+{"date": "2014-02-23", "gpsost": 215181, "plante": 470, "comment": "Nederst i kontorbakken.", "gpsnord": 6620981}
+{"date": "2014-02-23", "gpsost": 215182, "plante": 471, "comment": "Kontorbakken.", "gpsnord": 6620909}
+{"date": "2014-02-23", "gpsost": 215182, "plante": 472, "comment": "Nederst i Kontorbakken.", "gpsnord": 6620909}
+{"date": "2014-02-23", "gpsost": 215537, "plante": 452, "comment": "Kraftverket sammen med flikvårmose.", "gpsnord": 6620319}
+{"date": "2014-02-24", "gpsost": 215537, "plante": 473, "comment": "Kraftverket.", "gpsnord": 6620319}
+{"date": "2014-02-25", "gpsost": 215537, "plante": 789, "comment": "Kraftverket.", "gpsnord": 6620319}
+{"date": "2014-02-23", "gpsost": 215537, "plante": 475, "comment": "Kraftverket.", "gpsnord": 6620319}
+{"date": "2014-02-25", "gpsost": 2, "plante": 476, "comment": "Kontorbakken sør.", "gpsnord": 6620748}
+{"date": "2014-03-04", "gpsost": 215066, "plante": 478, "comment": "Nedre Hakavik.", "gpsnord": 6621206}
+{"date": "2014-03-04", "gpsost": 215055, "plante": 1, "comment": "Nedre Hakavik på tomta", "gpsnord": 6622195}
+{"date": "2014-02-23", "gpsost": 215451, "plante": 480, "comment": "Kraftverket.", "gpsnord": 6626386}
+{"date": "2014-03-12", "gpsost": 215061, "plante": 116, "comment": "Nedre Hakavik.", "gpsnord": 6621199}
+{"date": "2014-03-12", "gpsost": 215049, "plante": 479, "comment": "Nedre Hakavik.", "gpsnord": 6621190}
+{"date": "2014-03-12", "gpsost": 215089, "plante": 5, "comment": "", "gpsnord": 6621187}
+{"date": "2014-03-12", "gpsost": 215066, "plante": 3, "comment": "", "gpsnord": 6621108}
+{"date": "2014-03-12", "gpsost": 215047, "plante": 6, "comment": "", "gpsnord": 6621199}
+{"date": "2014-03-16", "gpsost": 215612, "plante": 73, "comment": "Holtøya nord.", "gpsnord": 6621386}
+{"date": "2014-03-18", "gpsost": 214822, "plante": 753, "comment": "Øvre Hakavik.", "gpsnord": 6620855}
+{"date": "2014-03-20", "gpsost": 215011, "plante": 481, "comment": "Gårdsplassen 955.", "gpsnord": 6621232}
+{"date": "2014-03-20", "gpsost": 214966, "plante": 1003, "comment": "Nedre Hakavik mot Øra.", "gpsnord": 6621291}
+{"date": "2014-03-20", "gpsost": 214966, "plante": 483, "comment": "På død osp.", "gpsnord": 6621291}
+{"date": "2014-03-20", "gpsost": 215060, "plante": 484, "comment": "Nedre Hakavik, ved bekk som krysser veien.", "gpsnord": 6621103}
+{"date": "2014-03-21", "gpsost": 215083, "plante": 485, "comment": "Nedre Hakavik, gamlejordet mot Eikern.", "gpsnord": 6621165}
+{"date": "2014-03-21", "gpsost": 215186, "plante": 486, "comment": "Berga mot Eikern ned for Kontorbakken, mars 2014.", "gpsnord": 6621027}
+{"date": "2014-03-22", "gpsost": 215181, "plante": 487, "comment": "Bekken/myrdraget nedafor Kontorbakken.", "gpsnord": 6620947}
+{"date": "2014-03-23", "gpsost": 215031, "plante": 488, "comment": "Nedre Hakavik, veigrøfta.", "gpsnord": 6621152}
+{"date": "2014-03-23", "gpsost": 215031, "plante": 480, "comment": "Nedre Hakavik, veigrøfta.", "gpsnord": 6621152}
+{"date": "2014-03-24", "gpsost": 213404, "plante": 112, "comment": "Bogåsen.", "gpsnord": 6621975}
+{"date": "2014-03-24", "gpsost": 213241, "plante": 71, "comment": "Bogåsen", "gpsnord": 6622020}
+{"date": "2014-03-24", "gpsost": 213403, "plante": 55, "comment": "Santhansfoss mot Bogåsen.", "gpsnord": 6621848}
+{"date": "2014-03-24", "gpsost": 213525, "plante": 491, "comment": "Santhansfoss mot Bogåsen, på stein.", "gpsnord": 6621722}
+{"date": "2014-03-01", "gpsost": 211496, "plante": 491, "comment": "Vedkubbe fra Gunhildrud, på bjørk.", "gpsnord": 6625580}
+{"date": "2014-03-24", "gpsost": 213525, "plante": 490, "comment": "Santhansfoss mot Bogåsen.", "gpsnord": 6621722}
+{"date": "2014-03-24", "gpsost": 213374, "plante": 489, "comment": "Bogåsen.", "gpsnord": 6622051}
+{"date": "2014-03-24", "gpsost": 214412, "plante": 492, "comment": "Gislerudmoen.", "gpsnord": 6621570}
+{"date": "2014-03-24", "gpsost": 213374, "plante": 493, "comment": "Bogåsen.", "gpsnord": 6622051}
+{"date": "2014-03-24", "gpsost": 213374, "plante": 494, "comment": "Bogåsen.", "gpsnord": 6622051}
+{"date": "2014-03-25", "gpsost": 214926, "plante": 2, "comment": "Veiskjæring ved saga.", "gpsnord": 6621425}
+{"date": "2014-03-27", "gpsost": 215072, "plante": 4, "comment": "", "gpsnord": 6621205}
+{"date": "2014-03-27", "gpsost": 215036, "plante": 118, "comment": "Første blomst.", "gpsnord": 6621199}
+{"date": "2014-03-28", "gpsost": 214393, "plante": 488, "comment": "Gislerudmoen,", "gpsnord": 6621609}
+{"date": "2014-03-28", "gpsost": 214393, "plante": 89, "comment": "Gislerudmoen.", "gpsnord": 6621609}
+{"date": "2014-03-28", "gpsost": 213984, "plante": 496, "comment": "Bukkebakkane.", "gpsnord": 6621554}
+{"date": "2014-03-28", "gpsost": 214939, "plante": 497, "comment": "Bukkebakkane.", "gpsnord": 6621318}
+{"date": "2014-03-28", "gpsost": 213976, "plante": 494, "comment": "Bukkebakkane ved buldoseveien.", "gpsnord": 6621559}
+{"date": "2014-03-31", "gpsost": 214214, "plante": 121, "comment": "Geitrygglia.", "gpsnord": 6621244}
+{"date": "2014-03-31", "gpsost": 214006, "plante": 498, "comment": "Geitryggen.", "gpsnord": 6620886}
+{"date": "2014-03-31", "gpsost": 214584, "plante": 499, "comment": "Holtungen på selje.", "gpsnord": 6621321}
+{"date": "2013-11-26", "gpsost": 213086, "plante": 458, "comment": "Storelvdalen, på gråor.", "gpsnord": 6620526}
+{"date": "2014-04-09", "gpsost": 215022, "plante": 500, "comment": "Nedre Hakavik.", "gpsnord": 6621183}
+{"date": "2014-04-11", "gpsost": 214824, "plante": 125, "comment": "Saga", "gpsnord": 6621394}
+{"date": "2014-04-11", "gpsost": 214834, "plante": 123, "comment": "Saga.", "gpsnord": 6621390}
+{"date": "2014-04-11", "gpsost": 214817, "plante": 501, "comment": "Saga, i blomst.", "gpsnord": 6621397}
+{"date": "2014-04-11", "gpsost": 214817, "plante": 502, "comment": "Ved brua Nedre Hakavik.", "gpsnord": 6621397}
+{"date": "2014-04-12", "gpsost": 215599, "plante": 541, "comment": "Kraftverket, Holtveien.", "gpsnord": 6620282}
+{"date": "2014-04-12", "gpsost": 215418, "plante": 504, "comment": "Kraftverket ved Holtveien.", "gpsnord": 6620429}
+{"date": "2014-04-12", "gpsost": 215561, "plante": 753, "comment": "Kraftverket ved Holtveien.", "gpsnord": 6620307}
+{"date": "2014-04-12", "gpsost": 215561, "plante": 507, "comment": "Kraftverket ved Holtveien.", "gpsnord": 6620307}
+{"date": "2014-04-12", "gpsost": 215431, "plante": 508, "comment": "Holtveien ved Kraftverket.", "gpsnord": 6620410}
+{"date": "2014-04-13", "gpsost": 215431, "plante": 453, "comment": "Kraftverket ved Holtveien. Lys grønn på toppen.", "gpsnord": 6620410}
+{"date": "2014-04-13", "gpsost": 215431, "plante": 509, "comment": "Kraftverket ved Holtveien.", "gpsnord": 6620410}
+{"date": "2014-04-13", "gpsost": 215418, "plante": 510, "comment": "Kraftverket ved Holtveien.", "gpsnord": 6620429}
+{"date": "2014-04-14", "gpsost": 21, "plante": 7, "comment": "Første blomst.", "gpsnord": 6621204}
+{"date": "2014-04-14", "gpsost": 215024, "plante": 8, "comment": "Første blomst.", "gpsnord": 661205}
+{"date": "2014-04-13", "gpsost": 215024, "plante": 99, "comment": "Første lauvet ute.", "gpsnord": 6621224}
+{"date": "2014-04-14", "gpsost": 215002, "plante": 122, "comment": "Første blomst.", "gpsnord": 6621224}
+{"date": "2014-04-14", "gpsost": 215023, "plante": 501, "comment": "Nedre Hakavik.", "gpsnord": 6621232}
+{"date": "2014-04-17", "gpsost": 215100, "plante": 112, "comment": "Øra", "gpsnord": 6621413}
+{"date": "2014-04-17", "gpsost": 215095, "plante": 511, "comment": "Nedre Hakavik på stein i orekratt ved Eikern.", "gpsnord": 6621278}
+{"date": "2014-04-19", "gpsost": 216153, "plante": 515, "comment": "Nedre Holtet ved Eikern.", "gpsnord": 6619897}
+{"date": "2014-04-19", "gpsost": 216153, "plante": 516, "comment": "Nedre Holtet ved Eikern.", "gpsnord": 6619897}
+{"date": "2014-04-19", "gpsost": 216153, "plante": 451, "comment": "Nedre Holtet ved Eikern.", "gpsnord": 6616153}
+{"date": "2014-04-18", "gpsost": 215462, "plante": 517, "comment": "Kraftverket.", "gpsnord": 6620480}
+{"date": "2014-04-20", "gpsost": 215408, "plante": 518, "comment": "Kraftverket.", "gpsnord": 6620538}
+{"date": "2014-04-19", "gpsost": 215462, "plante": 519, "comment": "Kraftverket.", "gpsnord": 6620480}
+{"date": "2014-04-21", "gpsost": 212301, "plante": 450, "comment": "Øytjernstua, ved Vesleelva.", "gpsnord": 6621673}
+{"date": "2014-04-21", "gpsost": 214233, "plante": 522, "comment": "Bukkebakkane.", "gpsnord": 6621564}
+{"date": "2014-04-21", "gpsost": 213932, "plante": 520, "comment": "Bukkbakkane.", "gpsnord": 6621568}
+{"date": "2014-04-21", "gpsost": 212581, "plante": 521, "comment": "Kavlebakk.", "gpsnord": 6621626}
+{"date": "2014-04-21", "gpsost": 211858, "plante": 492, "comment": "Flåtjern.", "gpsnord": 6621070}
+{"date": "2014-04-23", "gpsost": 216153, "plante": 526, "comment": "Nedre Holtet ved Eikern", "gpsnord": 6619897}
+{"date": "2014-04-23", "gpsost": 216153, "plante": 525, "comment": "Nedre Holtet ved Eikern.", "gpsnord": 6619897}
+{"date": "2014-04-23", "gpsost": 216153, "plante": 524, "comment": "Nedre Holtet ved Eikern.", "gpsnord": 6619897}
+{"date": "2014-04-21", "gpsost": 212301, "plante": 524, "comment": "Øytjernstua ved Vesleelva.", "gpsnord": 6621673}
+{"date": "2014-04-23", "gpsost": 216153, "plante": 183, "comment": "Nedre Holtet ved Eiker, rakler.", "gpsnord": 6619897}
+{"date": "2014-04-24", "gpsost": 214998, "plante": 303, "comment": "Nedre Hakavik, blomst.", "gpsnord": 6621237}
+{"date": "2014-04-25", "gpsost": 215886, "plante": 527, "comment": "Holtøya.", "gpsnord": 6621041}
+{"date": "2014-04-26", "gpsost": 215044, "plante": 527, "comment": "Nedre Hakavik.", "gpsnord": 6621011}
+{"date": "2014-04-27", "gpsost": 212629, "plante": 528, "comment": "Kavlebakk, april 2014.", "gpsnord": 6621625}
+{"date": "2014-04-28", "gpsost": 215052, "plante": 100, "comment": "Blomstring", "gpsnord": 6625012}
+{"date": "2014-04-11", "gpsost": 213400, "plante": 529, "comment": "Santhansfoss, april 2014.", "gpsnord": 6621570}
+{"date": "2014-04-29", "gpsost": 213123, "plante": 530, "comment": "Santhansfoss etter andre brua.", "gpsnord": 6621670}
+{"date": "2014-04-29", "gpsost": 213123, "plante": 531, "comment": "Santhansfoss.", "gpsnord": 6621670}
+{"date": "2014-04-24", "gpsost": 215013, "plante": 170, "comment": "I blomst ved husveggen.", "gpsnord": 6621212}
+{"date": "2014-04-29", "gpsost": 213882, "plante": 140, "comment": "Bukkebakkane.", "gpsnord": 6621588}
+{"date": "2014-04-30", "gpsost": 214798, "plante": 532, "comment": "Motorbanen.", "gpsnord": 6621324}
+{"date": "2014-04-29", "gpsost": 214685, "plante": 135, "comment": "Girslerudmoen, første blomst.", "gpsnord": 6621551}
+{"date": "2014-05-23", "gpsost": 216112, "plante": 533, "comment": "Nedre Holtet.", "gpsnord": 6619920}
+{"date": "2014-04-27", "gpsost": 211856, "plante": 533, "comment": "Flåtjern", "gpsnord": 6621134}
+{"date": "2014-05-03", "gpsost": 214022, "plante": 528, "comment": "Geitryggen.", "gpsnord": 6620868}
+{"date": "2014-05-03", "gpsost": 214188, "plante": 523, "comment": "Geitrygglia på felt småbjørk.", "gpsnord": 6621225}
+{"date": "2014-05-03", "gpsost": 214528, "plante": 201, "comment": "Holtungen.", "gpsnord": 6621289}
+{"date": "2014-05-03", "gpsost": 214528, "plante": 535, "comment": "Holtungen.", "gpsnord": 6621289}
+{"date": "2014-05-04", "gpsost": 214674, "plante": 89, "comment": "Holtungen.", "gpsnord": 6621321}
+{"date": "2014-05-04", "gpsost": 214745, "plante": 539, "comment": "Motorbanen.", "gpsnord": 6621285}
+{"date": "2014-05-05", "gpsost": 214405, "plante": 459, "comment": "Storelvdalen under Geitryggen.", "gpsnord": 6620861}
+{"date": "2014-05-04", "gpsost": 214516, "plante": 146, "comment": "Holtungen.", "gpsnord": 6621997}
+{"date": "2014-05-05", "gpsost": 214346, "plante": 146, "comment": "Storelvdalen under Geitryggen.", "gpsnord": 6620851}
+{"date": "2014-05-05", "gpsost": 214405, "plante": 540, "comment": "Elvedalen under Geitryggen.", "gpsnord": 6620861}
+{"date": "2014-05-05", "gpsost": 214393, "plante": 542, "comment": "Gislerudmoen.", "gpsnord": 6621609}
+{"date": "2014-04-20", "gpsost": 214798, "plante": 543, "comment": "Motorbanen.", "gpsnord": 6621224}
+{"date": "2014-05-03", "gpsost": 213982, "plante": 545, "comment": "Geitryggen.", "gpsnord": 6620817}
+{"date": "2014-05-05", "gpsost": 214916, "plante": 546, "comment": "Saga.", "gpsnord": 6621331}
+{"date": "2014-05-06", "gpsost": 214908, "plante": 547, "comment": "Saga.", "gpsnord": 6621346}
+{"date": "2014-05-08", "gpsost": 214370, "plante": 548, "comment": "Holtungen.", "gpsnord": 6621359}
+{"date": "2014-05-08", "gpsost": 214742, "plante": 531, "comment": "Motorbanen på dødende bresk.", "gpsnord": 6621292}
+{"date": "2014-05-08", "gpsost": 214932, "plante": 756, "comment": "Saga.", "gpsnord": 6621447}
+{"date": "2014-05-09", "gpsost": 215028, "plante": 152, "comment": "Nedre Hakavik", "gpsnord": 6621216}
+{"date": "2014-05-09", "gpsost": 214826, "plante": 198, "comment": "Motorbanen.", "gpsnord": 6621304}
+{"date": "2014-05-09", "gpsost": 214883, "plante": 555, "comment": "Nedre Hakavik.", "gpsnord": 6621142}
+{"date": "2014-05-09", "gpsost": 213557, "plante": 554, "comment": "Geitryggdalen.", "gpsnord": 6621331}
+{"date": "2014-05-09", "gpsost": 213711, "plante": 553, "comment": "Geitryggdalen.", "gpsnord": 6621240}
+{"date": "2014-05-09", "gpsost": 214738, "plante": 552, "comment": "Øvre Hakavik.", "gpsnord": 6620890}
+{"date": "2014-05-09", "gpsost": 214612, "plante": 540, "comment": "Øvre Hakavik.", "gpsnord": 6620865}
+{"date": "2014-05-10", "gpsost": 214902, "plante": 556, "comment": "Maskinrommet på saga.", "gpsnord": 6621393}
+{"date": "2014-05-13", "gpsost": 213671, "plante": 515, "comment": "Grimnes i veikanten.", "gpsnord": 6623484}
+{"date": "2014-05-13", "gpsost": 213671, "plante": 93, "comment": "Grimnes ved veien.", "gpsnord": 6623484}
+{"date": "2014-05-13", "gpsost": 213673, "plante": 557, "comment": "Grimnes ved veien.", "gpsnord": 6623481}
+{"date": "2014-05-13", "gpsost": 213673, "plante": 89, "comment": "Grimnes ved veien mot Bogen.", "gpsnord": 6623481}
+{"date": "2014-05-14", "gpsost": 213671, "plante": 468, "comment": "Grimnes på veien mot Bogen.", "gpsnord": 6623484}
+{"date": "2014-05-14", "gpsost": 213671, "plante": 763, "comment": "Grimnes på veien mot Bogen.", "gpsnord": 6623484}
+{"date": "2014-05-14", "gpsost": 212779, "plante": 453, "comment": "Vesle Ålevann. Grønn oppe, bleikbrun nede.", "gpsnord": 6620295}
+{"date": "2014-05-14", "gpsost": 213823, "plante": 112, "comment": "Bukkebakkane.", "gpsnord": 6621532}
+{"date": "2014-05-14", "gpsost": 213328, "plante": 510, "comment": "Santhansfoss.", "gpsnord": 6621599}
+{"date": "2014-05-14", "gpsost": 214148, "plante": 309, "comment": "Bukkebakkane.", "gpsnord": 6621588}
+{"date": "2014-05-15", "gpsost": 215768, "plante": 489, "comment": "Holtøya sør.", "gpsnord": 6620989}
+{"date": "2014-05-14", "gpsost": 212173, "plante": 489, "comment": "Øytjernstua.", "gpsnord": 6621417}
+{"date": "2014-05-14", "gpsost": 212023, "plante": 560, "comment": "I bekkegrøft ved veien før Flåtjern.", "gpsnord": 6621366}
+{"date": "2014-05-16", "gpsost": 214828, "plante": 22, "comment": "Øvre Hakavik.", "gpsnord": 6620920}
+{"date": "2014-05-16", "gpsost": 214929, "plante": 552, "comment": "Nedre Hakavik.", "gpsnord": 6621101}
+{"date": "2014-05-16", "gpsost": 215370, "plante": 480, "comment": "Nord for Kraftverket ved Eikern.", "gpsnord": 6620765}
+{"date": "2014-05-16", "gpsost": 215334, "plante": 561, "comment": "Ved Eikern ned for kontorbakken, mai 2014.", "gpsnord": 6620824}
+{"date": "2014-05-16", "gpsost": 215334, "plante": 562, "comment": "Ved Eikern ned for Kontorbakken.", "gpsnord": 6620824}
+{"date": "2014-05-13", "gpsost": 213671, "plante": 563, "comment": "Grimnes.", "gpsnord": 6623484}
+{"date": "2014-05-16", "gpsost": 215334, "plante": 563, "comment": "Eikern ned for Kontrobakken.", "gpsnord": 6620824}
+{"date": "2014-05-16", "gpsost": 214931, "plante": 563, "comment": "Nedre Hakavik.", "gpsnord": 6621101}
+{"date": "2014-05-18", "gpsost": 215068, "plante": 231, "comment": "Nedre Hakavik.", "gpsnord": 6621111}
+{"date": "2014-05-21", "gpsost": 214189, "plante": 193, "comment": "Geitrygglia.", "gpsnord": 6621300}
+{"date": "2014-05-21", "gpsost": 214575, "plante": 232, "comment": "Holtungen.", "gpsnord": 6621406}
+{"date": "2014-05-21", "gpsost": 214333, "plante": 292, "comment": "Holtungen.", "gpsnord": 6621343}
+{"date": "2014-05-21", "gpsost": 214582, "plante": 565, "comment": "Holtungen.", "gpsnord": 6621401}
+{"date": "2014-05-22", "gpsost": 214857, "plante": 566, "comment": "Motorbanen.", "gpsnord": 6621349}
+{"date": "2014-05-23", "gpsost": 215598, "plante": 568, "comment": "Holtøya nord.", "gpsnord": 6621394}
+{"date": "2014-05-23", "gpsost": 215598, "plante": 567, "comment": "Holtøya nord.", "gpsnord": 6621394}
+{"date": "2014-05-24", "gpsost": 214938, "plante": 461, "comment": "Ved brua.", "gpsnord": 6621318}
+{"date": "2014-05-25", "gpsost": 213075, "plante": 570, "comment": "Kilane, sti mot Tistillen.", "gpsnord": 6618605}
+{"date": "2014-05-25", "gpsost": 212213, "plante": 571, "comment": "Skattjern.", "gpsnord": 6629004}
+{"date": "2014-05-28", "gpsost": 215102, "plante": 269, "comment": "Nedre Hakavik, berga mot Eikern.", "gpsnord": 6621077}
+{"date": "2014-05-28", "gpsost": 215102, "plante": 573, "comment": "Nedre Hakavik, berga mot Eikern.", "gpsnord": 6621077}
+{"date": "2014-05-11", "gpsost": 215102, "plante": 574, "comment": "Saga.", "gpsnord": 6621077}
+{"date": "2014-05-11", "gpsost": 214902, "plante": 495, "comment": "Saga, inne i maskinrommet.", "gpsnord": 6622193}
+{"date": "2014-05-28", "gpsost": 214770, "plante": 572, "comment": "Øve Hakavik.", "gpsnord": 6620868}
+{"date": "2014-05-28", "gpsost": 214728, "plante": 569, "comment": "Øvre Hakavik.", "gpsnord": 6620885}
+{"date": "2014-04-29", "gpsost": 212687, "plante": 544, "comment": "Kavlebakk.", "gpsnord": 6621665}
+{"date": "2014-06-05", "gpsost": 215602, "plante": 269, "comment": "Holtøya nord.", "gpsnord": 6621353}
+{"date": "2014-06-05", "gpsost": 215586, "plante": 282, "comment": "Holtøya nord.", "gpsnord": 6621381}
+{"date": "2014-06-05", "gpsost": 215584, "plante": 575, "comment": "Holtøya nord.", "gpsnord": 6621384}
+{"date": "2014-06-05", "gpsost": 215602, "plante": 576, "comment": "Holtøya nord.", "gpsnord": 6621365}
+{"date": "2014-06-05", "gpsost": 215608, "plante": 267, "comment": "Holtøya nord.", "gpsnord": 6621360}
+{"date": "2014-06-06", "gpsost": 215056, "plante": 577, "comment": "Nedre Hakavik, juni 2014.", "gpsnord": 6621129}
+{"date": "2014-06-07", "gpsost": 215006, "plante": 578, "comment": "Nedre Hakavik.", "gpsnord": 6621223}
+{"date": "2014-06-08", "gpsost": 214658, "plante": 579, "comment": "Motorbanen.", "gpsnord": 6621377}
+{"date": "2014-06-09", "gpsost": 215098, "plante": 580, "comment": "Nedre Hakavik ved veien mot kontorbakken.", "gpsnord": 6621055}
+{"date": "2014-06-09", "gpsost": 215098, "plante": 581, "comment": "Nedre Hakavik, veien mot Kontorbakken.", "gpsnord": 6621055}
+{"date": "2014-06-11", "gpsost": 215605, "plante": 448, "comment": "Holtøya, knoppbristing.", "gpsnord": 6621389}
+{"date": "2014-06-01", "gpsost": 215552, "plante": 393, "comment": "Kraftverket.", "gpsnord": 6620429}
+{"date": "2014-06-12", "gpsost": 211854, "plante": 221, "comment": "Flåtjern.", "gpsnord": 6621135}
+{"date": "2014-06-12", "gpsost": 211880, "plante": 186, "comment": "Flåtjern", "gpsnord": 6621135}
+{"date": "2014-06-14", "gpsost": 214680, "plante": 351, "comment": "Holtungen.", "gpsnord": 6621252}
+{"date": "2014-06-14", "gpsost": 211891, "plante": 576, "comment": "Flåtjern.", "gpsnord": 6621162}
+{"date": "2014-06-14", "gpsost": 214680, "plante": 407, "comment": "Holtungen, i knopp.", "gpsnord": 6621252}
+{"date": "2014-06-14", "gpsost": 214680, "plante": 376, "comment": "Hltungen.", "gpsnord": 6621252}
+{"date": "2014-06-15", "gpsost": 215036, "plante": 582, "comment": "Nedre Hakavik.", "gpsnord": 6621158}
+{"date": "2014-06-15", "gpsost": 213526, "plante": 583, "comment": "Santhansfoss.", "gpsnord": 6621580}
+{"date": "2014-06-15", "gpsost": 213427, "plante": 306, "comment": "Santahsnfoss.", "gpsnord": 6621557}
+{"date": "2014-06-14", "gpsost": 211839, "plante": 584, "comment": "Flåtjern.", "gpsnord": 6621136}
+{"date": "2014-06-15", "gpsost": 214713, "plante": 585, "comment": "Holtungen.", "gpsnord": 6621292}
+{"date": "2014-06-19", "gpsost": 215412, "plante": 586, "comment": "Kraftverket, i knopp.", "gpsnord": 6620445}
+{"date": "2014-06-19", "gpsost": 215412, "plante": 587, "comment": "Kraftverket.", "gpsnord": 6620445}
+{"date": "2014-06-20", "gpsost": 215589, "plante": 579, "comment": "Kraftverket.", "gpsnord": 6620375}
+{"date": "2014-06-20", "gpsost": 215600, "plante": 582, "comment": "Kraftverket.", "gpsnord": 6620412}
+{"date": "2014-06-20", "gpsost": 215490, "plante": 246, "comment": "Kraftverket.", "gpsnord": 6620519}
+{"date": "2014-06-21", "gpsost": 214565, "plante": 398, "comment": "Okstjern.", "gpsnord": 6618580}
+{"date": "2014-06-21", "gpsost": 214359, "plante": 24, "comment": "Anekset.", "gpsnord": 6618745}
+{"date": "2014-06-21", "gpsost": 214209, "plante": 583, "comment": "Damstua.", "gpsnord": 6618447}
+{"date": "2014-06-21", "gpsost": 214874, "plante": 86, "comment": "Sjulerudseter.", "gpsnord": 6617600}
+{"date": "2014-06-21", "gpsost": 214604, "plante": 590, "comment": "Oksetjern.", "gpsnord": 6618569}
+{"date": "2014-06-21", "gpsost": 214163, "plante": 589, "comment": "Dammen, juni 2014.", "gpsnord": 6618480}
+{"date": "2014-06-21", "gpsost": 214792, "plante": 588, "comment": "Myr sør for Sjulerudsetertjern.", "gpsnord": 6617604}
+{"date": "2014-06-20", "gpsost": 215496, "plante": 317, "comment": "Kraftverket.", "gpsnord": 6620516}
+{"date": "2014-06-21", "gpsost": 215205, "plante": 180, "comment": "Sør for Sjulerudseter.", "gpsnord": 6617675}
+{"date": "2014-06-01", "gpsost": 213652, "plante": 411, "comment": "Mellom Grimnes og Gislerudhytta.", "gpsnord": 6623530}
+{"date": "2014-06-22", "gpsost": 209907, "plante": 411, "comment": "Nesfjellia.", "gpsnord": 6621313}
+{"date": "2014-06-23", "gpsost": 214695, "plante": 595, "comment": "Holtungen.", "gpsnord": 6621283}
+{"date": "2014-06-23", "gpsost": 214652, "plante": 594, "comment": "Holtungen.", "gpsnord": 6621259}
+{"date": "2014-06-23", "gpsost": 214691, "plante": 592, "comment": "Holtungen.", "gpsnord": 6621263}
+{"date": "2014-06-23", "gpsost": 214684, "plante": 593, "comment": "Holtungen.", "gpsnord": 6621122}
+{"date": "2014-06-25", "gpsost": 210425, "plante": 448, "comment": "Svarttjern.", "gpsnord": 6619616}
+{"date": "2014-06-25", "gpsost": 210425, "plante": 391, "comment": "Svarttjern.", "gpsnord": 6619616}
+{"date": "2014-06-26", "gpsost": 214837, "plante": 586, "comment": "Motorbanen.", "gpsnord": 661355}
+{"date": "2014-06-27", "gpsost": 214150, "plante": 597, "comment": "Dammen.", "gpsnord": 6618508}
+{"date": "2014-06-27", "gpsost": 214672, "plante": 596, "comment": "Åttersvingen.", "gpsnord": 6620304}
+{"date": "2014-06-27", "gpsost": 214166, "plante": 405, "comment": "Ved Damstua, tidlig fase.", "gpsnord": 6618435}
+{"date": "2014-06-26", "gpsost": 210923, "plante": 583, "comment": "Svarttjernsbekken.", "gpsnord": 6619335}
+{"date": "2014-06-28", "gpsost": 214551, "plante": 369, "comment": "Øvre Hakavik.", "gpsnord": 6620947}
+{"date": "2014-06-28", "gpsost": 214920, "plante": 598, "comment": "Saga.", "gpsnord": 6621325}
+{"date": "2014-07-27", "gpsost": 214469, "plante": 20, "comment": "Øvre Hakavik ved Storelva.", "gpsnord": 6620914}
+{"date": "2014-06-30", "gpsost": 213689, "plante": 24, "comment": "Geitryggdalen.", "gpsnord": 6621260}
+{"date": "2014-06-28", "gpsost": 214640, "plante": 599, "comment": "Øvre Hakavik", "gpsnord": 6620958}
+{"date": "2014-06-28", "gpsost": 214469, "plante": 600, "comment": "Øvre Hakavik ved Storelva.", "gpsnord": 6620914}
+{"date": "2014-07-02", "gpsost": 215022, "plante": 243, "comment": "Nedre Hakavik.", "gpsnord": 6621204}
+{"date": "2014-07-04", "gpsost": 213734, "plante": 600, "comment": "Trolletlia.", "gpsnord": 6620313}
+{"date": "2014-07-04", "gpsost": 213792, "plante": 581, "comment": "Bjønnestillinga", "gpsnord": 6620636}
+{"date": "2014-07-04", "gpsost": 213667, "plante": 223, "comment": "Bjønestillinga.", "gpsnord": 6620627}
+{"date": "2014-07-04", "gpsost": 213767, "plante": 366, "comment": "Bjønnestillinga.", "gpsnord": 6620627}
+{"date": "2014-07-04", "gpsost": 213792, "plante": 601, "comment": "Bjønnestillinga.", "gpsnord": 6620636}
+{"date": "2014-06-30", "gpsost": 214514, "plante": 602, "comment": "Øvre Hakavik.", "gpsnord": 6620811}
+{"date": "2014-06-30", "gpsost": 213624, "plante": 603, "comment": "Geitryggdalen.", "gpsnord": 6621293}
+{"date": "2014-07-08", "gpsost": 213453, "plante": 604, "comment": "Kilane, Øksne. Store menger i reguleringssonen (nå tørt)", "gpsnord": 6618328}
+{"date": "2014-07-13", "gpsost": 212911, "plante": 399, "comment": "Maurtjern.", "gpsnord": 6620013}
+{"date": "2014-07-13", "gpsost": 213418, "plante": 443, "comment": "På stien under Lamyr.", "gpsnord": 6619649}
+{"date": "2014-07-14", "gpsost": 213224, "plante": 605, "comment": "Elgleet (Æsle)", "gpsnord": 6619668}
+{"date": "2014-07-15", "gpsost": 213295, "plante": 606, "comment": "Æsle, stien mot bygda.", "gpsnord": 6619640}
+{"date": "2014-07-17", "gpsost": 215112, "plante": 380, "comment": "Nedre Hakavik.", "gpsnord": 6621040}
+{"date": "2014-07-19", "gpsost": 215096, "plante": 342, "comment": "Nedre Hakavk på stranda.", "gpsnord": 6621251}
+{"date": "2014-07-18", "gpsost": 214663, "plante": 607, "comment": "Sjulerudsetertjern.", "gpsnord": 6618147}
+{"date": "2014-07-21", "gpsost": 215037, "plante": 608, "comment": "Nedre Hakavik.", "gpsnord": 6621195}
+{"date": "2014-07-17", "gpsost": 215124, "plante": 592, "comment": "Kontorbakken.", "gpsnord": 6620705}
+{"date": "2014-07-22", "gpsost": 215124, "plante": 313, "comment": "Nedre Hakavik, stien på linna.", "gpsnord": 6621216}
+{"date": "2014-07-23", "gpsost": 215011, "plante": 609, "comment": "Nedre Hakavik (gårsdplassen 955)", "gpsnord": 6621227}
+{"date": "2014-07-23", "gpsost": 215197, "plante": 86, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621063}
+{"date": "2014-07-25", "gpsost": 214800, "plante": 610, "comment": "Sjulerudsetertjern.", "gpsnord": 6618166}
+{"date": "2014-07-26", "gpsost": 215193, "plante": 611, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621026}
+{"date": "2014-07-18", "gpsost": 214677, "plante": 612, "comment": "Sjulerudsetertjern.", "gpsnord": 6618148}
+{"date": "2014-07-25", "gpsost": 214176, "plante": 411, "comment": "Anekset, Toppen.", "gpsnord": 6619007}
+{"date": "2014-07-30", "gpsost": 215093, "plante": 162, "comment": "Nedre Hakavik.", "gpsnord": 6621241}
+{"date": "2014-07-30", "gpsost": 215459, "plante": 615, "comment": "Eikern ved Kraftverket.", "gpsnord": 6620555}
+{"date": "2014-07-30", "gpsost": 214854, "plante": 614, "comment": "Eikern i Kultvika.", "gpsnord": 6620555}
+{"date": "2014-07-30", "gpsost": 214535, "plante": 615, "comment": "Eikern ved Boglandet.", "gpsnord": 6622512}
+{"date": "2014-07-30", "gpsost": 215602, "plante": 420, "comment": "Eikern ved Kraftverket.", "gpsnord": 6620385}
+{"date": "2014-07-30", "gpsost": 215602, "plante": 613, "comment": "Bogbukta.", "gpsnord": 6620385}
+{"date": "2014-07-31", "gpsost": 210988, "plante": 445, "comment": "Gunhildrudknatten. Uten bær (pga tørke?)", "gpsnord": 6623667}
+{"date": "2014-07-25", "gpsost": 214773, "plante": 616, "comment": "Sjulerusetertjern.", "gpsnord": 6618202}
+{"date": "2014-07-25", "gpsost": 214773, "plante": 617, "comment": "Sjulerudsetertjern.", "gpsnord": 6618202}
+{"date": "2014-07-28", "gpsost": 215190, "plante": 618, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621040}
+{"date": "2014-08-05", "gpsost": 215711, "plante": 379, "comment": "Holtøya, mitberget.", "gpsnord": 6621108}
+{"date": "2014-08-05", "gpsost": 215711, "plante": 319, "comment": "Holtøya, midtberga.", "gpsnord": 6621108}
+{"date": "2014-08-19", "gpsost": 214998, "plante": 619, "comment": "Nedre Hakavik.", "gpsnord": 6621241}
+{"date": "2014-08-20", "gpsost": 214643, "plante": 621, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6620952}
+{"date": "2014-08-20", "gpsost": 214945, "plante": 622, "comment": "Nedre Hakavik.", "gpsnord": 6621316}
+{"date": "2014-08-20", "gpsost": 214643, "plante": 623, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6620952}
+{"date": "2014-08-20", "gpsost": 214643, "plante": 624, "comment": "Øvre Hakavik mot elva. Ungt eksemplar.", "gpsnord": 6620952}
+{"date": "2014-08-22", "gpsost": 214689, "plante": 625, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6621017}
+{"date": "2014-08-22", "gpsost": 214639, "plante": 626, "comment": "Holtungen ved Storelva.", "gpsnord": 6621041}
+{"date": "2014-08-22", "gpsost": 214639, "plante": 627, "comment": "Holtungen ved Storelva.", "gpsnord": 6621041}
+{"date": "2014-08-20", "gpsost": 214589, "plante": 628, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6620939}
+{"date": "2014-08-22", "gpsost": 214690, "plante": 606, "comment": "Holtungen ved Storelva.", "gpsnord": 6621087}
+{"date": "2014-08-22", "gpsost": 214690, "plante": 630, "comment": "Holtungen ved Storelva.", "gpsnord": 6621087}
+{"date": "2014-08-22", "gpsost": 214678, "plante": 427, "comment": "Øvre Hakavik mot elva, august 2014.", "gpsnord": 6621012}
+{"date": "2014-08-22", "gpsost": 214678, "plante": 633, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6621012}
+{"date": "2014-08-22", "gpsost": 215023, "plante": 631, "comment": "Nedre Hakavik, på plenen.", "gpsnord": 6621201}
+{"date": "2014-08-22", "gpsost": 214985, "plante": 632, "comment": "Nedre Hakavik på hestemøkk.", "gpsnord": 6621200}
+{"date": "2014-08-22", "gpsost": 214683, "plante": 635, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6621023}
+{"date": "2014-08-22", "gpsost": 214683, "plante": 256, "comment": "Øvre Hakavik ved elva.", "gpsnord": 6621023}
+{"date": "2014-08-22", "gpsost": 214683, "plante": 636, "comment": "Holtungen ved Storelva.", "gpsnord": 6621023}
+{"date": "2014-08-22", "gpsost": 214682, "plante": 637, "comment": "Øvre Hakavik mot elva, på morken bjørkestokk.", "gpsnord": 6620998}
+{"date": "2014-08-22", "gpsost": 214636, "plante": 634, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6620956}
+{"date": "2014-08-25", "gpsost": 214847, "plante": 456, "comment": "Nedre Hakavik.", "gpsnord": 6621109}
+{"date": "2014-08-25", "gpsost": 214721, "plante": 638, "comment": "Øvre Hakavik, mot elva.", "gpsnord": 6621034}
+{"date": "2014-08-25", "gpsost": 214811, "plante": 639, "comment": "Nedre Hakavik under veien mot Øvre.", "gpsnord": 6620995}
+{"date": "2014-08-25", "gpsost": 214867, "plante": 640, "comment": "Nedre Hakavik.", "gpsnord": 621106}
+{"date": "2014-08-25", "gpsost": 214762, "plante": 641, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6621027}
+{"date": "2014-08-25", "gpsost": 214867, "plante": 642, "comment": "Nedre Hakavik.", "gpsnord": 6621106}
+{"date": "2014-08-25", "gpsost": 214793, "plante": 643, "comment": "Øvre Hakavik ved veien mot Nedre.", "gpsnord": 6620988}
+{"date": "2014-08-25", "gpsost": 214822, "plante": 644, "comment": "Nedre Hakavik mot Øvre.", "gpsnord": 6621019}
+{"date": "2014-08-26", "gpsost": 214761, "plante": 645, "comment": "Nedre Hakavik ved brønnen.", "gpsnord": 6621086}
+{"date": "2014-08-27", "gpsost": 214906, "plante": 646, "comment": "Nedre Hakavik.", "gpsnord": 6621142}
+{"date": "2014-08-27", "gpsost": 214768, "plante": 647, "comment": "Nedre Hakavik ved brønnen.", "gpsnord": 6621089}
+{"date": "2014-08-27", "gpsost": 214761, "plante": 648, "comment": "Nedre Hakavik ved brønnen.", "gpsnord": 6621085}
+{"date": "2014-08-27", "gpsost": 215772, "plante": 649, "comment": "Holtøya sør.", "gpsnord": 6621058}
+{"date": "2014-08-27", "gpsost": 215759, "plante": 650, "comment": "Holtøya.", "gpsnord": 6621082}
+{"date": "2014-08-27", "gpsost": 215749, "plante": 652, "comment": "Holtøya.", "gpsnord": 6621105}
+{"date": "2014-08-27", "gpsost": 215726, "plante": 653, "comment": "Holtøya på furustubbe.", "gpsnord": 6621099}
+{"date": "2014-08-25", "gpsost": 214767, "plante": 654, "comment": "Nedre Hakavik ved brønnen.", "gpsnord": 6621085}
+{"date": "2014-08-25", "gpsost": 214778, "plante": 662, "comment": "Nedre Hakavik ved brønnnen, hvit form.", "gpsnord": 6621083}
+{"date": "2014-08-28", "gpsost": 215749, "plante": 655, "comment": "Holtøya.", "gpsnord": 6621105}
+{"date": "2014-09-02", "gpsost": 214944, "plante": 657, "comment": "Nedre Hakavik ved brua.", "gpsnord": 6621321}
+{"date": "2014-08-28", "gpsost": 211978, "plante": 656, "comment": "Flåtjern.", "gpsnord": 6621276}
+{"date": "2014-08-29", "gpsost": 214850, "plante": 624, "comment": "Nedre Hakavik.", "gpsnord": 6621112}
+{"date": "2014-08-29", "gpsost": 215755, "plante": 615, "comment": "Eikern ved Holtøya sør", "gpsnord": 6620997}
+{"date": "2014-08-29", "gpsost": 215778, "plante": 658, "comment": "Holtøya sør.", "gpsnord": 6620996}
+{"date": "2014-08-30", "gpsost": 214809, "plante": 659, "comment": "Nedre Hakavik.", "gpsnord": 6621098}
+{"date": "2014-08-30", "gpsost": 215084, "plante": 660, "comment": "Nedre Hakavik  ved båtplassen.", "gpsnord": 6621261}
+{"date": "2014-08-30", "gpsost": 215750, "plante": 661, "comment": "Holtøya.", "gpsnord": 6621114}
+{"date": "2014-08-30", "gpsost": 215750, "plante": 662, "comment": "Holtøya.", "gpsnord": 6621114}
+{"date": "2014-09-02", "gpsost": 214944, "plante": 663, "comment": "Nedre Hakavik ved brua.", "gpsnord": 6621321}
+{"date": "2014-09-02", "gpsost": 214921, "plante": 664, "comment": "Nedre Hakavik ved brakka.", "gpsnord": 6621258}
+{"date": "2014-09-03", "gpsost": 214940, "plante": 667, "comment": "Nedre Hakavik ved brua.", "gpsnord": 6621318}
+{"date": "2014-09-03", "gpsost": 214935, "plante": 666, "comment": "Nedre Hakavik ved brakka.", "gpsnord": 6621256}
+{"date": "2014-09-02", "gpsost": 214935, "plante": 668, "comment": "Nedre Hakavik ved brakka.", "gpsnord": 6621256}
+{"date": "2014-09-02", "gpsost": 214935, "plante": 670, "comment": "Nedre Hakavik ved brakka.", "gpsnord": 6621256}
+{"date": "2014-09-02", "gpsost": 214935, "plante": 669, "comment": "Nedre Hakavik ved brakka.", "gpsnord": 6621256}
+{"date": "2014-09-02", "gpsost": 214944, "plante": 652, "comment": "Nedre Hakavik ved brua.", "gpsnord": 6621321}
+{"date": "2014-09-08", "gpsost": 21493, "plante": 665, "comment": "Nedre Hakavik ved brakka.", "gpsnord": 6621256}
+{"date": "2014-09-08", "gpsost": 214930, "plante": 671, "comment": "Nedre Hakavik ved brakka.", "gpsnord": 6621256}
+{"date": "2014-09-09", "gpsost": 215552, "plante": 427, "comment": "Hakavik Kraftverk.", "gpsnord": 6620416}
+{"date": "2014-09-10", "gpsost": 215025, "plante": 629, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621193}
+{"date": "2014-09-11", "gpsost": 214677, "plante": 672, "comment": "Gislerud", "gpsnord": 6621904}
+{"date": "2014-09-10", "gpsost": 215022, "plante": 673, "comment": "Nedre Hakavik på tomta.", "gpsnord": 6621233}
+{"date": "2014-09-10", "gpsost": 215027, "plante": 674, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621197}
+{"date": "2014-09-11", "gpsost": 214616, "plante": 675, "comment": "Øvre Hakavik.", "gpsnord": 6620857}
+{"date": "2014-09-11", "gpsost": 214616, "plante": 676, "comment": "Øvre Hakavik.", "gpsnord": 6620857}
+{"date": "2014-09-11", "gpsost": 214616, "plante": 677, "comment": "Øvre Hakavik.", "gpsnord": 6620857}
+{"date": "2014-09-11", "gpsost": 214900, "plante": 678, "comment": "Nedre Hakavik, toppveien.", "gpsnord": 6621139}
+{"date": "2014-09-11", "gpsost": 214616, "plante": 642, "comment": "Øvre Hakavik.", "gpsnord": 6620857}
+{"date": "2014-09-12", "gpsost": 215094, "plante": 681, "comment": "Nedre Hakavik ved båten.", "gpsnord": 6621246}
+{"date": "2014-09-12", "gpsost": 215064, "plante": 680, "comment": "Nedre Hakavik, stien til båten.", "gpsnord": 6621202}
+{"date": "2014-09-12", "gpsost": 215788, "plante": 682, "comment": "Holtøya sør.", "gpsnord": 6620990}
+{"date": "2014-09-12", "gpsost": 214606, "plante": 683, "comment": "Øvre Hakavik.", "gpsnord": 6620826}
+{"date": "2014-09-12", "gpsost": 214606, "plante": 684, "comment": "Øvre Hakavik mot Danseplattingen.", "gpsnord": 6620826}
+{"date": "2014-09-12", "gpsost": 215094, "plante": 679, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621246}
+{"date": "2014-09-09", "gpsost": 214813, "plante": 425, "comment": "Nedre Hakavik mot Øvre.", "gpsnord": 6621042}
+{"date": "2014-09-15", "gpsost": 215027, "plante": 686, "comment": "På plenen, nedre Hakavik.", "gpsnord": 6621195}
+{"date": "2014-09-15", "gpsost": 215778, "plante": 687, "comment": "Holtøya sør.", "gpsnord": 6620997}
+{"date": "2014-09-15", "gpsost": 214979, "plante": 688, "comment": "Nedre Hakavik ved veien.", "gpsnord": 6621229}
+{"date": "2014-09-16", "gpsost": 214921, "plante": 685, "comment": "Nedre Hakavik ved saga.", "gpsnord": 6621327}
+{"date": "2014-09-16", "gpsost": 214185, "plante": 689, "comment": "Geitrygglia.", "gpsnord": 6621265}
+{"date": "2014-09-16", "gpsost": 213767, "plante": 440, "comment": "Trolletlia.", "gpsnord": 6620460}
+{"date": "2014-09-16", "gpsost": 213797, "plante": 690, "comment": "Bjønnestillinga.", "gpsnord": 6620636}
+{"date": "2014-09-16", "gpsost": 213671, "plante": 691, "comment": "Bjønnestillinga, stien over myra.", "gpsnord": 6620627}
+{"date": "2014-09-16", "gpsost": 213736, "plante": 692, "comment": "Trolletlia.", "gpsnord": 6620389}
+{"date": "2014-09-17", "gpsost": 215588, "plante": 693, "comment": "Holtøya nord.", "gpsnord": 6621380}
+{"date": "2014-09-17", "gpsost": 215612, "plante": 694, "comment": "Holtøya nord.", "gpsnord": 6621357}
+{"date": "2014-09-16", "gpsost": 213389, "plante": 695, "comment": "Æsle.", "gpsnord": 6619648}
+{"date": "2014-09-16", "gpsost": 213753, "plante": 696, "comment": "Trolletlia.", "gpsnord": 6620452}
+{"date": "2014-09-12", "gpsost": 213753, "plante": 697, "comment": "Holtøya sør.", "gpsnord": 6620452}
+{"date": "2014-09-18", "gpsost": 214159, "plante": 698, "comment": "Geitrygglia.", "gpsnord": 6621339}
+{"date": "2014-09-18", "gpsost": 213326, "plante": 539, "comment": "Santhansfoss.", "gpsnord": 6621582}
+{"date": "2014-09-18", "gpsost": 213326, "plante": 699, "comment": "Santhansfoss på seljestokk.", "gpsnord": 6621582}
+{"date": "2014-09-18", "gpsost": 213283, "plante": 645, "comment": "Geitryggdalen.", "gpsnord": 6621541}
+{"date": "2014-09-18", "gpsost": 213186, "plante": 700, "comment": "Santhansfoss.", "gpsnord": 6621661}
+{"date": "2014-09-18", "gpsost": 213320, "plante": 701, "comment": "Santhansfoss.", "gpsnord": 6621594}
+{"date": "2014-09-18", "gpsost": 213186, "plante": 702, "comment": "Santhansfoss.", "gpsnord": 6621661}
+{"date": "2014-09-16", "gpsost": 212703, "plante": 703, "comment": "Kavlebakk.", "gpsnord": 6621568}
+{"date": "2014-09-20", "gpsost": 214163, "plante": 662, "comment": "Vesleelva ved Gislerudbrønnen.", "gpsnord": 6621463}
+{"date": "2014-09-20", "gpsost": 214110, "plante": 554, "comment": "Bukkebakkane.", "gpsnord": 6621498}
+{"date": "2014-09-20", "gpsost": 214108, "plante": 704, "comment": "Danseplattingen mot Geitryggen.", "gpsnord": 6620731}
+{"date": "2014-09-20", "gpsost": 213917, "plante": 705, "comment": "Geitryggen.", "gpsnord": 6620980}
+{"date": "2014-09-20", "gpsost": 214978, "plante": 706, "comment": "Nedre Hakavik.", "gpsnord": 6621229}
+{"date": "2014-09-20", "gpsost": 214339, "plante": 706, "comment": "Gislerudmoen.", "gpsnord": 6621559}
+{"date": "2014-09-20", "gpsost": 214270, "plante": 707, "comment": "Gislerudmoen.", "gpsnord": 6621517}
+{"date": "2014-09-18", "gpsost": 213274, "plante": 708, "comment": "Santahnsfoss.", "gpsnord": 6621598}
+{"date": "2014-09-18", "gpsost": 213274, "plante": 709, "comment": "Santhansfoss.", "gpsnord": 6621598}
+{"date": "2014-09-18", "gpsost": 212703, "plante": 710, "comment": "Kavlebakk.", "gpsnord": 6621568}
+{"date": "2014-09-23", "gpsost": 214831, "plante": 712, "comment": "Skolen.", "gpsnord": 6621706}
+{"date": "2014-09-23", "gpsost": 214826, "plante": 711, "comment": "Ved Skolen.", "gpsnord": 6621706}
+{"date": "2014-09-18", "gpsost": 214619, "plante": 713, "comment": "Øvre Hakavik.", "gpsnord": 6620856}
+{"date": "2014-09-20", "gpsost": 214345, "plante": 714, "comment": "Gislerudmoen.", "gpsnord": 6621559}
+{"date": "2014-09-20", "gpsost": 213488, "plante": 715, "comment": "Geitryggdalen.", "gpsnord": 6621352}
+{"date": "2014-09-20", "gpsost": 214345, "plante": 716, "comment": "Gislerudmoen.", "gpsnord": 6621559}
+{"date": "2014-09-20", "gpsost": 213255, "plante": 717, "comment": "Santhansfoss.", "gpsnord": 6621608}
+{"date": "2014-09-20", "gpsost": 215023, "plante": 718, "comment": "Plenen, Nedre Hakavik.", "gpsnord": 6621227}
+{"date": "2014-09-27", "gpsost": 213589, "plante": 719, "comment": "Geitryggdalen.", "gpsnord": 6621334}
+{"date": "2014-09-27", "gpsost": 214221, "plante": 720, "comment": "Danseplattingen mot elva.", "gpsnord": 6620746}
+{"date": "2014-09-02", "gpsost": 214920, "plante": 721, "comment": "Nedre Hakavik ved Brakka.", "gpsnord": 6621265}
+{"date": "2014-09-29", "gpsost": 216271, "plante": 722, "comment": "Nedre Holtet.", "gpsnord": 6619510}
+{"date": "2014-09-29", "gpsost": 215946, "plante": 723, "comment": "Nedre Holtet.", "gpsnord": 6620106}
+{"date": "2014-09-29", "gpsost": 216411, "plante": 710, "comment": "Sjulerud, ved båthuset.", "gpsnord": 6618988}
+{"date": "2014-09-29", "gpsost": 216269, "plante": 719, "comment": "Nedre Holtet.", "gpsnord": 6619517}
+{"date": "2014-10-01", "gpsost": 214636, "plante": 462, "comment": "Holtungen.", "gpsnord": 6621349}
+{"date": "2014-10-06", "gpsost": 214983, "plante": 724, "comment": "Nedre Hakavik på hestemøkk.", "gpsnord": 6621200}
+{"date": "2014-10-12", "gpsost": 215095, "plante": 476, "comment": "Nedre Hakavik ved båten.", "gpsnord": 6621234}
+{"date": "2014-10-08", "gpsost": 215049, "plante": 726, "comment": "Nedre Hakavik på morken lauvtrestubbe.", "gpsnord": 6621189}
+{"date": "2014-10-08", "gpsost": 215049, "plante": 725, "comment": "Nedre Hakavik på morken lauvtrestubbe.", "gpsnord": 6621189}
+{"date": "2014-10-12", "gpsost": 215082, "plante": 727, "comment": "Nedre Hakavik ved båten.", "gpsnord": 6621239}
+{"date": "2014-10-15", "gpsost": 214819, "plante": 728, "comment": "Nedre Hakavik, veien mot Øvre.", "gpsnord": 6621051}
+{"date": "2014-10-15", "gpsost": 214820, "plante": 729, "comment": "Nedre Hakavik mot Øvre.", "gpsnord": 6621051}
+{"date": "2014-10-16", "gpsost": 214927, "plante": 730, "comment": "Nedre Hakavik.", "gpsnord": 6621173}
+{"date": "2014-10-19", "gpsost": 214010, "plante": 111, "comment": "Geitryggen ved elva.", "gpsnord": 6620780}
+{"date": "2014-10-22", "gpsost": 215053, "plante": 731, "comment": "Nedre Hakavik.", "gpsnord": 6621199}
+{"date": "2014-10-22", "gpsost": 215547, "plante": 732, "comment": "Kraftverket.", "gpsnord": 6620467}
+{"date": "2014-12-26", "gpsost": 212612, "plante": 689, "comment": "Ålevann", "gpsnord": 6620282}
+{"date": "2014-12-25", "gpsost": 214244, "plante": 689, "comment": "Danseplattingen.", "gpsnord": 6620777}
+{"date": "2014-12-26", "gpsost": 214223, "plante": 730, "comment": "Danseplattingen.", "gpsnord": 6620757}
+{"date": "2014-10-22", "gpsost": 215556, "plante": 735, "comment": "Kaftverket.", "gpsnord": 6620460}
+{"date": "2014-10-22", "gpsost": 215556, "plante": 734, "comment": "Kraftverket.", "gpsnord": 6620460}
+{"date": "2014-10-22", "gpsost": 215556, "plante": 733, "comment": "Kraftverket.", "gpsnord": 6620460}
+{"date": "2014-10-22", "gpsost": 215556, "plante": 736, "comment": "Kraftverket.", "gpsnord": 6620460}
+{"date": "2014-12-28", "gpsost": 215489, "plante": 737, "comment": "Kraftverket.", "gpsnord": 6620367}
+{"date": "2014-12-31", "gpsost": 215071, "plante": 462, "comment": "Øra.", "gpsnord": 6621295}
+{"date": "2014-12-31", "gpsost": 215039, "plante": 699, "comment": "Nedre Hakavik.", "gpsnord": 6621206}
+{"date": "2014-12-31", "gpsost": 215071, "plante": 738, "comment": "Øra.", "gpsnord": 6621295}
+{"date": "2014-12-31", "gpsost": 215039, "plante": 739, "comment": "Nedre Hakavik.", "gpsnord": 6621206}
+{"date": "2015-01-01", "gpsost": 214414, "plante": 740, "comment": "Danseplattingen.", "gpsnord": 6620759}
+{"date": "2015-01-01", "gpsost": 244141, "plante": 201, "comment": "Danseplattingen mot Geitryggen.", "gpsnord": 6620739}
+{"date": "2015-01-02", "gpsost": 214979, "plante": 455, "comment": "Nedre Hakavik på ospestubbe.", "gpsnord": 6621224}
+{"date": "2015-01-03", "gpsost": 215083, "plante": 740, "comment": "På død hassel Nedre Hakavik mot Eikern.", "gpsnord": 6621165}
+{"date": "2015-01-02", "gpsost": 214835, "plante": 741, "comment": "Ospestubbe ved Saga.", "gpsnord": 6621387}
+{"date": "2015-01-01", "gpsost": 213659, "plante": 738, "comment": "Santhansfoss.", "gpsnord": 6621545}
+{"date": "2015-01-09", "gpsost": 215433, "plante": 688, "comment": "Død or ved Kraftverket.", "gpsnord": 6620423}
+{"date": "2015-01-09", "gpsost": 215214, "plante": 287, "comment": "Nedre Hakavik nedafor Kontorbakken. Svartor.", "gpsnord": 6620899}
+{"date": "2015-01-09", "gpsost": 215433, "plante": 742, "comment": "Kraftverket på liggende or.", "gpsnord": 6620403}
+{"date": "2015-01-16", "gpsost": 214298, "plante": 744, "comment": "På gammal grantopp, Gislerudmoen ved brønnen.", "gpsnord": 6621493}
+{"date": "2015-01-16", "gpsost": 214305, "plante": 743, "comment": "På tørr grankvist, Gislerudmoen ved brønnen.", "gpsnord": 6621506}
+{"date": "2015-01-16", "gpsost": 214139, "plante": 745, "comment": "Vesleelva ved Gislerudmoen.", "gpsnord": 6621440}
+{"date": "2015-01-24", "gpsost": 215037, "plante": 744, "comment": "Øra på furu (vindfall).", "gpsnord": 6621461}
+{"date": "2015-01-24", "gpsost": 215043, "plante": 741, "comment": "Nedre Hakavik, skåning mot Eikern på rognestubbe.", "gpsnord": 6621201}
+{"date": "2015-01-24", "gpsost": 215046, "plante": 746, "comment": "Nedre Hakavik på rødhyll.", "gpsnord": 6621207}
+{"date": "2015-01-24", "gpsost": 215046, "plante": 748, "comment": "Nedre Hakavik på Rødhyll.", "gpsnord": 6621207}
+{"date": "2015-02-03", "gpsost": 214801, "plante": 747, "comment": "Øvre Hakavik på tørrgran.", "gpsnord": 6620978}
+{"date": "2015-02-13", "gpsost": 214110, "plante": 747, "comment": "Vesleelva i bonn av Bukkebakkane.", "gpsnord": 6621449}
+{"date": "2015-02-14", "gpsost": 215851, "plante": 518, "comment": "Holtøya sør.", "gpsnord": 6620993}
+{"date": "2015-02-15", "gpsost": 215849, "plante": 530, "comment": "Holtøya sør.", "gpsnord": 6621021}
+{"date": "2015-02-15", "gpsost": 215849, "plante": 750, "comment": "Holtøya sør.", "gpsnord": 6621021}
+{"date": "2015-02-15", "gpsost": 215849, "plante": 471, "comment": "Holtøya sør.", "gpsnord": 6621021}
+{"date": "2015-02-17", "gpsost": 215156, "plante": 508, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621110}
+{"date": "2015-02-17", "gpsost": 215150, "plante": 749, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621120}
+{"date": "2015-01-18", "gpsost": 214151, "plante": 522, "comment": "Geitrygglia, stien fra Gislerudmoen.", "gpsnord": 6621385}
+{"date": "2015-02-18", "gpsost": 214908, "plante": 522, "comment": "Nedre Hakavik ved Brakka.", "gpsnord": 6621264}
+{"date": "2015-02-18", "gpsost": 215159, "plante": 789, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-18", "gpsost": 215159, "plante": 752, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-18", "gpsost": 215159, "plante": 753, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-18", "gpsost": 215159, "plante": 754, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-21", "gpsost": 215344, "plante": 756, "comment": "Ved Eikern ned for Kontobakken.", "gpsnord": 6620791}
+{"date": "2015-02-20", "gpsost": 215344, "plante": 755, "comment": "Ved Eikern nedafor Kontorbakken.", "gpsnord": 6620791}
+{"date": "2015-02-20", "gpsost": 215344, "plante": 459, "comment": "Ved Eikern nord for Kraftverket.", "gpsnord": 6620791}
+{"date": "2015-02-18", "gpsost": 215159, "plante": 550, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-24", "gpsost": 214941, "plante": 757, "comment": "Nedre Hakavik ved brua.", "gpsnord": 6621290}
+{"date": "2015-02-18", "gpsost": 215159, "plante": 538, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-25", "gpsost": 215159, "plante": 758, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-25", "gpsost": 215159, "plante": 759, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-25", "gpsost": 215159, "plante": 760, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621108}
+{"date": "2015-02-27", "gpsost": 215107, "plante": 761, "comment": "Nedre Hakavik, på bjørkestokk ved veien.", "gpsnord": 6621045}
+{"date": "2015-02-27", "gpsost": 215093, "plante": 540, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 6621204}
+{"date": "2015-03-01", "gpsost": 216332, "plante": 468, "comment": "Sjulerud ved båthuset.", "gpsnord": 6619286}
+{"date": "2015-03-01", "gpsost": 215537, "plante": 754, "comment": "Kraftverket på Holtetveien.", "gpsnord": 6620319}
+{"date": "2014-04-17", "gpsost": 215037, "plante": 477, "comment": "Nedre Hakavik på stien til båten. Sammen med matteflette på stubbe.", "gpsnord": 6621192}
+{"date": "2015-03-02", "gpsost": 215192, "plante": 757, "comment": "Nederst i Kontorbakken.", "gpsnord": 6620890}
+{"date": "2015-03-03", "gpsost": 215038, "plante": 111, "comment": "Nedre Hakavik, på stien mot båten.", "gpsnord": 6621195}
+{"date": "2015-03-06", "gpsost": 215193, "plante": 763, "comment": "Nedafor krysset Hakvikveien/Kontorbakken.", "gpsnord": 6620927}
+{"date": "2015-03-06", "gpsost": 215196, "plante": 507, "comment": "Under Kontorbakken.", "gpsnord": 6620922}
+{"date": "2015-03-06", "gpsost": 215196, "plante": 522, "comment": "Nedafor Kontorbakken", "gpsnord": 6620922}
+{"date": "2015-03-06", "gpsost": 215196, "plante": 764, "comment": "Nedafor Kontorbakken.", "gpsnord": 6620922}
+{"date": "2015-03-07", "gpsost": 215032, "plante": 488, "comment": "Nedre Hakavik mot veien.", "gpsnord": 6621138}
+{"date": "2015-03-07", "gpsost": 215055, "plante": 1, "comment": "Nedre Hakavik på tomta", "gpsnord": 6622195}
+{"date": "2015-02-26", "gpsost": 215103, "plante": 557, "comment": "Nedre Hakavk mot Eikern.", "gpsnord": 6621142}
+{"date": "2015-02-18", "gpsost": 215834, "plante": 474, "comment": "Sørspissen av Holtøya.", "gpsnord": 6620931}
+{"date": "2015-03-09", "gpsost": 215051, "plante": 514, "comment": "Nedre Hakavik, nederst før linna under huset.", "gpsnord": 6621238}
+{"date": "2015-03-13", "gpsost": 215022, "plante": 5, "comment": "Nedre Hakavik, ved linna.", "gpsnord": 6621212}
+{"date": "2015-03-15", "gpsost": 215202, "plante": 767, "comment": "Nedafor Kontorbakken.", "gpsnord": 6620932}
+{"date": "2015-03-15", "gpsost": 215202, "plante": 766, "comment": "Kontorbakken.", "gpsnord": 6620932}
+{"date": "2015-03-15", "gpsost": 215127, "plante": 768, "comment": "Kontorbakken.", "gpsnord": 6620974}
+{"date": "2015-03-18", "gpsost": 215139, "plante": 769, "comment": "Nedre Hakavik ved veien mot Kontorbakken.", "gpsnord": 6620955}
+{"date": "2015-03-19", "gpsost": 214974, "plante": 550, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621287}
+{"date": "2015-03-19", "gpsost": 214972, "plante": 770, "comment": "Nedre Hakavik, mot brua, nedafor veien.", "gpsnord": 6621290}
+{"date": "2015-03-19", "gpsost": 214979, "plante": 488, "comment": "Nedre Hakavik mot elva, nedsida av veien.", "gpsnord": 6621281}
+{"date": "2015-03-19", "gpsost": 214979, "plante": 773, "comment": "Nedre Hakavik, nedafor veien mot elva.", "gpsnord": 6621281}
+{"date": "2015-03-20", "gpsost": 214987, "plante": 772, "comment": "Nedre Hakavik, nedsida veien mot brua.", "gpsnord": 6621285}
+{"date": "2015-03-21", "gpsost": 215320, "plante": 755, "comment": "På linna nedafor Kontorbakken.", "gpsnord": 6620801}
+{"date": "2015-03-21", "gpsost": 215331, "plante": 773, "comment": "Linna nedafor Kontorbakken.", "gpsnord": 6620779}
+{"date": "2015-03-23", "gpsost": 214326, "plante": 755, "comment": "Holtungen.", "gpsnord": 6621273}
+{"date": "2015-03-24", "gpsost": 214856, "plante": 773, "comment": "Nedre Hakavik mot Konglekollen.", "gpsnord": 6621082}
+{"date": "2015-03-24", "gpsost": 214852, "plante": 452, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621153}
+{"date": "2015-03-24", "gpsost": 214856, "plante": 774, "comment": "Nedre Hakavik mot Konglekollen.", "gpsnord": 6621082}
+{"date": "2015-03-25", "gpsost": 215086, "plante": 505, "comment": "Nedre Hakavik på linna.", "gpsnord": 6621211}
+{"date": "2015-03-26", "gpsost": 215346, "plante": 776, "comment": "Ved Eikern nedafor Kontorbakken.", "gpsnord": 6620789}
+{"date": "2015-03-28", "gpsost": 215874, "plante": 777, "comment": "Holtøya sør.", "gpsnord": 6620963}
+{"date": "2015-03-28", "gpsost": 215871, "plante": 764, "comment": "Holtøya sør.", "gpsnord": 6620971}
+{"date": "2015-03-30", "gpsost": 214747, "plante": 545, "comment": "Motorbanen.", "gpsnord": 6621299}
+{"date": "2015-03-31", "gpsost": 215769, "plante": 557, "comment": "Holtøya sør.", "gpsnord": 6620986}
+{"date": "2015-03-31", "gpsost": 213659, "plante": 19, "comment": "Grimnes mot Bogen ved Eikern.", "gpsnord": 6623555}
+{"date": "2015-03-31", "gpsost": 215075, "plante": 773, "comment": "Nedre Hakavik ved båten. På lauvtrestubbe.", "gpsnord": 6621240}
+{"date": "2015-03-31", "gpsost": 215882, "plante": 748, "comment": "Holtøya sør.", "gpsnord": 6620975}
+{"date": "2015-04-07", "gpsost": 215184, "plante": 524, "comment": "Nedafor Kontorbakken.", "gpsnord": 6620952}
+{"date": "2015-04-07", "gpsost": 215107, "plante": 766, "comment": "Nedre Hakavik, veien før Kontorbakken.", "gpsnord": 6621018}
+{"date": "2015-04-08", "gpsost": 215186, "plante": 512, "comment": "Nedafor Kontorbakken.", "gpsnord": 6620953}
+{"date": "2015-04-06", "gpsost": 215786, "plante": 534, "comment": "Holtveien før Nedre Holtet.", "gpsnord": 6620165}
+{"date": "2015-04-06", "gpsost": 216153, "plante": 778, "comment": "Nedre Holtet ved Eikern.", "gpsnord": 6619897}
+{"date": "2015-04-06", "gpsost": 215192, "plante": 779, "comment": "Nedafor Kontorbakken.", "gpsnord": 6620948}
+{"date": "2015-04-07", "gpsost": 215178, "plante": 781, "comment": "Nedafor Kontorbakken.", "gpsnord": 6620948}
+{"date": "2015-04-12", "gpsost": 216153, "plante": 512, "comment": "Nedre Holtet ved Eikern.", "gpsnord": 6619897}
+{"date": "2015-04-20", "gpsost": 214830, "plante": 495, "comment": "Nedre Hakavik i veien til Øvre.", "gpsnord": 6621072}
+{"date": "2015-04-20", "gpsost": 214551, "plante": 19, "comment": "Øvre Hakavik mot Storelva.", "gpsnord": 6620914}
+{"date": "2015-04-21", "gpsost": 215294, "plante": 562, "comment": "Kontorbakken sør ved krysset.", "gpsnord": 6620758}
+{"date": "2015-04-20", "gpsost": 215259, "plante": 782, "comment": "Kontorbakken ved Hakavikveien.", "gpsnord": 6620813}
+{"date": "2015-04-15", "gpsost": 213596, "plante": 783, "comment": "Sør for Grimnes.", "gpsnord": 6623616}
+{"date": "2015-05-01", "gpsost": 215828, "plante": 487, "comment": "Holtøya sør.", "gpsnord": 6620933}
+{"date": "2015-05-03", "gpsost": 215052, "plante": 100, "comment": "Blomstring", "gpsnord": 6625012}
+{"date": "2015-05-06", "gpsost": 214923, "plante": 785, "comment": "Saga.", "gpsnord": 6621419}
+{"date": "2015-05-07", "gpsost": 212620, "plante": 83, "comment": "Kavlebakk", "gpsnord": 6621610}
+{"date": "2015-05-07", "gpsost": 214380, "plante": 508, "comment": "Gislerudmoen.", "gpsnord": 6621624}
+{"date": "2015-05-07", "gpsost": 212301, "plante": 787, "comment": "Ved elva før Øytjernstua.", "gpsnord": 6621673}
+{"date": "2015-05-07", "gpsost": 212301, "plante": 782, "comment": "Ved elva før Øytjernstuakrysset.", "gpsnord": 6621673}
+{"date": "2015-05-08", "gpsost": 214369, "plante": 788, "comment": "Gislerudmoen før \\"Hallingsvingen\\".", "gpsnord": 6621623}
+{"date": "2015-05-08", "gpsost": 214369, "plante": 789, "comment": "Gislerudmoen.", "gpsnord": 6621623}
+{"date": "2015-05-07", "gpsost": 214369, "plante": 790, "comment": "Gislerudmoen før \\"Hallingsvingen\\"", "gpsnord": 6621623}
+{"date": "2015-05-08", "gpsost": 213669, "plante": 768, "comment": "Gislerudmoen før \\"Hallingsvingen\\"", "gpsnord": 6621623}
+{"date": "2015-05-08", "gpsost": 213387, "plante": 752, "comment": "Sammen med annen mose, Santhansfoss.", "gpsnord": 6621590}
+{"date": "2015-05-16", "gpsost": 213878, "plante": 57, "comment": "Storelvdalen, mai 2015.", "gpsnord": 6620308}
+{"date": "2015-05-16", "gpsost": 213962, "plante": 787, "comment": "Storelvdalen.", "gpsnord": 6620461}
+{"date": "2015-05-16", "gpsost": 214922, "plante": 791, "comment": "Saga ved brua.", "gpsnord": 6621325}
+{"date": "2015-05-28", "gpsost": 214847, "plante": 793, "comment": "Ved saga.", "gpsnord": 6621392}
+{"date": "2015-05-28", "gpsost": 214782, "plante": 792, "comment": "Motorbanen.", "gpsnord": 6621247}
+{"date": "2015-05-29", "gpsost": 213355, "plante": 146, "comment": "Santhansfoss.", "gpsnord": 6621556}
+{"date": "2015-05-29", "gpsost": 213671, "plante": 571, "comment": "Myr over Bjønnestillinga.", "gpsnord": 6620627}
+{"date": "2015-06-11", "gpsost": 213858, "plante": 570, "comment": "Storelvdalen.", "gpsnord": 6620148}
+{"date": "2015-06-11", "gpsost": 213906, "plante": 744, "comment": "Geitryggdalen.", "gpsnord": 6621053}
+{"date": "2015-06-09", "gpsost": 215000, "plante": 696, "comment": "Kjøkkenhagen Nedre Hakavik.", "gpsnord": 6621239}
+{"date": "2015-06-12", "gpsost": 213962, "plante": 541, "comment": "Nedafor Elvestua (Storelvdalen).", "gpsnord": 6620461}
+{"date": "2015-06-23", "gpsost": 213809, "plante": 564, "comment": "Storelvdalen.", "gpsnord": 6619941}
+{"date": "2015-06-26", "gpsost": 215143, "plante": 620, "comment": "Nedre Hakavik, veien mot Kontorbakken.", "gpsnord": 6620964}
+{"date": "2015-06-28", "gpsost": 213072, "plante": 258, "comment": "På stien langs Kilane (mot Tistillstua)", "gpsnord": 6618475}
+{"date": "2015-06-28", "gpsost": 212929, "plante": 794, "comment": "Tilstillstua.", "gpsnord": 6618332}
+{"date": "2015-06-28", "gpsost": 213968, "plante": 256, "comment": "Storelvdalen.", "gpsnord": 6619227}
+{"date": "2015-06-28", "gpsost": 213091, "plante": 541, "comment": "Kilane, stien mot Tistillstua.", "gpsnord": 6618450}
+{"date": "2015-07-02", "gpsost": 212633, "plante": 254, "comment": "Tagensletta.", "gpsnord": 6624756}
+{"date": "2015-07-07", "gpsost": 213919, "plante": 324, "comment": "Storelvdalen, skogsbilvegen.", "gpsnord": 6620700}
+{"date": "2015-07-07", "gpsost": 214431, "plante": 551, "comment": "Holtungen ved hustuftene - på rota av osp.", "gpsnord": 6621284}
+{"date": "2015-07-07", "gpsost": 213839, "plante": 326, "comment": "Storelvadalen nedafor Elvestua.", "gpsnord": 6620002}
+{"date": "2015-07-05", "gpsost": 211847, "plante": 513, "comment": "Bekkeoset i Flåtjern.", "gpsnord": 6621145}
+{"date": "2015-07-19", "gpsost": 211924, "plante": 704, "comment": "Svarttjern (Øytjernstua)", "gpsnord": 6622218}
+{"date": "2015-07-19", "gpsost": 211908, "plante": 399, "comment": "Svarttjern (Øytjerntua)", "gpsnord": 6622225}
+{"date": "2015-07-19", "gpsost": 212246, "plante": 399, "comment": "Øytjern.", "gpsnord": 6621948}
+{"date": "2015-07-21", "gpsost": 215762, "plante": 581, "comment": "Holtøya sør.", "gpsnord": 6621061}
+{"date": "2015-07-14", "gpsost": 214999, "plante": 69, "comment": "Nedre Hakavik.", "gpsnord": 6621239}
+{"date": "2015-07-22", "gpsost": 216011, "plante": 500, "comment": "Nedre Holtet.", "gpsnord": 662062}
+{"date": "2015-07-23", "gpsost": 215011, "plante": 280, "comment": "Nedre Hakavik.", "gpsnord": 6621209}
+{"date": "2015-07-22", "gpsost": 215487, "plante": 503, "comment": "Kraftverket, ved Holtetveien.", "gpsnord": 6620360}
+{"date": "2015-07-24", "gpsost": 210872, "plante": 795, "comment": "Svartjernsbekken.", "gpsnord": 6619335}
+{"date": "2015-07-24", "gpsost": 210961, "plante": 796, "comment": "Svarttjernsbekken.", "gpsnord": 6619240}
+{"date": "2015-07-25", "gpsost": 214775, "plante": 797, "comment": "Nedre Hakavik ved brønnen.", "gpsnord": 6621079}
+{"date": "2015-07-30", "gpsost": 214595, "plante": 451, "comment": "Okstjern, myr mot vannkanten.", "gpsnord": 6618488}
+{"date": "2015-07-28", "gpsost": 212148, "plante": 394, "comment": "Øytjernstua, ved krysset.", "gpsnord": 6621700}
+{"date": "2015-07-31", "gpsost": 212479, "plante": 798, "comment": "Tangensletta mot Vanninga.", "gpsnord": 6624838}
+{"date": "2015-08-05", "gpsost": 212014, "plante": 799, "comment": "Buttingen.", "gpsnord": 6620348}
+{"date": "2015-08-05", "gpsost": 212092, "plante": 799, "comment": "Øytjernstua.", "gpsnord": 6621927}
+{"date": "2015-08-05", "gpsost": 214696, "plante": 800, "comment": "Holtungen ved Storelva.", "gpsnord": 6621075}
+{"date": "2015-08-06", "gpsost": 214315, "plante": 801, "comment": "Annekset, Toppen.", "gpsnord": 6618764}
+{"date": "2015-08-06", "gpsost": 214591, "plante": 802, "comment": "Okstjern, Toppen.", "gpsnord": 6618438}
+{"date": "2015-08-08", "gpsost": 215922, "plante": 706, "comment": "Nedre Holtet.", "gpsnord": 6620115}
+{"date": "2015-08-08", "gpsost": 215962, "plante": 276, "comment": "Nedre Holtet.", "gpsnord": 6620071}
+{"date": "2015-08-08", "gpsost": 216009, "plante": 601, "comment": "Øvre Holtet", "gpsnord": 6619753}
+{"date": "2015-08-08", "gpsost": 216023, "plante": 606, "comment": "Øvre Holtet.", "gpsnord": 6619636}
+{"date": "2015-08-06", "gpsost": 214234, "plante": 707, "comment": "Annekset, Toppen.", "gpsnord": 6618843}
+{"date": "2015-08-09", "gpsost": 216023, "plante": 650, "comment": "Øvre Holtet.", "gpsnord": 6619636}
+{"date": "2015-08-08", "gpsost": 215826, "plante": 651, "comment": "Nedre Holtet ved veien.", "gpsnord": 6620174}
+{"date": "2015-08-09", "gpsost": 216035, "plante": 651, "comment": "Øvre Holtet.", "gpsnord": 6619303}
+{"date": "2015-08-09", "gpsost": 216035, "plante": 803, "comment": "Øvre Holtet rundt ruinene.", "gpsnord": 6619303}
+{"date": "2015-08-09", "gpsost": 215826, "plante": 804, "comment": "Nedre Holtet ved veien.", "gpsnord": 6620174}
+{"date": "2015-08-10", "gpsost": 214879, "plante": 601, "comment": "Nedre Hakavik ved elva.", "gpsnord": 6621210}
+{"date": "2015-08-10", "gpsost": 214698, "plante": 603, "comment": "Nedre Hakavik ved elva.", "gpsnord": 6621216}
+{"date": "2015-08-10", "gpsost": 214966, "plante": 652, "comment": "Nedre Hakavik ved start gårdsvei.", "gpsnord": 6621248}
+{"date": "2015-08-11", "gpsost": 215564, "plante": 722, "comment": "Hakaviklia sør for rørgata.", "gpsnord": 6619949}
+{"date": "2015-08-11", "gpsost": 215210, "plante": 309, "comment": "Hakaviklia ved rørgata påtoppen av Storstupet.", "gpsnord": 6620294}
+{"date": "2015-08-11", "gpsost": 215978, "plante": 419, "comment": "Nede Holtet.", "gpsnord": 6620060}
+{"date": "2015-08-12", "gpsost": 215118, "plante": 575, "comment": "Øra på stranda.", "gpsnord": 6621355}
+{"date": "2015-08-14", "gpsost": 215097, "plante": 637, "comment": "Nedre Hakavik ved båten.", "gpsnord": 6621246}
+{"date": "2015-08-11", "gpsost": 214886, "plante": 805, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621184}
+{"date": "2015-08-11", "gpsost": 216006, "plante": 806, "comment": "Øvre Holtet.", "gpsnord": 6619617}
+{"date": "2015-08-11", "gpsost": 216006, "plante": 807, "comment": "Øvre Holtet.", "gpsnord": 6619617}
+{"date": "2015-08-11", "gpsost": 215942, "plante": 808, "comment": "Øvre Holtet.", "gpsnord": 6619656}
+{"date": "2015-08-11", "gpsost": 216010, "plante": 809, "comment": "Øvre Holtet.", "gpsnord": 6619646}
+{"date": "2015-08-11", "gpsost": 214964, "plante": 810, "comment": "Hakaviklia, traktorvei fra Blåleiresvingen.", "gpsnord": 6620441}
+{"date": "2015-08-14", "gpsost": 214868, "plante": 811, "comment": "Nedre Hakavik.", "gpsnord": 6621129}
+{"date": "2015-08-08", "gpsost": 215388, "plante": 812, "comment": "Kraftverket, august 2015.", "gpsnord": 6620464}
+{"date": "2015-08-12", "gpsost": 215011, "plante": 813, "comment": "Nedre Hakavik.", "gpsnord": 6621210}
+{"date": "2015-08-17", "gpsost": 215012, "plante": 377, "comment": "Nedre Hakavik, plenen.", "gpsnord": 6621209}
+{"date": "2015-08-14", "gpsost": 214808, "plante": 814, "comment": "Nedre Hakavik mot brønnen.", "gpsnord": 6621099}
+{"date": "2015-08-11", "gpsost": 215893, "plante": 815, "comment": "Øvre Holtet.", "gpsnord": 6619745}
+{"date": "2015-08-14", "gpsost": 214794, "plante": 816, "comment": "Nedre Hakavik mot brønnen.", "gpsnord": 6621114}
+{"date": "2015-08-17", "gpsost": 215013, "plante": 817, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621208}
+{"date": "2015-08-19", "gpsost": 214193, "plante": 676, "comment": "Danseplattingen, stien mot Geitryggen.", "gpsnord": 6620739}
+{"date": "2015-08-18", "gpsost": 214118, "plante": 803, "comment": "Danseplattingen mot elva før Geitryggen.", "gpsnord": 6620775}
+{"date": "2015-08-18", "gpsost": 213599, "plante": 818, "comment": "Geitryggdalen.", "gpsnord": 6621319}
+{"date": "2015-08-18", "gpsost": 213416, "plante": 819, "comment": "Geitryggdalen.", "gpsnord": 6621398}
+{"date": "2015-08-18", "gpsost": 214362, "plante": 648, "comment": "Gislerudmoen.", "gpsnord": 6621554}
+{"date": "2015-08-18", "gpsost": 214258, "plante": 820, "comment": "Danseplattingen, stien mot Geitryggen.", "gpsnord": 6620730}
+{"date": "2015-09-06", "gpsost": 214998, "plante": 549, "comment": "Nere Hakavik i veikanten.", "gpsnord": 6611222}
+{"date": "2015-08-18", "gpsost": 214343, "plante": 821, "comment": "Gislerudmoen.", "gpsnord": 6621597}
+{"date": "2015-09-10", "gpsost": 215004, "plante": 822, "comment": "Nedre Hakavik i kompostbingen.", "gpsnord": 6621243}
+{"date": "2015-09-13", "gpsost": 214530, "plante": 37, "comment": "Øvre Hakavik mot elva.", "gpsnord": 6620929}
+{"date": "2015-09-13", "gpsost": 214889, "plante": 823, "comment": "Nedre Hakavik ved elva.", "gpsnord": 6621197}
+{"date": "2015-09-13", "gpsost": 214889, "plante": 824, "comment": "Nedre Hakavik ved elva.", "gpsnord": 6621197}
+{"date": "2015-09-15", "gpsost": 214932, "plante": 825, "comment": "Ved brua.", "gpsnord": 6621219}
+{"date": "2015-09-14", "gpsost": 214065, "plante": 826, "comment": "Erikssvingen, Toppveien.", "gpsnord": 6619899}
+{"date": "2015-09-17", "gpsost": 214751, "plante": 825, "comment": "Buldoseveien ved Gislerud.", "gpsnord": 6621516}
+{"date": "2015-09-17", "gpsost": 214967, "plante": 825, "comment": "Nedre Hakavik, veikant mot brua.", "gpsnord": 6621277}
+{"date": "2015-09-17", "gpsost": 214669, "plante": 710, "comment": "Gislerudmoen.", "gpsnord": 6621545}
+{"date": "2015-09-17", "gpsost": 214327, "plante": 824, "comment": "Gislerudmoen mot Giserudbrønnen.", "gpsnord": 6621525}
+{"date": "2015-09-15", "gpsost": 214917, "plante": 853, "comment": "Saga mot brua.", "gpsnord": 6621332}
+{"date": "2015-09-17", "gpsost": 214578, "plante": 37, "comment": "Gislerudmoen.", "gpsnord": 6621532}
+{"date": "2015-09-16", "gpsost": 214974, "plante": 829, "comment": "Nedre Hakavik nedafor gården.", "gpsnord": 6621212}
+{"date": "2015-09-17", "gpsost": 214555, "plante": 830, "comment": "Gislerudmoen.", "gpsnord": 6621564}
+{"date": "2015-09-18", "gpsost": 215006, "plante": 716, "comment": "På plen + gårdsplass.", "gpsnord": 6621226}
+{"date": "2015-09-19", "gpsost": 212459, "plante": 831, "comment": "Øtjernstua før krysset.", "gpsnord": 6621659}
+{"date": "2015-09-18", "gpsost": 214923, "plante": 832, "comment": "Saga i veigrøfta.", "gpsnord": 6621332}
+{"date": "2015-09-21", "gpsost": 214502, "plante": 833, "comment": "Øvre Hakavik.", "gpsnord": 6620824}
+{"date": "2015-09-21", "gpsost": 214627, "plante": 834, "comment": "Øvre Hakavik.", "gpsnord": 6620888}
+{"date": "2015-09-21", "gpsost": 214647, "plante": 835, "comment": "Øvre Hakavik.", "gpsnord": 6620895}
+{"date": "2015-09-21", "gpsost": 214647, "plante": 695, "comment": "Øvre Hakavik.", "gpsnord": 6620895}
+{"date": "2015-09-20", "gpsost": 215029, "plante": 836, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621194}
+{"date": "2015-09-22", "gpsost": 215539, "plante": 549, "comment": "Kraftverket.", "gpsnord": 6620478}
+{"date": "2015-09-22", "gpsost": 215409, "plante": 700, "comment": "Kraftverket.", "gpsnord": 6620544}
+{"date": "2015-09-22", "gpsost": 215559, "plante": 710, "comment": "Kraftverket.", "gpsnord": 6620458}
+{"date": "2015-09-22", "gpsost": 215461, "plante": 837, "comment": "Kraftverket.", "gpsnord": 6620504}
+{"date": "2015-09-22", "gpsost": 215567, "plante": 838, "comment": "Kraftverket.", "gpsnord": 6620451}
+{"date": "2015-09-22", "gpsost": 215567, "plante": 839, "comment": "Kraftverket.", "gpsnord": 6620451}
+{"date": "2015-09-23", "gpsost": 215528, "plante": 840, "comment": "Kraftverket.", "gpsnord": 6620471}
+{"date": "2015-09-23", "gpsost": 215487, "plante": 842, "comment": "Kraftverket.", "gpsnord": 6620526}
+{"date": "2015-09-23", "gpsost": 215487, "plante": 841, "comment": "Kraftverket.", "gpsnord": 6620526}
+{"date": "2015-09-24", "gpsost": 215009, "plante": 843, "comment": "Nedre Hakavik i blomsterbed.", "gpsnord": 6621218}
+{"date": "2015-09-23", "gpsost": 215554, "plante": 844, "comment": "Kraftverket.", "gpsnord": 6620417}
+{"date": "2015-09-27", "gpsost": 215542, "plante": 663, "comment": "Kraftverket (to funn).", "gpsnord": 6620476}
+{"date": "2015-09-27", "gpsost": 215554, "plante": 707, "comment": "Kraftverket.", "gpsnord": 6620417}
+{"date": "2015-09-27", "gpsost": 215584, "plante": 845, "comment": "Kraftverket.", "gpsnord": 6620389}
+{"date": "2015-09-27", "gpsost": 215495, "plante": 732, "comment": "Kraftverket.", "gpsnord": 6620472}
+{"date": "2015-09-27", "gpsost": 215544, "plante": 846, "comment": "Kraftverket.", "gpsnord": 6620472}
+{"date": "2015-09-27", "gpsost": 215594, "plante": 669, "comment": "Kraftverket.", "gpsnord": 6620419}
+{"date": "2015-09-27", "gpsost": 215545, "plante": 847, "comment": "Kraftverket.", "gpsnord": 6620473}
+{"date": "2015-10-01", "gpsost": 215038, "plante": 848, "comment": "Nedre Hakavik.", "gpsnord": 6621222}
+{"date": "2015-10-02", "gpsost": 214776, "plante": 849, "comment": "Holtungen mot Storelva.", "gpsnord": 6621195}
+{"date": "2015-10-03", "gpsost": 215059, "plante": 850, "comment": "Nedre Hakavik over linna.", "gpsnord": 6621198}
+{"date": "2015-10-04", "gpsost": 215112, "plante": 842, "comment": "Øra.", "gpsnord": 6621353}
+{"date": "2015-10-04", "gpsost": 215072, "plante": 852, "comment": "Nedre Hakavik over linna.", "gpsnord": 6621213}
+{"date": "2015-10-04", "gpsost": 214489, "plante": 851, "comment": "Holtungen.", "gpsnord": 6621292}
+{"date": "2015-10-02", "gpsost": 214474, "plante": 828, "comment": "Holtungen på rognerot.", "gpsnord": 6621296}
+{"date": "2015-10-08", "gpsost": 214201, "plante": 854, "comment": "Geitryggen.", "gpsnord": 6621043}
+{"date": "2015-10-08", "gpsost": 214251, "plante": 855, "comment": "Gislerudmoen.", "gpsnord": 6621501}
+{"date": "2015-10-10", "gpsost": 214173, "plante": 677, "comment": "Bukkebakkane ved elva.", "gpsnord": 6621465}
+{"date": "2015-10-10", "gpsost": 214197, "plante": 856, "comment": "Geitrygglia.", "gpsnord": 6621397}
+{"date": "2015-10-10", "gpsost": 214213, "plante": 438, "comment": "Bukkebakkane ved elva.", "gpsnord": 6621481}
+{"date": "2015-10-12", "gpsost": 212310, "plante": 795, "comment": "Ved veien før Ålevanet.", "gpsnord": 6620496}
+{"date": "2015-10-12", "gpsost": 212476, "plante": 738, "comment": "Ved veien før Ålevann,på bjørkestubbe.", "gpsnord": 6620289}
+{"date": "2015-10-12", "gpsost": 213072, "plante": 528, "comment": "Æsle", "gpsnord": 6619843}
+{"date": "2015-10-12", "gpsost": 214154, "plante": 428, "comment": "Bukkebakkane ved veien.", "gpsnord": 6621561}
+{"date": "2015-10-12", "gpsost": 212911, "plante": 858, "comment": "Ved veie før Gaupeskøyta.", "gpsnord": 6621687}
+{"date": "2015-10-12", "gpsost": 213530, "plante": 859, "comment": "Ved første brua, Santhansfoss.", "gpsnord": 6621586}
+{"date": "2015-10-14", "gpsost": 215956, "plante": 860, "comment": "Nedre Holtet på snuplassen.", "gpsnord": 6620114}
+{"date": "2015-10-13", "gpsost": 210835, "plante": 861, "comment": "Gunhildrudknatten, stien mot setra.", "gpsnord": 6623269}
+{"date": "2015-10-08", "gpsost": 214152, "plante": 829, "comment": "Geitrygglia.", "gpsnord": 6621291}
+{"date": "2015-10-08", "gpsost": 214152, "plante": 862, "comment": "Geitrygglia.", "gpsnord": 6621293}
+{"date": "2015-10-17", "gpsost": 214989, "plante": 862, "comment": "Nedre Hakavik i veikanten.", "gpsnord": 6621224}
+{"date": "2015-10-23", "gpsost": 209175, "plante": 445, "comment": "Nesfjell", "gpsnord": 6621955}
+{"date": "2015-10-19", "gpsost": 212333, "plante": 24, "comment": "Under Blikktjern.", "gpsnord": 6620634}
+{"date": "2015-10-23", "gpsost": 209179, "plante": 617, "comment": "Nesfjell", "gpsnord": 6621943}
+{"date": "2015-10-11", "gpsost": 216222, "plante": 863, "comment": "Nedre Holtet.", "gpsnord": 6619671}
+{"date": "2015-10-25", "gpsost": 215602, "plante": 864, "comment": "Holtøya nord.", "gpsnord": 6621359}
+{"date": "2015-08-06", "gpsost": 214336, "plante": 865, "comment": "Annekset, Toppen.", "gpsnord": 6618825}
+{"date": "2015-10-26", "gpsost": 212394, "plante": 866, "comment": "Fosseteråsen.", "gpsnord": 6619857}
+{"date": "2015-10-26", "gpsost": 212488, "plante": 867, "comment": "Fosseteråsen.", "gpsnord": 6619794}
+{"date": "2015-10-26", "gpsost": 212474, "plante": 868, "comment": "Fosseteråsen.", "gpsnord": 6619830}
+{"date": "2015-10-26", "gpsost": 212134, "plante": 869, "comment": "Fosseteråsen.", "gpsnord": 6619518}
+{"date": "2015-10-26", "gpsost": 212134, "plante": 758, "comment": "Fosseteråsen.", "gpsnord": 6619518}
+{"date": "2015-10-26", "gpsost": 212466, "plante": 870, "comment": "Fosseteråsen.", "gpsnord": 6619850}
+{"date": "2015-10-26", "gpsost": 212470, "plante": 871, "comment": "Fosseteråsen.", "gpsnord": 6619796}
+{"date": "2015-10-31", "gpsost": 213993, "plante": 610, "comment": "Toppen av Bukkebakkane.", "gpsnord": 6621551}
+{"date": "2015-10-31", "gpsost": 215429, "plante": 455, "comment": "Kraftverket, veien til Holtet rett etter Rørgata. På gråor.", "gpsnord": 6620411}
+{"date": "2015-10-30", "gpsost": 215429, "plante": 872, "comment": "Kraftverket, på Holtveien.", "gpsnord": 662041}
+{"date": "2015-10-31", "gpsost": 213997, "plante": 873, "comment": "Bukkebakkane ved elva.", "gpsnord": 6621527}
+{"date": "2015-10-31", "gpsost": 213997, "plante": 874, "comment": "Bukkebakane ved elva på død gran.", "gpsnord": 662152}
+{"date": "2015-10-31", "gpsost": 213997, "plante": 875, "comment": "Bukkebakkane ved elva.", "gpsnord": 662152}
+{"date": "2015-11-02", "gpsost": 214801, "plante": 876, "comment": "Øvre Haavik, veien mot nedre.", "gpsnord": 6620978}
+{"date": "2015-11-05", "gpsost": 211542, "plante": 877, "comment": "Brånavannet.", "gpsnord": 6620210}
+{"date": "2015-11-05", "gpsost": 211717, "plante": 530, "comment": "Brånavannet.", "gpsnord": 6620292}
+{"date": "2015-11-08", "gpsost": 215857, "plante": 535, "comment": "Holtøya sør.", "gpsnord": 6620972}
+{"date": "2015-11-08", "gpsost": 215857, "plante": 456, "comment": "Holtøya sør.", "gpsnord": 6620972}
+{"date": "2015-11-10", "gpsost": 215802, "plante": 864, "comment": "Holtøya sør", "gpsnord": 6620994}
+{"date": "2015-11-13", "gpsost": 215984, "plante": 535, "comment": "Nedre Holtet ved snuplassen på or.", "gpsnord": 6620100}
+{"date": "2015-11-13", "gpsost": 216005, "plante": 699, "comment": "Nedre Holtet ved snuplassen på bjørk.", "gpsnord": 6620100}
+{"date": "2015-11-09", "gpsost": 213096, "plante": 878, "comment": "Fosseteråsen.", "gpsnord": 6619176}
+{"date": "2015-09-06", "gpsost": 214971, "plante": 880, "comment": "Nedre Hakavik.", "gpsnord": 6621217}
+{"date": "2015-11-22", "gpsost": 212422, "plante": 827, "comment": "Øytjern, tørre over isen.", "gpsnord": 6621937}
+{"date": "2015-12-01", "gpsost": 214983, "plante": 535, "comment": "Gislerud ved Eiker mot elva.", "gpsnord": 6621518}
+{"date": "2015-12-01", "gpsost": 214983, "plante": 740, "comment": "Gislerud ved Eikern mot elva.", "gpsnord": 6621518}
+{"date": "2015-12-01", "gpsost": 214996, "plante": 744, "comment": "Øra nord for elva.", "gpsnord": 6621492}
+{"date": "2015-12-01", "gpsost": 214995, "plante": 728, "comment": "Gamlesaga ved Eikern.", "gpsnord": 6621481}
+{"date": "2015-12-01", "gpsost": 214995, "plante": 879, "comment": "Gamlesaga ved Eikern.", "gpsnord": 6621481}
+{"date": "2015-12-11", "gpsost": 215549, "plante": 460, "comment": "Kraftverket.", "gpsnord": 6620469}
+{"date": "2015-12-21", "gpsost": 214178, "plante": 881, "comment": "Gislerudmoen under Bukkeflata.", "gpsnord": 6621463}
+{"date": "2016-03-18", "gpsost": 251055, "plante": 1, "comment": "", "gpsnord": 6622195}
+{"date": "2016-03-14", "gpsost": 215616, "plante": 144, "comment": "Hakavik Kraftverk", "gpsnord": 6620387}
+{"date": "2016-03-24", "gpsost": 215560, "plante": 481, "comment": "Kanalen ved Kraftverket.", "gpsnord": 6620442}
+{"date": "2016-03-29", "gpsost": 214993, "plante": 745, "comment": "Gislerud sør mot Eikern", "gpsnord": 6620387}
+{"date": "2016-03-29", "gpsost": 214988, "plante": 871, "comment": "Gislerud sør mot Eikern", "gpsnord": 6621475}
+{"date": "2016-03-29", "gpsost": 214993, "plante": 883, "comment": "Gislerud sør mot Eikern", "gpsnord": 6621511}
+{"date": "2016-04-05", "gpsost": 215296, "plante": 510, "comment": "Hakavikveien/Kontorbakken sør", "gpsnord": 6620756}
+{"date": "2016-04-07", "gpsost": 215009, "plante": 884, "comment": "Nedre Hakavik, bak garasjen.", "gpsnord": 6621248}
+{"date": "2016-04-07", "gpsost": 215009, "plante": 544, "comment": "Nedre Hakavik bak garasjen.", "gpsnord": 6621248}
+{"date": "2016-04-08", "gpsost": 214525, "plante": 757, "comment": "Øvre Hakavik mot elva", "gpsnord": 6620925}
+{"date": "2016-04-08", "gpsost": 214525, "plante": 488, "comment": "Hakavik mot elva.", "gpsnord": 6620925}
+{"date": "2016-04-16", "gpsost": 214968, "plante": 879, "comment": "PÅ gammalt lauv, Nedre Hakavik.", "gpsnord": 6621211}
+{"date": "2016-04-16", "gpsost": 662120, "plante": 885, "comment": "Nedre Hakavik mot Eikern.", "gpsnord": 215062}
+{"date": "2016-04-17", "gpsost": 214991, "plante": 730, "comment": "Grensa Gislerud/Mastebogen mot Eiker.", "gpsnord": 6621588}
+{"date": "2016-05-08", "gpsost": 215052, "plante": 100, "comment": "blomstring", "gpsnord": 6625011}
+{"date": "2016-05-10", "gpsost": 214430, "plante": 886, "comment": "Holtungen", "gpsnord": 6621286}
+{"date": "2016-05-22", "gpsost": 215669, "plante": 550, "comment": "Ved Eikern nord for Kraftverket.", "gpsnord": 6620768}
+{"date": "2016-05-22", "gpsost": 215669, "plante": 797, "comment": "Ved Eikern nord for Kraftverket.", "gpsnord": 6620768}
+{"date": "2016-05-22", "gpsost": 215669, "plante": 763, "comment": "Ved Eikern nord for Kraftverket.", "gpsnord": 6620768}
+{"date": "2016-05-22", "gpsost": 215669, "plante": 887, "comment": "Ved Eikern nord for Kraftverket.", "gpsnord": 6620768}
+{"date": "2016-05-23", "gpsost": 214982, "plante": 760, "comment": "Nedre Hakavik", "gpsnord": 6621282}
+{"date": "2016-05-23", "gpsost": 214969, "plante": 767, "comment": "Nedre Hakavik", "gpsnord": 6621289}
+{"date": "2016-06-09", "gpsost": 214636, "plante": 888, "comment": "Holtungen ved Storelva.", "gpsnord": 6621031}
+{"date": "2016-06-17", "gpsost": 214598, "plante": 889, "comment": "Okstjern", "gpsnord": 6618486}
+{"date": "2016-06-12", "gpsost": 214665, "plante": 890, "comment": "Øvre Hakavik ved Storelva.", "gpsnord": 6621020}
+{"date": "2016-06-04", "gpsost": 214991, "plante": 891, "comment": "Nedre Hakavik ved postkassa.", "gpsnord": 6621311}
+{"date": "2016-06-17", "gpsost": 214510, "plante": 591, "comment": "Okstjern.", "gpsnord": 6618562}
+{"date": "2016-06-16", "gpsost": 212394, "plante": 877, "comment": "Øytjern på stående, død bjørk.", "gpsnord": 6621991}
+{"date": "2016-06-17", "gpsost": 215012, "plante": 892, "comment": "Nedre Hakavik.", "gpsnord": 6621231}
+{"date": "2016-06-18", "gpsost": 214670, "plante": 191, "comment": "Nedre Hakavik i Storelva ovafor brønnen.", "gpsnord": 6621134}
+{"date": "2016-06-18", "gpsost": 214819, "plante": 198, "comment": "Nedre Hakavik.", "gpsnord": 6621054}
+{"date": "2016-06-18", "gpsost": 214665, "plante": 221, "comment": "Øvre Hakavik ved Storelva.", "gpsnord": 6621020}
+{"date": "2016-06-18", "gpsost": 214665, "plante": 484, "comment": "Øvre Hakavik ved Storelva, i stien til Holtungen", "gpsnord": 6621020}
+{"date": "2016-06-23", "gpsost": 214563, "plante": 893, "comment": "Hotungen.", "gpsnord": 6621486}
+{"date": "2016-06-23", "gpsost": 214563, "plante": 894, "comment": "Holtungen.", "gpsnord": 6621486}
+{"date": "2016-06-23", "gpsost": 214590, "plante": 895, "comment": "Motorbanen.", "gpsnord": 6621447}
+{"date": "2016-06-28", "gpsost": 214995, "plante": 598, "comment": "Nedre Hakavik, plenen.", "gpsnord": 6621191}
+{"date": "2016-06-28", "gpsost": 214848, "plante": 356, "comment": "Motorbanen", "gpsnord": 6621353}
+{"date": "2016-07-01", "gpsost": 214524, "plante": 357, "comment": "Øvre Hakavik.", "gpsnord": 6620914}
+{"date": "2016-07-02", "gpsost": 213953, "plante": 859, "comment": "Danseplattingen mot Geitryggen.", "gpsnord": 6620733}
+{"date": "2016-07-26", "gpsost": 210247, "plante": 359, "comment": "Fisås Brånavann", "gpsnord": 6622723}
+{"date": "2016-07-26", "gpsost": 210262, "plante": 872, "comment": "Fisås Brånavann", "gpsnord": 6622400}
+{"date": "2016-07-15", "gpsost": 214567, "plante": 896, "comment": "Øvre Hakavik", "gpsnord": 6620924}
+{"date": "2016-07-15", "gpsost": 214885, "plante": 897, "comment": "Nedre Hakavik ved elva.", "gpsnord": 6621220}
+{"date": "2016-07-15", "gpsost": 215003, "plante": 898, "comment": "Nedre Hakavik ved veien.", "gpsnord": 6621214}
+{"date": "2016-07-29", "gpsost": 210149, "plante": 391, "comment": "Fisås Brånavann", "gpsnord": 6622714}
+{"date": "2016-07-29", "gpsost": 212103, "plante": 820, "comment": "Buttingen og hytta og på stien.", "gpsnord": 6620667}
+{"date": "2016-07-29", "gpsost": 212090, "plante": 801, "comment": "Buttingen", "gpsnord": 6620651}
+{"date": "2016-07-30", "gpsost": 214567, "plante": 730, "comment": "Okstjern, Toppen", "gpsnord": 6618463}
+{"date": "2016-07-30", "gpsost": 214419, "plante": 622, "comment": "Anekset, Toppen.", "gpsnord": 6618721}
+{"date": "2016-07-28", "gpsost": 215028, "plante": 899, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621195}
+{"date": "2016-07-29", "gpsost": 212113, "plante": 900, "comment": "Buttingen.", "gpsnord": 6620325}
+{"date": "2016-07-29", "gpsost": 214104, "plante": 901, "comment": "Danseplattingen mot elva.", "gpsnord": 6620779}
+{"date": "2016-07-30", "gpsost": 214875, "plante": 902, "comment": "Sjulerudsetertjern.", "gpsnord": 6618201}
+{"date": "2016-07-30", "gpsost": 214244, "plante": 358, "comment": "Anekset, Toppen.", "gpsnord": 6618927}
+{"date": "2016-07-30", "gpsost": 214226, "plante": 387, "comment": "Anekset, Toppen - avblomstra.", "gpsnord": 6618655}
+{"date": "2016-07-29", "gpsost": 210273, "plante": 661, "comment": "Fisås Brånavann", "gpsnord": 6622372}
+{"date": "2016-07-30", "gpsost": 214417, "plante": 661, "comment": "Anekset, Toppen.", "gpsnord": 6618721}
+{"date": "2016-08-01", "gpsost": 21210, "plante": 903, "comment": "Butting, stien mot hytta.", "gpsnord": 6620680}
+{"date": "2016-08-05", "gpsost": 215738, "plante": 904, "comment": "Holtøya,midtre.", "gpsnord": 6621184}
+{"date": "2016-08-07", "gpsost": 214792, "plante": 803, "comment": "Nedre Hakavik.", "gpsnord": 6621192}
+{"date": "2016-08-07", "gpsost": 214857, "plante": 682, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621153}
+{"date": "2016-08-07", "gpsost": 214826, "plante": 608, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621133}
+{"date": "2016-07-30", "gpsost": 212061, "plante": 805, "comment": "Buttingen.", "gpsnord": 6620542}
+{"date": "2016-08-07", "gpsost": 214807, "plante": 865, "comment": "Nedre Hakavik.", "gpsnord": 6621127}
+{"date": "2016-08-07", "gpsost": 215019, "plante": 905, "comment": "Nedre Hakavik.", "gpsnord": 6621311}
+{"date": "2016-08-09", "gpsost": 215884, "plante": 336, "comment": "Nedre Holtet.", "gpsnord": 6620227}
+{"date": "2016-08-09", "gpsost": 216204, "plante": 599, "comment": "Nedre Holtet.", "gpsnord": 6619842}
+{"date": "2016-08-09", "gpsost": 216008, "plante": 906, "comment": "Nedre Holtet.", "gpsnord": 6620045}
+{"date": "2016-08-10", "gpsost": 215942, "plante": 823, "comment": "Nedre Holtet.", "gpsnord": 6620184}
+{"date": "2016-08-09", "gpsost": 216153, "plante": 907, "comment": "Nedre Holtet.", "gpsnord": 6619947}
+{"date": "2016-08-10", "gpsost": 215934, "plante": 908, "comment": "Nedre Holtet.", "gpsnord": 6620111}
+{"date": "2016-08-07", "gpsost": 214912, "plante": 603, "comment": "Nedre Hakavik ved Brakka.", "gpsnord": 6621239}
+{"date": "2016-08-10", "gpsost": 216196, "plante": 603, "comment": "Nedre Holtet.", "gpsnord": 6619705}
+{"date": "2016-08-10", "gpsost": 216116, "plante": 910, "comment": "Nedre Holtet.", "gpsnord": 6619942}
+{"date": "2016-08-15", "gpsost": 212144, "plante": 364, "comment": "Øytjernstua, delvis avblomstra.", "gpsnord": 6621781}
+{"date": "2016-08-15", "gpsost": 215008, "plante": 632, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621294}
+{"date": "2016-08-19", "gpsost": 210280, "plante": 803, "comment": "Fisås Brånavann", "gpsnord": 6622383}
+{"date": "2016-08-20", "gpsost": 214765, "plante": 369, "comment": "Holtungen mot elva, avblomstra.", "gpsnord": 6621237}
+{"date": "2016-08-20", "gpsost": 214865, "plante": 677, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621186}
+{"date": "2016-08-20", "gpsost": 214808, "plante": 438, "comment": "Holtungen mot elva.", "gpsnord": 6621155}
+{"date": "2016-08-20", "gpsost": 214805, "plante": 627, "comment": "Holtungen ved Storelva.", "gpsnord": 6621233}
+{"date": "2016-08-21", "gpsost": 214646, "plante": 897, "comment": "Øvre Hakavik.", "gpsnord": 6620964}
+{"date": "2016-08-21", "gpsost": 214439, "plante": 654, "comment": "Dansepattingen.", "gpsnord": 6620903}
+{"date": "2016-08-22", "gpsost": 214263, "plante": 700, "comment": "Danseplattingen.", "gpsnord": 6620788}
+{"date": "2016-08-20", "gpsost": 214799, "plante": 911, "comment": "Holtungen ved elva.", "gpsnord": 6621151}
+{"date": "2016-08-21", "gpsost": 214287, "plante": 912, "comment": "Danseplattingen mot elva.", "gpsnord": 6620774}
+{"date": "2016-08-21", "gpsost": 214243, "plante": 913, "comment": "Danseplattingen.", "gpsnord": 6620735}
+{"date": "2016-08-22", "gpsost": 214129, "plante": 914, "comment": "Danseplattingen mot elva.", "gpsnord": 6620790}
+{"date": "2016-08-22", "gpsost": 214535, "plante": 811, "comment": "Danseplattingen.", "gpsnord": 6620688}
+{"date": "2016-08-22", "gpsost": 214467, "plante": 608, "comment": "Danseplattingen.", "gpsnord": 6620767}
+{"date": "2016-08-21", "gpsost": 214111, "plante": 668, "comment": "Danseplattingen.", "gpsnord": 6620771}
+{"date": "2016-08-21", "gpsost": 214092, "plante": 915, "comment": "Danseplattingen mot elva/Geitryggen.", "gpsnord": 6620866}
+{"date": "2016-08-22", "gpsost": 214652, "plante": 696, "comment": "Øvre Hakavik", "gpsnord": 6620959}
+{"date": "2016-08-22", "gpsost": 214744, "plante": 861, "comment": "Blåleiresvingen.", "gpsnord": 6620577}
+{"date": "2016-08-21", "gpsost": 214617, "plante": 917, "comment": "Øvre Hakavik", "gpsnord": 6620861}
+{"date": "2016-08-22", "gpsost": 214319, "plante": 917, "comment": "Danseplattingen", "gpsnord": 6620726}
+{"date": "2016-08-22", "gpsost": 214589, "plante": 916, "comment": "Øvre Hakavik", "gpsnord": 6620927}
+{"date": "2016-08-26", "gpsost": 214968, "plante": 834, "comment": "Nedre Hakavik.", "gpsnord": 6621206}
+{"date": "2016-08-30", "gpsost": 214975, "plante": 732, "comment": "Nedre Hakavik", "gpsnord": 6621309}
+{"date": "2016-08-30", "gpsost": 214966, "plante": 918, "comment": "Nedre Hakavik ved veien.", "gpsnord": 6621327}
+{"date": "2016-08-28", "gpsost": 214972, "plante": 630, "comment": "Nedre Hakavik", "gpsnord": 6621301}
+{"date": "2016-09-01", "gpsost": 214935, "plante": 857, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621349}
+{"date": "2016-09-02", "gpsost": 214773, "plante": 919, "comment": "Holtungen, mot Storelva.", "gpsnord": 6621247}
+{"date": "2016-09-02", "gpsost": 214787, "plante": 920, "comment": "Holtungen mot Storelva.", "gpsnord": 6621130}
+{"date": "2016-09-06", "gpsost": 216022, "plante": 723, "comment": "Øvre Holtet.", "gpsnord": 6619772}
+{"date": "2016-09-15", "gpsost": 214970, "plante": 911, "comment": "Nedre Hakavik", "gpsnord": 6621296}
+{"date": "2016-09-07", "gpsost": 215934, "plante": 923, "comment": "Øvre Holtet", "gpsnord": 6619643}
+{"date": "2016-09-26", "gpsost": 215614, "plante": 55, "comment": "Hakavik Kraftverk", "gpsnord": 6620417}
+{"date": "2016-09-26", "gpsost": 215595, "plante": 686, "comment": "Hakavik Kraftverk", "gpsnord": 6620442}
+{"date": "2016-09-26", "gpsost": 215586, "plante": 924, "comment": "Hakavik Kraftverk.", "gpsnord": 6620459}
+{"date": "2016-09-05", "gpsost": 214968, "plante": 924, "comment": "Nedre Hakavik.", "gpsnord": 6621287}
+{"date": "2016-09-25", "gpsost": 214694, "plante": 525, "comment": "Øvre Holtet.", "gpsnord": 6620192}
+{"date": "2016-10-12", "gpsost": 214679, "plante": 702, "comment": "Øvre Hakavik", "gpsnord": 6620957}
+{"date": "2017-01-02", "gpsost": 214695, "plante": 465, "comment": "Øvre Hakavik på gammalt epletre.", "gpsnord": 6620951}
+{"date": "2017-03-01", "gpsost": 215115, "plante": 748, "comment": "Nedre Hakavik ved Eikern, or eller rogn.", "gpsnord": 6621191}
+{"date": "2017-03-01", "gpsost": 215132, "plante": 798, "comment": "Nedre Hakavik på kraftlinna.", "gpsnord": 6621145}
+{"date": "2017-03-01", "gpsost": 215134, "plante": 453, "comment": "Nedre Hakavik på kraftlinna.", "gpsnord": 6621127}
+{"date": "2017-03-01", "gpsost": 215114, "plante": 770, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621195}
+{"date": "2017-03-13", "gpsost": 215185, "plante": 928, "comment": "Kontorbakken nederst.", "gpsnord": 6620897}
+{"date": "2017-03-17", "gpsost": 214751, "plante": 752, "comment": "Motorbanen, ved veien nesten oppe.", "gpsnord": 6621289}
+{"date": "2017-03-18", "gpsost": 0, "plante": 1, "comment": "", "gpsnord": 0}
+{"date": "2017-03-01", "gpsost": 215112, "plante": 482, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621249}
+{"date": "2017-03-17", "gpsost": 214656, "plante": 482, "comment": "Holtungen mot Nedre Hakavik.", "gpsnord": 6621193}
+{"date": "2017-03-20", "gpsost": 213054, "plante": 92, "comment": "Bogåsen", "gpsnord": 6622044}
+{"date": "2017-03-20", "gpsost": 212869, "plante": 518, "comment": "Bogåsen", "gpsnord": 6622308}
+{"date": "2017-03-20", "gpsost": 213033, "plante": 492, "comment": "Bogåsen", "gpsnord": 6622234}
+{"date": "2017-03-20", "gpsost": 212948, "plante": 928, "comment": "Bogåsen.", "gpsnord": 6622276}
+{"date": "2017-03-23", "gpsost": 215057, "plante": 764, "comment": "Nedre Hakavik, under huset.", "gpsnord": 6621201}
+{"date": "2017-03-23", "gpsost": 215109, "plante": 783, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621188}
+{"date": "2017-03-24", "gpsost": 214959, "plante": 929, "comment": "Nedre Hakavik, gammal bjørk.", "gpsnord": 6621225}
+{"date": "2017-03-24", "gpsost": 214661, "plante": 929, "comment": "Holtungen, veien mot Øvre Hakavik", "gpsnord": 6621095}
+{"date": "2017-03-20", "gpsost": 213315, "plante": 495, "comment": "Santhansfoss", "gpsnord": 6621824}
+{"date": "2017-03-21", "gpsost": 213259, "plante": 927, "comment": "Santhansfoss, flombekkefar.", "gpsnord": 6621843}
+{"date": "2017-04-01", "gpsost": 214253, "plante": 111, "comment": "Gislerudmoen ved elva.", "gpsnord": 6621447}
+{"date": "2017-04-01", "gpsost": 214276, "plante": 220, "comment": "Holtungen, jordkanten nordvest.", "gpsnord": 6621334}
+{"date": "2017-04-01", "gpsost": 214223, "plante": 931, "comment": "Gislerudmoen ved elva.", "gpsnord": 6621438}
+{"date": "2017-04-01", "gpsost": 214311, "plante": 932, "comment": "Gislerudmoen ved brønnen.", "gpsnord": 6621494}
+{"date": "2017-04-01", "gpsost": 214215, "plante": 933, "comment": "Gislerudmoen ved elva.", "gpsnord": 6621447}
+{"date": "2017-04-05", "gpsost": 213981, "plante": 472, "comment": "Storelvdalen mot Danseplattingen.", "gpsnord": 6620629}
+{"date": "2017-04-02", "gpsost": 214291, "plante": 935, "comment": "Gislerudmoen ved brønnen.", "gpsnord": 6621479}
+{"date": "2017-04-06", "gpsost": 213952, "plante": 934, "comment": "Storelvdalen mot Danseplattingen.", "gpsnord": 6620431}
+{"date": "2017-04-08", "gpsost": 213998, "plante": 936, "comment": "Storelvdalen mot Danseplattingen.", "gpsnord": 6620581}
+{"date": "2017-04-08", "gpsost": 213971, "plante": 937, "comment": "Storelvdalen mot Danseplattingen.", "gpsnord": 6620491}
+{"date": "2017-04-12", "gpsost": 214758, "plante": 938, "comment": "Kultvika.", "gpsnord": 6622139}
+{"date": "2017-04-12", "gpsost": 214369, "plante": 939, "comment": "Gislerudmoen før \\"Hallingsvingen\\"", "gpsnord": 6621623}
+{"date": "2017-04-12", "gpsost": 214369, "plante": 940, "comment": "Gislerudmoen før \\"Hallingsvingen\\"", "gpsnord": 6621623}
+{"date": "2017-04-12", "gpsost": 214369, "plante": 941, "comment": "Gislerudmoen før \\"Hallingsvingen\\" ", "gpsnord": 6621623}
+{"date": "2017-04-16", "gpsost": 214245, "plante": 877, "comment": "Holtungen, på gammal or.", "gpsnord": 6621313}
+{"date": "2017-04-12", "gpsost": 214121, "plante": 435, "comment": "Gislerudmoen, april 2017.", "gpsnord": 6621441}
+{"date": "2017-04-18", "gpsost": 214999, "plante": 751, "comment": "Tomta på Eikerplomme.", "gpsnord": 6621238}
+{"date": "2017-04-19", "gpsost": 214920, "plante": 519, "comment": "Nedre Hakavik ved låvebrua.", "gpsnord": 6621130}
+{"date": "2017-04-19", "gpsost": 214886, "plante": 942, "comment": "Nedre Hakavik mot Konglekollen.", "gpsnord": 6621084}
+{"date": "2017-04-19", "gpsost": 21492, "plante": 884, "comment": "Nedre Hakavik i matte på granbarkkvist i fuktig miljø sammen med Sumpbroddmose, Klobleikmose og sprikelundmose.", "gpsnord": 6621046}
+{"date": "2017-04-22", "gpsost": 213970, "plante": 935, "comment": "Storelvdalen mot Danseplattingen.", "gpsnord": 6620493}
+{"date": "2017-04-23", "gpsost": 214151, "plante": 943, "comment": "Stien Danseplattingen - elva.", "gpsnord": 6620730}
+{"date": "2017-04-23", "gpsost": 214151, "plante": 944, "comment": "Stien Danseplattingen - elva.", "gpsnord": 6620730}
+{"date": "2017-04-20", "gpsost": 214981, "plante": 945, "comment": "Nedre Hakavik, mot Eikern.", "gpsnord": 6621285}
+{"date": "2017-04-26", "gpsost": 215159, "plante": 946, "comment": "Kontorbakkenkrysset.", "gpsnord": 6620938}
+{"date": "2017-04-29", "gpsost": 214973, "plante": 947, "comment": "Gislerudtrafoen.", "gpsnord": 6621427}
+{"date": "2017-05-05", "gpsost": 213157, "plante": 886, "comment": "Æsle, i veikanten /også Kilana  på stien til Tistillen.", "gpsnord": 6619773}
+{"date": "2017-05-12", "gpsost": 215228, "plante": 947, "comment": "Kontorbakken.", "gpsnord": 6620847}
+{"date": "2017-05-13", "gpsost": 215379, "plante": 947, "comment": "Kraftverket.", "gpsnord": 6620561}
+{"date": "2017-05-13", "gpsost": 215979, "plante": 145, "comment": "Nedre Holtet.", "gpsnord": 6620107}
+{"date": "2017-05-13", "gpsost": 215734, "plante": 948, "comment": "Kraftverket, Holteveien.", "gpsnord": 6620180}
+{"date": "2017-05-23", "gpsost": 213053, "plante": 949, "comment": "Tangen mellom Kilane og Tistillbrua.", "gpsnord": 6618386}
+{"date": "2017-05-22", "gpsost": 213077, "plante": 57, "comment": "Kilane, stien til Tistillen.", "gpsnord": 6618519}
+{"date": "2017-05-22", "gpsost": 212943, "plante": 557, "comment": "Titsillen.", "gpsnord": 6618337}
+{"date": "2017-05-26", "gpsost": 214751, "plante": 538, "comment": "Nedre Haavik ved brønnen.", "gpsnord": 6621090}
+{"date": "2017-05-18", "gpsost": 214781, "plante": 770, "comment": "Nedre Hakavik ved brønnen.", "gpsnord": 6621092}
+{"date": "2017-05-18", "gpsost": 214788, "plante": 922, "comment": "Nedre HAKAVIK ved brønnen.", "gpsnord": 6621090}
+{"date": "2017-05-29", "gpsost": 213440, "plante": 925, "comment": "Nedkant av Lamyr.", "gpsnord": 6619371}
+{"date": "2017-05-30", "gpsost": 214791, "plante": 934, "comment": "Nedre Hakavik, mot brønnen.", "gpsnord": 6621086}
+{"date": "2017-05-30", "gpsost": 214800, "plante": 782, "comment": "Nedre Hakavik mot brønnen.", "gpsnord": 6621102}
+{"date": "2017-05-30", "gpsost": 214800, "plante": 950, "comment": "Nedre Hakavik mot brønnen.", "gpsnord": 6621102}
+{"date": "2017-05-30", "gpsost": 214800, "plante": 951, "comment": "Nedre Hakavik mot brønnen.", "gpsnord": 6621102}
+{"date": "2013-04-17", "gpsost": 214967, "plante": 90, "comment": "Nedre Hakavik mot elva.", "gpsnord": 6621333}
+{"date": "2017-06-14", "gpsost": 215097, "plante": 479, "comment": "Tømmerstokk under båten.", "gpsnord": 6621242}
+{"date": "2017-06-15", "gpsost": 214986, "plante": 558, "comment": "Nedre Hakavik i bigården.", "gpsnord": 6621201}
+{"date": "2017-06-19", "gpsost": 214002, "plante": 926, "comment": "Geitryggen mot elva.", "gpsnord": 6620791}
+{"date": "2017-08-06", "gpsost": 214864, "plante": 598, "comment": "Grendehuset, ved nordveggen.", "gpsnord": 6621677}
+{"date": "2017-08-15", "gpsost": 211961, "plante": 926, "comment": "På furustubbe nedafor Flåtjern.", "gpsnord": 6621372}
+{"date": "2017-08-15", "gpsost": 212013, "plante": 683, "comment": "Før Flåtjern i veiskråninga.", "gpsnord": 6621335}
+{"date": "2017-08-20", "gpsost": 214932, "plante": 628, "comment": "Nedre Hakavik ved Brakka.", "gpsnord": 6621243}
+{"date": "2017-08-19", "gpsost": 214959, "plante": 909, "comment": "Nedre Hakavik ved Brakka.", "gpsnord": 6621241}
+{"date": "2017-08-20", "gpsost": 214949, "plante": 860, "comment": "Nedre Hakavik ved Brakka.", "gpsnord": 6621237}
+{"date": "2017-09-07", "gpsost": 214996, "plante": 840, "comment": "Nedre Hakavik, nord på tomta.", "gpsnord": 6621237}
+{"date": "2017-09-08", "gpsost": 214493, "plante": 641, "comment": "Nedafor Danseplattingen mot Øvre H.", "gpsnord": 6620779}
+{"date": "2017-06-29", "gpsost": 213456, "plante": 930, "comment": "Kilane.", "gpsnord": 6618367}
+{"date": "2017-06-29", "gpsost": 215006, "plante": 780, "comment": "Nedre Hakavik ved Eikern.", "gpsnord": 6621222}
+{"date": "2017-07-25", "gpsost": 213758, "plante": 537, "comment": "Storelvdalen.", "gpsnord": 6619806}
+{"date": "2017-09-14", "gpsost": 214233, "plante": 717, "comment": "Danseplattingen mot Geitryggen.", "gpsnord": 6620748}
+{"date": "2017-08-19", "gpsost": 213249, "plante": 506, "comment": "Pirdalen mot Mjøvannet.", "gpsnord": 6615959}
+{"date": "2017-09-01", "gpsost": 214973, "plante": 784, "comment": "Nedre Hakavik ved veien.", "gpsnord": 6621217}
+{"date": "2017-09-06", "gpsost": 214485, "plante": 882, "comment": "Under Danseplattigen", "gpsnord": 6620776}
+{"date": "2017-09-09", "gpsost": 214480, "plante": 952, "comment": "Under Danseplattingen.", "gpsnord": 6620764}
+{"date": "2017-09-09", "gpsost": 215007, "plante": 953, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621213}
+{"date": "2017-09-19", "gpsost": 214262, "plante": 713, "comment": "Danseplattingen mot Geiteryggen.", "gpsnord": 6620729}
+{"date": "2017-09-08", "gpsost": 214967, "plante": 905, "comment": "Nedre Hakavik ved veien.", "gpsnord": 6621219}
+{"date": "2017-09-19", "gpsost": 214118, "plante": 835, "comment": "Danseplattingen mot Geitryggen.", "gpsnord": 6620774}
+{"date": "2017-09-15", "gpsost": 214130, "plante": 954, "comment": "Danseplattingen mot Geitryggen.", "gpsnord": 6620742}
+{"date": "2017-09-15", "gpsost": 214482, "plante": 955, "comment": "Under Danseplattingen.", "gpsnord": 6620760}
+{"date": "2017-09-15", "gpsost": 214433, "plante": 956, "comment": "Under Danseplattingen.", "gpsnord": 6620745}
+{"date": "2017-09-15", "gpsost": 214599, "plante": 957, "comment": "Øvre Hakavik.", "gpsnord": 6620847}
+{"date": "2017-09-19", "gpsost": 214915, "plante": 957, "comment": "Nedre Hakavik.", "gpsnord": 6621138}
+{"date": "2017-09-15", "gpsost": 214488, "plante": 959, "comment": "Under Danseplatting.", "gpsnord": 6620758}
+{"date": "2017-09-15", "gpsost": 214890, "plante": 960, "comment": "Nedre Hakavik.", "gpsnord": 6621155}
+{"date": "2017-09-19", "gpsost": 214271, "plante": 961, "comment": "Danseplattingen mot Geitryggen.", "gpsnord": 6620726}
+{"date": "2017-09-19", "gpsost": 214919, "plante": 962, "comment": "Nedre Hakavik.", "gpsnord": 6621140}
+{"date": "2017-09-19", "gpsost": 214516, "plante": 963, "comment": "Under Danseplattingen.", "gpsnord": 6620799}
+{"date": "2017-09-19", "gpsost": 214836, "plante": 964, "comment": "Nedre Hakavik mot Øvre.", "gpsnord": 6621092}
+{"date": "2017-09-19", "gpsost": 214238, "plante": 965, "comment": "Dansplattngen mot Geitryggen.", "gpsnord": 6620733}
+{"date": "2017-09-24", "gpsost": 214863, "plante": 966, "comment": "Nedre Hakavik ved elva.", "gpsnord": 6621183}
+{"date": "2017-09-24", "gpsost": 214863, "plante": 967, "comment": "Nedre Hakavik ved elva.", "gpsnord": 6621183}
+{"date": "2017-09-24", "gpsost": 216026, "plante": 968, "comment": "Nedre Holtet.", "gpsnord": 6620063}
+{"date": "2017-09-25", "gpsost": 214877, "plante": 965, "comment": "Nedre Hakavik", "gpsnord": 6621115}
+{"date": "2017-09-25", "gpsost": 214888, "plante": 702, "comment": "Nedre Hakavik.", "gpsnord": 6621123}
+{"date": "2017-09-25", "gpsost": 214989, "plante": 971, "comment": "Nedre Hakavik i veigrøfta.", "gpsnord": 6621225}
+{"date": "2017-09-29", "gpsost": 215026, "plante": 972, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621232}
+{"date": "2017-10-05", "gpsost": 215008, "plante": 842, "comment": "Nedre Hakavik, skråningen.", "gpsnord": 6621249}
+{"date": "2017-10-06", "gpsost": 213384, "plante": 841, "comment": "Geitryggdalen.", "gpsnord": 662143}
+{"date": "2017-10-07", "gpsost": 215332, "plante": 819, "comment": "Åttern ved rørgata.", "gpsnord": 6619920}
+{"date": "2017-10-07", "gpsost": 215332, "plante": 973, "comment": "Åttersvingen ved rørgata.", "gpsnord": 6619920}
+{"date": "2017-10-07", "gpsost": 214873, "plante": 974, "comment": "Nedre Hakavik.", "gpsnord": 6621129}
+{"date": "2017-10-06", "gpsost": 213417, "plante": 975, "comment": "Geitryggdalen.", "gpsnord": 6621397}
+{"date": "2017-10-05", "gpsost": 213451, "plante": 805, "comment": "Skjella variant, Geitryggdalen.", "gpsnord": 6621382}
+{"date": "2017-10-07", "gpsost": 214740, "plante": 976, "comment": "Øvre Hakavik.", "gpsnord": 6620891}
+{"date": "2017-10-08", "gpsost": 214185, "plante": 977, "comment": "Gislerudmoen.", "gpsnord": 6621497}
+{"date": "2017-10-07", "gpsost": 214737, "plante": 978, "comment": "Øvre Hakavik.", "gpsnord": 6620896}
+{"date": "2017-10-08", "gpsost": 214217, "plante": 959, "comment": "Gislerudmoen.", "gpsnord": 6621477}
+{"date": "2017-10-06", "gpsost": 214749, "plante": 905, "comment": "Øvre Hakavik.", "gpsnord": 6620887}
+{"date": "2017-09-21", "gpsost": 214552, "plante": 969, "comment": "Under Danseplattingen.", "gpsnord": 6620822}
+{"date": "2017-09-24", "gpsost": 215011, "plante": 969, "comment": "Nedre Hakavik på plenen.", "gpsnord": 6621205}
+{"date": "2017-10-12", "gpsost": 214620, "plante": 846, "comment": "Gislerudmoen.", "gpsnord": 6621635}
+{"date": "2017-10-12", "gpsost": 214268, "plante": 979, "comment": "Gislerudmoen.", "gpsnord": 6621461}
+{"date": "2017-10-13", "gpsost": 215842, "plante": 692, "comment": "Holtøya sør.", "gpsnord": 6620996}
+{"date": "2017-10-13", "gpsost": 215853, "plante": 969, "comment": "Holtøya sør.", "gpsnord": 6621003}
+{"date": "2017-10-13", "gpsost": 215747, "plante": 914, "comment": "Holtøya, midt på.", "gpsnord": 6621113}
+{"date": "2017-10-15", "gpsost": 214953, "plante": 979, "comment": "Gislerud mot Eikern.", "gpsnord": 6621667}
+{"date": "2017-10-15", "gpsost": 214904, "plante": 980, "comment": "Gislerud", "gpsnord": 6621746}
+{"date": "2017-10-16", "gpsost": 214589, "plante": 861, "comment": "Øvre Hakavik.", "gpsnord": 6620862}
+{"date": "2017-10-16", "gpsost": 214567, "plante": 860, "comment": "Øvre Hakavik.", "gpsnord": 6620854}
+{"date": "2017-10-18", "gpsost": 214979, "plante": 859, "comment": "Nedre Hakavik ved bigården.", "gpsnord": 6621199}
+{"date": "2017-10-06", "gpsost": 214585, "plante": 457, "comment": "Øvre Hakavik.", "gpsnord": 6620858}
+{"date": "2017-10-20", "gpsost": 215955, "plante": 855, "comment": "Nedre Holtet.", "gpsnord": 6620133}
+{"date": "2017-10-20", "gpsost": 215118, "plante": 841, "comment": "Nedre Hakavik.", "gpsnord": 6621026}
+{"date": "2017-10-20", "gpsost": 215142, "plante": 981, "comment": "Nedre Hakavik.", "gpsnord": 6620985}
+{"date": "2017-10-29", "gpsost": 215079, "plante": 523, "comment": "Øra", "gpsnord": 6621389}
+{"date": "2017-10-28", "gpsost": 214602, "plante": 974, "comment": "Øvre Hakavik.", "gpsnord": 6620858}
+{"date": "2017-12-16", "gpsost": 214957, "plante": 982, "comment": "Gamlejordet i Nedre Hakavik.", "gpsnord": 6620939}
+{"date": "2018-04-15", "gpsost": 0, "plante": 1, "comment": "På bar flekk under gran, fortsatt mye snø.", "gpsnord": 0}
+{"date": "2018-05-12", "gpsost": 211373, "plante": 18, "comment": "Utryggbekken, på veien mot Svarttjernsbekken.", "gpsnord": 6618912}
+{"date": "2018-05-09", "gpsost": 0, "plante": 100, "comment": "Blomstring", "gpsnord": 0}
+{"date": "2018-07-06", "gpsost": 213390, "plante": 600, "comment": "Mørtjern, veien 100m nord/vest.", "gpsnord": 6619172}
+{"date": "2018-06-07", "gpsost": 213764, "plante": 983, "comment": "Bjønnestillinga i veiskillet.", "gpsnord": 6620610}
+{"date": "2018-06-24", "gpsost": 215094, "plante": 984, "comment": "Nedre Hakavik ved Eikern, rett ved båten.", "gpsnord": 6621260}
+{"date": "2018-06-30", "gpsost": 209866, "plante": 369, "comment": "Fisås Brånavann, traktorvegen mot Tvillingvann/Nesfjellia.", "gpsnord": 6622053}
+{"date": "2018-06-19", "gpsost": 209977, "plante": 985, "comment": "Ved traktorvegen i Nesfjelllia.", "gpsnord": 6621720}
+{"date": "2018-07-25", "gpsost": 214170, "plante": 604, "comment": "Dammen. Øksne", "gpsnord": 6618441}
+{"date": "2018-08-18", "gpsost": 214835, "plante": 469, "comment": "Nedre Hakavik på veien mot Øvre.", "gpsnord": 6621081}
+{"date": "2018-09-01", "gpsost": 215843, "plante": 630, "comment": "Holtøya sør.", "gpsnord": 6621009}
+{"date": "2018-09-01", "gpsost": 215858, "plante": 986, "comment": "Holtøya sør.", "gpsnord": 6621062}
+{"date": "2018-09-01", "gpsost": 215867, "plante": 987, "comment": "Holtøya sør.", "gpsnord": 6621084}
+{"date": "2018-09-02", "gpsost": 213316, "plante": 988, "comment": "Geitryggdalen.", "gpsnord": 6621488}
+{"date": "2018-09-02", "gpsost": 213270, "plante": 989, "comment": "Santhansfoss", "gpsnord": 6621601}
+{"date": "2018-09-02", "gpsost": 213324, "plante": 990, "comment": "Santhansfoss.", "gpsnord": 6621564}
+{"date": "2018-09-09", "gpsost": 214900, "plante": 991, "comment": "Nedre Hakavik ved Brakka.", "gpsnord": 6621256}
+{"date": "2018-09-16", "gpsost": 216223, "plante": 819, "comment": "Nedre Holtet, stien ved grensa.", "gpsnord": 6619433}
+{"date": "2018-09-17", "gpsost": 213500, "plante": 992, "comment": "Geitryggdalen,i veien.", "gpsnord": 6621357}
+{"date": "2018-09-21", "gpsost": 215177, "plante": 230, "comment": "Åttersvingen ved rørgata, avblomstra.", "gpsnord": 6620046}
+{"date": "2018-09-23", "gpsost": 214744, "plante": 994, "comment": "Nedre Hakavik, mot Øvre.", "gpsnord": 6621056}
+{"date": "2018-09-23", "gpsost": 214828, "plante": 993, "comment": "Holtungen ved Storelva.", "gpsnord": 6621200}
+{"date": "2018-09-19", "gpsost": 216050, "plante": 995, "comment": "Nedre Holtet ved minnetavla.", "gpsnord": 6620019}
+{"date": "2018-09-23", "gpsost": 215488, "plante": 996, "comment": "Holtungen ved Storelva.", "gpsnord": 6621194}
+{"date": "2018-10-16", "gpsost": 214108, "plante": 998, "comment": "På stien Danseplattingen - Geitryggen, mot elva.", "gpsnord": 6620776}
+{"date": "2018-10-16", "gpsost": 214123, "plante": 999, "comment": "Danseplattingen mot elva og Geitryggen.", "gpsnord": 6620769}
+{"date": "2018-10-16", "gpsost": 213361, "plante": 1000, "comment": "Geitryggdalen ved bilvegen.", "gpsnord": 6621462}
+{"date": "2018-10-25", "gpsost": 214163, "plante": 599, "comment": "Geitrygglia,elva mot Gislerud.", "gpsnord": 6621416}
+{"date": "2018-10-25", "gpsost": 213125, "plante": 1001, "comment": "Under Blekktjern.", "gpsnord": 6620427}
+{"date": "2018-11-05", "gpsost": 214550, "plante": 1002, "comment": "Øvre Hakavik ved elva.", "gpsnord": 6620934}
+{"date": "2019-03-28", "gpsost": 0, "plante": 1, "comment": "", "gpsnord": 0}
+{"date": "2019-04-05", "gpsost": 214824, "plante": 946, "comment": "Guislerudmoen mot Saga.", "gpsnord": 6621405}
+{"date": "2019-05-08", "gpsost": 214430, "plante": 1004, "comment": "Joltungen ved tuftene.", "gpsnord": 6621286}
+{"date": "2019-05-28", "gpsost": 213080, "plante": 520, "comment": "Stien til Tistillen langs Øksne.", "gpsnord": 6618513}
+{"date": "2019-06-10", "gpsost": 210071, "plante": 1005, "comment": "Fisås Brånavann, stien mot Nesfjell.", "gpsnord": 6622201}
+{"date": "2019-07-09", "gpsost": 0, "plante": 319, "comment": "Stranda før elva, Nedre Hakavik", "gpsnord": 0}
