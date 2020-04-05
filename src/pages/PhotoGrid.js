@@ -79,15 +79,6 @@ function toUTF8Array(str) {
   return utf8;
 }
 
-function strEncodeUTF16(str) {
-  var buf = new ArrayBuffer(str.length * 2);
-  var bufView = new Uint16Array(buf);
-  for (var i = 0, strLen = str.length; i < strLen; i++) {
-    bufView[i] = str.charCodeAt(i);
-  }
-  return bufView;
-}
-
 const reconnectPromise = (items, photo) => {
   return new Promise((resolve, reject) => {
     console.log("Finding match for ", photo.link);
@@ -143,9 +134,19 @@ const PhotoGrid = ({ plants }) => {
   const { storage, firestore } = useContext(FirebaseContext);
   const classes = useStyles();
 
-  console.log(plants);
+  const noPhotos = plants.filter((plant) => plant.photos.length === 0);
+  const hasPhotos = plants.filter((plant) => plant.photos.length > 0);
+  const missingUrls = hasPhotos.filter(
+    (plant) =>
+      plant.photos.filter((photo) => photo.url === undefined).length > 0
+  );
 
-  const plantArray = plants.map((plant) => {
+  console.log("Nof plants: ", plants.length);
+  console.log("Nof with photos: ", hasPhotos.length);
+  console.log("Nof without photos: ", noPhotos.length);
+  console.log("Nof missing urls: ", missingUrls.length);
+
+  const plantArray = hasPhotos.map((plant) => {
     const photo = selectPhoto(plant);
     return {
       plant: plant,
@@ -180,7 +181,9 @@ const PhotoGrid = ({ plants }) => {
                   aria-label={`info about ${plant.header}`}
                   className={classes.icon}
                   onClick={() =>
-                    reconnectPhoto(plant.plant, storage, firestore)
+                    missingUrls.forEach((pl) => {
+                      reconnectPhoto(pl, storage, firestore);
+                    })
                   }
                 >
                   <InfoIcon />

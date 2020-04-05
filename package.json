@@ -46,6 +46,7 @@
     "differencify-jest-reporter": "^0.0.3",
     "firebase": "^6.2.4",
     "firebase-tools": "^7.12.1",
+    "firestore-pagination-hook": "^1.0.0",
     "formik": "^2.1.4",
     "husky": "^4.2.3",
     "i18next": "^19.1.0",

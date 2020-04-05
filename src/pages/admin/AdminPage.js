@@ -2,6 +2,7 @@ import Box from "@material-ui/core/Box";
 import Container from "@material-ui/core/Container";
 import React, { useContext } from "react";
 import { FirebaseContext } from "src/firebase/FirebaseProvider";
+import { FindMissingLinks } from "src/pages/admin/FindMissingLinks";
 import { ImportPlants } from "src/pages/admin/ImportPlants";
 
 const AdminPage = () => {
@@ -49,6 +50,7 @@ const AdminPage = () => {
       <Box mt="10em" />
       <Container maxWidth="sm" style={{ textAlign: "center" }}>
         <ImportPlants importPlant={importPlant} />
+        <FindMissingLinks />
       </Container>
     </>
   );

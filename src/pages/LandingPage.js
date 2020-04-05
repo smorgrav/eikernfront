@@ -1,24 +1,30 @@
 import Box from "@material-ui/core/Box";
+import Button from "@material-ui/core/Button";
 import Container from "@material-ui/core/Container";
 import React, { useContext } from "react";
-import { useCollection } from "react-firebase-hooks/firestore";
 import { FirebaseContext } from "src/firebase/FirebaseProvider";
 import { PhotoGrid } from "src/pages/PhotoGrid";
 import { ErrorPage } from "src/template/Errors";
 import { LoadingPage } from "src/template/Loading";
 import { UrlQueryAuto } from "../template/UrlQueryAuto";
-import Pagination from "@material-ui/lab/Pagination";
+import usePagination from "firestore-pagination-hook";
 
 const LandingPage = () => {
   const { firestore } = useContext(FirebaseContext);
-  const [value, loading, error] = useCollection(
-    firestore.collection("plants").limit(9)
-  );
+  const {
+    loading,
+    loadingError,
+    loadingMore,
+    loadingMoreError,
+    hasMore,
+    items,
+    loadMore,
+  } = usePagination(firestore.collection("plants"), { limit: 20 });
 
   if (loading) return <LoadingPage />;
-  if (error) return <ErrorPage />;
+  if (loadingError) return <ErrorPage />;
 
-  const plants = value.docs.map((doc) => doc.data());
+  const plants = items.map((doc) => doc.data());
 
   return (
     <>
@@ -37,7 +43,13 @@ const LandingPage = () => {
         />
         <Box mt="1em" />
         <PhotoGrid plants={plants} />
-        <Pagination count={10} variant="outlined" style={{ margin: "auto" }} />
+        <Button
+          disabled={!hasMore}
+          onClick={loadMore}
+          style={{ margin: "auto" }}
+        >
+          More
+        </Button>
       </Container>
     </>
   );
