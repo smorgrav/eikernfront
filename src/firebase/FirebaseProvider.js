@@ -12,6 +12,7 @@ import React, { useState } from "react";
 import firebase from "firebase/app";
 import "firebase/auth";
 import "firebase/firestore";
+import "firebase/storage";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { mockAuth } from "src/localbackend/mockAuth";
 import { firebaseConfig } from "src/template/AppSettingsProvider";
@@ -28,17 +29,12 @@ const auth =
     ? mockAuth(window.location.search)
     : firebase.auth();
 const firestore = app.firestore();
+const storage = app.storage();
 
-// Use emulator if not production (TODO only if testing really or if certain env is set)
-if (process.env.NODE_ENV !== "production") {
+if (process.env.NODE_ENV === "local") {
   firestore.settings({
     host: "localhost:8080",
     ssl: false,
-  });
-
-  firestore.collection("test").doc("1").set({
-    name: "Number one",
-    title: "Chief",
   });
 }
 
@@ -80,6 +76,7 @@ const FirebaseProvider = ({ children }) => {
         authenticated,
         user,
         loading,
+        storage,
         firestore,
         auth,
       }}
