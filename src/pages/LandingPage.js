@@ -1,30 +1,25 @@
 import Box from "@material-ui/core/Box";
-import Button from "@material-ui/core/Button";
 import Container from "@material-ui/core/Container";
+import { parse } from "query-string";
 import React, { useContext } from "react";
+import { useLocation } from "react-router-dom";
 import { FirebaseContext } from "src/firebase/FirebaseProvider";
-import { PhotoGrid } from "src/pages/PhotoGrid";
-import { ErrorPage } from "src/template/Errors";
-import { LoadingPage } from "src/template/Loading";
+import { QueryComp } from "src/pages/QueryComp";
 import { UrlQueryAuto } from "../template/UrlQueryAuto";
-import usePagination from "firestore-pagination-hook";
 
 const LandingPage = () => {
-  const { firestore } = useContext(FirebaseContext);
-  const {
-    loading,
-    loadingError,
-    loadingMore,
-    loadingMoreError,
-    hasMore,
-    items,
-    loadMore,
-  } = usePagination(firestore.collection("plants"), { limit: 20 });
+  const location = useLocation();
 
-  if (loading) return <LoadingPage />;
-  if (loadingError) return <ErrorPage />;
+  const originalQuery = parse(location.search, { arrayFormat: "comma" });
+  const searchQuery = Array.isArray(originalQuery.search)
+    ? originalQuery.search
+    : originalQuery.search
+    ? [originalQuery.search]
+    : [];
 
-  const plants = items.map((doc) => doc.data());
+  const plantetype = searchQuery[0];
+
+  console.log(plantetype);
 
   return (
     <>
@@ -37,19 +32,12 @@ const LandingPage = () => {
         }}
       >
         <Box mt="1em" />
-        <UrlQueryAuto
-          autoOptions={["Hard rock", "Jazz"]}
-          placeholder={"E.g navn:blåveis"}
-        />
+        <UrlQueryAuto autoOptions={["Hard rock", "Jazz"]} />
         <Box mt="1em" />
-        <PhotoGrid plants={plants} />
-        <Button
-          disabled={!hasMore}
-          onClick={loadMore}
-          style={{ margin: "auto" }}
-        >
-          More
-        </Button>
+        <QueryComp
+          plantetype={plantetype}
+          key={`query${plantetype || "notype"}nogruppe`}
+        />
       </Container>
     </>
   );

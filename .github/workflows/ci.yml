@@ -19,10 +19,6 @@ jobs:
       run: yarn build
     - name: Non Visual Tests
       run: yarn test
-    - name: Visual Tests
-      uses: ./
-      with:
-        args: '"yarn local & sleep 120 && yarn visual"'
     - name: Upload Artifacts
       uses: actions/upload-artifact@master
       with:
