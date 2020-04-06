@@ -5,7 +5,7 @@ import { AdminPage } from "src/pages/admin/AdminPage";
 import { LandingPage } from "src/pages/LandingPage";
 
 const AppUnauthenticated = () => {
-  const { authenticated, loading } = useContext(FirebaseContext);
+  const { loading } = useContext(FirebaseContext);
 
   if (loading) return <LandingPage />;
 

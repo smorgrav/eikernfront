@@ -1,9 +1,8 @@
 import Box from "@material-ui/core/Box";
 import Container from "@material-ui/core/Container";
 import { parse } from "query-string";
-import React, { useContext } from "react";
+import React from "react";
 import { useLocation } from "react-router-dom";
-import { FirebaseContext } from "src/firebase/FirebaseProvider";
 import { QueryComp } from "src/pages/QueryComp";
 import { UrlQueryAuto } from "../template/UrlQueryAuto";
 
