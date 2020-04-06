@@ -43,6 +43,16 @@ yarn local && sleep 120 & yarn visual
 ## Messages
 Communicating stuff to the user is arguably the most important thing for a web application.
 
+## GitHub Actions
+To deploy to firebase hosting from the CI pipeline you need to add a CI token.
+
+````
+firebase login:ci
+````
+
+Add the token as FIREBASE_TOKEN in your github secret section.
+ 
+
 ## ESLint and Prettier
 Configured straight out of the CRA documentation https://create-react-app.dev/docs/setting-up-your-editor/
 
