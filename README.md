@@ -1,7 +1,7 @@
 # Fatterns Digitale Herbarium
 ![Continuous Integration](https://github.com/smorgrav/eikernfront/workflows/Continuous%20Integration/badge.svg)
 
-![eikern.web.app](https://eikern.web.app/)
+[eikern.web.app](https://eikern.web.app/)
 
 Her har jeg laget en enkel web applikasjon over datasettet som min far har samlet av planter rundt Hakavika. 
 Jeg har brukt samme lest som mine andre web applikasjoner så for det meste er dette mer komplisert enn
