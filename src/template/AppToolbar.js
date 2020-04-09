@@ -5,7 +5,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import Toolbar from "@material-ui/core/Toolbar";
 import MenuIcon from "@material-ui/icons/Menu";
 import React, { useContext } from "react";
-import { useLocation } from "react-router-dom";
 import { DrawerContext } from "src/template/AppDrawer";
 import logo from "src/assets/logo.png";
 import { signOut } from "src/firebase/FirebaseProvider";
@@ -22,8 +21,7 @@ const useStyles = makeStyles((theme) => ({
 
 const AppToolbar = () => {
   const classes = useStyles();
-  const location = useLocation();
-  const { loading, publicInfo, authenticated } = useContext(UserContext);
+  const { authenticated } = useContext(UserContext);
   const { toggleDrawer } = useContext(DrawerContext);
 
   if (!authenticated) return null;
@@ -40,7 +38,12 @@ const AppToolbar = () => {
           >
             <MenuIcon style={{ fontSize: "35px" }} />
           </IconButton>
-          <img src={logo} height="35px" style={{ marginRight: "10px" }} />
+          <img
+            src={logo}
+            height="35px"
+            style={{ marginRight: "10px" }}
+            alt="Logo"
+          />
           <div
             style={{
               flexGrow: 1,

@@ -17,7 +17,7 @@ const defaultTheme = createMuiTheme({
 const ThemeContext = React.createContext(defaultTheme);
 
 const ThemeProvider = ({ children }) => {
-  const [theme, setTheme] = useState(defaultTheme);
+  const [theme] = useState(defaultTheme);
 
   return (
     <ThemeContext.Provider value={{ theme }}>

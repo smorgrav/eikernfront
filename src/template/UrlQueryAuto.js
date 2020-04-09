@@ -5,19 +5,23 @@ import { parse, stringify } from "query-string";
 import React from "react";
 import { useHistory, useLocation } from "react-router-dom";
 
-const UrlQueryAuto = ({ autoOptions = [], label = "", placeholder = "" }) => {
+const UrlQueryAuto = ({
+  autoOptions = () => [],
+  label = "",
+  placeholder = "",
+}) => {
   const location = useLocation();
   const history = useHistory();
 
   const originalQuery = parse(location.search, { arrayFormat: "comma" });
-  const searchQuery = Array.isArray(originalQuery.search)
-    ? originalQuery.search
-    : originalQuery.search
-    ? [originalQuery.search]
+  const searchQuery = Array.isArray(originalQuery.filter)
+    ? originalQuery.filter
+    : originalQuery.filter
+    ? [originalQuery.filter]
     : [];
 
   const pushNewQuery = (autoValues) => {
-    const newQuery = Object.assign(originalQuery, { search: autoValues });
+    const newQuery = Object.assign(originalQuery, { filter: autoValues });
     const newQueryStringify =
       "?" + stringify(newQuery, { arrayFormat: "comma" });
     history.push(newQueryStringify);
@@ -28,7 +32,7 @@ const UrlQueryAuto = ({ autoOptions = [], label = "", placeholder = "" }) => {
       <Autocomplete
         multiple
         id="tags-filled"
-        options={autoOptions}
+        options={autoOptions()}
         value={searchQuery}
         onChange={(event, autoValues) => {
           pushNewQuery(autoValues);

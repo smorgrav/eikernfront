@@ -3,7 +3,7 @@ import { useState } from "react";
 
 const useBingo = (timeout) => {
   const [bingo, setBingo] = useState(false);
-  const [tileList, setTileList] = useState([]);
+  const [, setTileList] = useState([]);
 
   const checkTile = (tile) => {
     if (bingo) return;

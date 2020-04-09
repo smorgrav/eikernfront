@@ -5,20 +5,18 @@ import React from "react";
 import { useLocation } from "react-router-dom";
 import { QueryComp } from "src/pages/QueryComp";
 import { UrlQueryAuto } from "../template/UrlQueryAuto";
+import { autoComplete } from "../template/autoComplete";
 
 const LandingPage = () => {
   const location = useLocation();
 
   const originalQuery = parse(location.search, { arrayFormat: "comma" });
-  const searchQuery = Array.isArray(originalQuery.search)
-    ? originalQuery.search
-    : originalQuery.search
-    ? [originalQuery.search]
+
+  const filters = Array.isArray(originalQuery.filter)
+    ? originalQuery.filter
+    : originalQuery.filter
+    ? [originalQuery.filter]
     : [];
-
-  const plantetype = searchQuery[0];
-
-  console.log(plantetype);
 
   return (
     <>
@@ -31,12 +29,9 @@ const LandingPage = () => {
         }}
       >
         <Box mt="1em" />
-        <UrlQueryAuto autoOptions={["Hard rock", "Jazz"]} />
+        <UrlQueryAuto autoOptions={() => autoComplete(filters)} />
         <Box mt="1em" />
-        <QueryComp
-          plantetype={plantetype}
-          key={`query${plantetype || "notype"}nogruppe`}
-        />
+        <QueryComp collection="plants" key={location.search} />
       </Container>
     </>
   );
