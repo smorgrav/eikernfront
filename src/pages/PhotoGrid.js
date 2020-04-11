@@ -6,7 +6,6 @@ import { makeStyles } from "@material-ui/core/styles";
 import InfoIcon from "@material-ui/icons/Info";
 import React, { useContext } from "react";
 import { FirebaseContext } from "src/firebase/FirebaseProvider";
-import unorm from "unorm";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -32,57 +31,6 @@ const selectPhoto = (plant) => {
     return photoWithUrl[0];
   }
   return photos[0] || {};
-};
-
-const reconnectPromise = (items, photo) => {
-  return new Promise((resolve, reject) => {
-    console.log("Finding match for ", photo.link);
-    const match = items.filter((item) => {
-      return unorm.nfc(item.name) === unorm.nfc(photo.link);
-    });
-
-    if (match.length === 1) {
-      console.log("Found ", match[0]);
-      match[0]
-        .getDownloadURL()
-        .then((url) => {
-          photo.url = url;
-        })
-        .finally(() => resolve());
-    } else {
-      console.log("Could not find for ", photo.link);
-      console.log("MAtches ", match.length);
-      resolve();
-    }
-  });
-};
-
-const reconnectPhoto = (plant, storage, firestore) => {
-  if (!plant.photos) {
-    console.log("No photos to reconnect");
-  }
-
-  storage
-    .ref("photos")
-    .listAll()
-    .then((result) => {
-      const { items } = result;
-      const promises = [];
-      plant.photos.forEach((photo) => {
-        promises.push(reconnectPromise(items, photo));
-      });
-      console.log("Got ", promises.length);
-      Promise.all(promises).then(() => {
-        console.log("All resoved ");
-        firestore
-          .collection("plants")
-          .doc(`${plant.plante}`)
-          .update({
-            photos: plant.photos,
-          })
-          .then(() => console.log("FIrestore udpated"));
-      });
-    });
 };
 
 const PhotoGrid = ({ plants }) => {
@@ -135,11 +83,6 @@ const PhotoGrid = ({ plants }) => {
                 <IconButton
                   aria-label={`info about ${plant.header}`}
                   className={classes.icon}
-                  onClick={() =>
-                    missingUrls.forEach((pl) => {
-                      reconnectPhoto(pl, storage, firestore);
-                    })
-                  }
                 >
                   <InfoIcon />
                 </IconButton>
