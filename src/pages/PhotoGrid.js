@@ -4,8 +4,6 @@ import GridListTileBar from "@material-ui/core/GridListTileBar";
 import IconButton from "@material-ui/core/IconButton";
 import { makeStyles } from "@material-ui/core/styles";
 import InfoIcon from "@material-ui/icons/Info";
-import React, { useContext } from "react";
-import { FirebaseContext } from "src/firebase/FirebaseProvider";
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -34,7 +32,6 @@ const selectPhoto = (plant) => {
 };
 
 const PhotoGrid = ({ plants }) => {
-  const { storage, firestore } = useContext(FirebaseContext);
   const classes = useStyles();
 
   const noPhotos = plants.filter((plant) => plant.photos.length === 0);
