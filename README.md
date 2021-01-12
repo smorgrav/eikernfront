@@ -13,3 +13,5 @@ det det trenger å være - men lærerikt for meg.
 3. Kartvisning - iom alle observasjoner har en posisjon kunne dette vært artig
 4. Sorterings alternativer
 5. Jeg har jukset når det kommer til 'auto completion' i søkefeltet. Dette er ikke dynamisk så når vi får på nye planter vil jeg måtte bygge denne listen på en annen måte.
+
+Yeah 
